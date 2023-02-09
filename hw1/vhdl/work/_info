@@ -1,0 +1,53 @@
+m255
+K4
+z2
+13
+cModel Technology
+d/afs/cad/u/j/k/jk526/ece758/hw1
+!s112 0.1
+!i10d 8192
+!i10e 25
+!i10f 100
+T_opt
+!s110 1674508155
+Vd8WP]doo4kX746Xg;]j991
+04 10 10 work full_adder adder_flow 1
+=1-000000000000-63cef77b-6183b-14bc
+o-quiet -auto_acc_if_foreign -work work
+n@_opt
+OE;O;10.2c;57
+Efull_adder
+Z0 w1674508144
+Z1 d/afs/cad.njit.edu/u/j/k/jk526/ece758/hw1/vhdl
+Z2 8/afs/cad.njit.edu/u/j/k/jk526/ece758/hw1/vhdl/ex1.vhd
+Z3 F/afs/cad.njit.edu/u/j/k/jk526/ece758/hw1/vhdl/ex1.vhd
+l0
+L1
+VPLN3l^:>gSP1EMV7zj6JM2
+Z4 OE;C;10.2c;57
+32
+Z5 !s110 1674508144
+Z6 !s108 1674508144.714641
+Z7 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|/afs/cad.njit.edu/u/j/k/jk526/ece758/hw1/vhdl/ex1.vhd|
+Z8 !s107 /afs/cad.njit.edu/u/j/k/jk526/ece758/hw1/vhdl/ex1.vhd|
+Z9 o-work work -2002 -explicit
+Z10 tExplicit 1
+!s100 3>eG5Hoj50o6;=dC;WF7i3
+!i10b 1
+!i111 0
+Aadder_flow
+DEx4 work 10 full_adder 0 22 PLN3l^:>gSP1EMV7zj6JM2
+l6
+L5
+V<7NZWA0Ol=CgbEjKgW_j`2
+R4
+32
+R5
+R6
+R7
+R8
+R9
+R10
+!s100 c<am3:oS2RA?X]lI?QB890
+!i10b 1
+!i111 0

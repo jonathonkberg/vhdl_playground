@@ -1,0 +1,53 @@
+# Compile of prob_1.vhd was successful with warnings.
+vsim work.full_adder
+# vsim work.full_adder 
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.full_adder(adding_bolts)#1
+add wave -position insertpoint  \
+sim:/full_adder/A
+add wave -position insertpoint  \
+sim:/full_adder/A
+add wave -position insertpoint  \
+sim:/full_adder/B
+add wave -position insertpoint  \
+sim:/full_adder/C
+add wave -position insertpoint  \
+sim:/full_adder/Co \
+sim:/full_adder/S \
+sim:/full_adder/W1 \
+sim:/full_adder/W2 \
+sim:/full_adder/W3 \
+sim:/full_adder/W4
+force a 1 100; run; force a 0 100; run; force a 1 100; force b 1 100; run; force a 0 100; force b 0 100; run; force a 1 100; force b 1 100; force c 1 100; run; force a 0 100; force b 0 100; force c 0 100; run;
+run;
+$ force a 1 10; force a 0 10; force a 1 20; force b 1 20; force a 0 30; force b 0 30; force a 1 40; force b 1 40; force c 1 40; force a 0 45; force b 0 45; force c 0 45; force a 0 50; force b 0 50; force c 0 50; force a 0 60; force b 0 60; force c 0 60; force a 0 70; force b 0 70; force c 0 70; run;
+# invalid command name "$"
+force a 1 10; force a 0 10; force a 1 20; force b 1 20; force a 0 30; force b 0 30; force a 1 40; force b 1 40; force c 1 40; force a 0 45; force b 0 45; force c 0 45; force a 0 50; force b 0 50; force c 0 50; force a 0 60; force b 0 60; force c 0 60; force a 0 70; force b 0 70; force c 0 70; run;
+# Causality operation skipped due to absence of debug database file
+force a 1 10; force a 0 20; force a 1 30; force b 1 30; force a 0 40; force b 0 40; force a 1 50; force b 1 50; force c 1 50; force a 0 55; force b 0 55; force c 0 55; force a 0 60; force b 0 60; force c 0 60; force a 0 70; force b 0 70; force c 0 70; force a 0 80; force b 0 80; force c 0 80; run;
+force a 1 10; force a 0 20; force a 1 30; force b 1 30; force a 0 40; force b 0 40; force a 1 50; force b 1 50; force c 1 50; force a 0 55; force b 0 55; force c 0 55; force a 0 60; force b 0 60; force c 0 60; force a 0 70; force b 0 70; force c 0 70; force a 0 80; force b 0 80; force c 0 80; run;
+# Compile of prob_1.vhd was successful with warnings.
+# Load canceled
+force a 1 10; force a 0 20; force a 1 30; force b 1 30; force a 0 40; force b 0 40; force a 1 50; force b 1 50; force c 1 50; force a 0 55; force b 0 55; force c 0 55; force a 0 60; force b 0 60; force c 0 60; force a 0 70; force b 0 70; force c 0 70; force a 0 80; force b 0 80; force c 0 80; run;
+vsim work.full_adder
+# vsim work.full_adder 
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.full_adder(adding_bolts)#1
+add wave -position insertpoint  \
+sim:/full_adder/A \
+sim:/full_adder/B \
+sim:/full_adder/C \
+sim:/full_adder/Co \
+sim:/full_adder/S \
+sim:/full_adder/W1 \
+sim:/full_adder/W2 \
+sim:/full_adder/W3 \
+sim:/full_adder/W4
+force a 1 10; force a 0 20; force a 1 30; force b 1 30; force a 0 40; force b 0 40; force a 1 50; force b 1 50; force c 1 50; force a 0 55; force b 0 55; force c 0 55; force a 0 60; force b 0 60; force c 0 60; force a 0 70; force b 0 70; force c 0 70; force a 0 80; force b 0 80; force c 0 80; run;
+quit -sim

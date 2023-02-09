@@ -1,0 +1,214 @@
+# Compile of prob_2.vhd failed with 2 errors.
+# Compile of prob_2.vhd failed with 1 errors.
+# Compile of prob_2.vhd failed with 1 errors.
+# Compile of prob_2.vhd was successful.
+vsim work.dataline
+# vsim work.dataline 
+# ** Note: (vsim-3812) Design is being optimized...
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.dataline(dataline_bolts)#1
+add wave -position insertpoint  \
+sim:/dataline/A1 \
+sim:/dataline/A0 \
+sim:/dataline/WORD0 \
+sim:/dataline/WORD1 \
+sim:/dataline/WORD2 \
+sim:/dataline/WORD3 \
+sim:/dataline/A1_N \
+sim:/dataline/A0_N
+force a0 1 100; force a0 0 200; force a1 1 300, force a1 0 400, force a0 1 500; force a1 1 500; force a0 0 600; force a1 0 600; force a0 0 600; force a1 0 600; force a0 0 600; force a1 0 600; run;
+# ** Error: (vsim-4026) Value "force" does not represent a literal of the enumeration type.
+# ** Error: (vsim-4011) Invalid force value: 1 300, force a1 0 400, force a0 1 500.
+# 
+force a0 1 100; force a0 0 200; force a1 1 300, force a1 0 400, force a0 1 500; force a1 1 500; force a0 0 600; force a1 0 600; force a0 0 600; force a1 0 600; force a0 0 600; force a1 0 600; run;
+# ** Error: (vsim-4026) Value "force" does not represent a literal of the enumeration type.
+# ** Error: (vsim-4011) Invalid force value: 1 300, force a1 0 400, force a0 1 500.
+# 
+force A0 1 100
+force A0 0 200
+run
+force A1 1 100
+force A1 0 200
+RUN
+# invalid command name "RUN"
+run
+force A0 1 100
+force A1 1 100
+force A0 0 200
+force A1 0 200
+run
+force A0 0 100
+force A1 0 100
+run
+run
+force A0 1 100; force A0 0 200; force A1 1 300, force A1 0 400, force A0 1 500; force A1 1 500; force A0 0 600; force A1 0 600; force A0 0 600; force A1 0 600; force A0 0 600; force A1 0 600; run;
+# ** Error: (vsim-4026) Value "force" does not represent a literal of the enumeration type.
+# ** Error: (vsim-4011) Invalid force value: 1 300, force A1 0 400, force A0 1 500.
+# 
+force A0 1 100; force A0 0 200; force A1 1 300; force A1 0 400; force A0 1 500; force A1 1 500; force A0 0 600; force A1 0 600; force A0 0 600; force A1 0 600; force A0 0 600; force A1 0 600; run;
+force A0 1 100; force A0 0 200; force A1 1 300; force A1 0 400; force A0 1 500; force A1 1 500; force A0 0 600; force A1 0 600; force A0 0 600; force A1 0 600; force A0 0 600; force A1 0 600; run;
+force A0 1 100; force A0 0 200; force A1 1 300; force A1 0 400; force A0 1 500; force A1 1 500; force A0 0 600; force A1 0 600; force A0 0 600; force A1 0 600; force A0 0 600; force A1 0 600; run;
+force A0 1 100; force A0 0 200; force A1 1 300; force A1 0 400; force A0 1 500; force A1 1 500; force A0 0 600; force A1 0 600; force A0 0 600; force A1 0 600; force A0 0 600; force A1 0 600; run;
+force A0 1 100; force A0 0 200; force A1 1 300; force A1 0 400; force A0 1 500; force A1 1 500; force A0 0 600; force A1 0 600; force A0 0 600; force A1 0 600; force A0 0 600; force A1 0 600; run;
+force A0 1 100; force A0 0 200; force A1 1 300; force A1 0 400; force A0 1 500; force A1 1 500; force A0 0 600; force A1 0 600; force A0 0 600; force A1 0 600; force A0 0 600; force A1 0 600; run;
+force A0 1 100; force A0 0 200; force A1 1 300; force A1 0 400; force A0 1 500; force A1 1 500; force A0 0 600; force A1 0 600; force A0 0 600; force A1 0 600; force A0 0 600; force A1 0 600; run;
+force A0 1 100; force A0 0 200; force A1 1 300; force A1 0 400; force A0 1 500; force A1 1 500; force A0 0 600; force A1 0 600; force A0 0 600; force A1 0 600; force A0 0 600; force A1 0 600; run;
+force A0 1 100; force A0 0 200; force A1 1 300; force A1 0 400; force A0 1 500; force A1 1 500; force A0 0 600; force A1 0 600; force A0 0 600; force A1 0 600; force A0 0 600; force A1 0 600; run;
+force A0 1 100; force A0 0 200; force A1 1 300; force A1 0 400; force A0 1 500; force A1 1 500; force A0 0 600; force A1 0 600; force A0 0 600; force A1 0 600; force A0 0 600; force A1 0 600; run;
+force A0 1 100; force A0 0 200; force A1 1 300; force A1 0 400; force A0 1 500; force A1 1 500; force A0 0 600; force A1 0 600; force A0 0 600; force A1 0 600; force A0 0 600; force A1 0 600; run;
+force A0 1 100; force A0 0 200; force A1 1 300; force A1 0 400; force A0 1 500; force A1 1 500; force A0 0 600; force A1 0 600; force A0 0 600; force A1 0 600; force A0 0 600; force A1 0 600; run;
+force A0 1 100; force A0 0 200; force A1 1 300; force A1 0 400; force A0 1 500; force A1 1 500; force A0 0 600; force A1 0 600; force A0 0 600; force A1 0 600; force A0 0 600; force A1 0 600; run;
+# Causality operation skipped due to absence of debug database file
+exit -sim
+# Load canceled
+# Load canceled
+# Load canceled
+# Compile of prob_2.vhd was successful.
+# Load canceled
+vsim -voptargs=+acc work.dataline
+# vsim -voptargs=+acc work.dataline 
+# ** Note: (vsim-3812) Design is being optimized...
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.dataline(dataline_bolts)#1
+add wave -position insertpoint  \
+sim:/dataline/A1 \
+sim:/dataline/A0 \
+sim:/dataline/WORD0 \
+sim:/dataline/WORD1 \
+sim:/dataline/WORD2 \
+sim:/dataline/WORD3 \
+sim:/dataline/A1_N \
+sim:/dataline/A1_NN \
+sim:/dataline/A0_N \
+sim:/dataline/A0_NN
+force A0 1 100; force A0 0 200; force A1 1 300; force A1 0 400; force A0 1 500; force A1 1 500; force A0 0 600; force A1 0 600; force A0 0 600; force A1 0 600; force A0 0 600; force A1 0 600; run;
+run
+run
+run
+run
+run
+run
+run
+exit -sim
+# reading /afs/cad/sw.common/mentor.2012/modelsim
+# Loading project prob2b
+# Compile of prob_2b.vhd was successful.
+vsim -voptargs=+acc work.comb_b
+# vsim -voptargs=+acc work.comb_b 
+# ** Note: (vsim-3812) Design is being optimized...
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.comb_b(bbolts)#1
+add wave -position insertpoint  \
+sim:/comb_b/A \
+sim:/comb_b/B \
+sim:/comb_b/G \
+sim:/comb_b/P \
+sim:/comb_b/W \
+sim:/comb_b/GN \
+sim:/comb_b/PN
+force A 1 100; force A 0 200; force B 1 300; force B 0 400; force A 1 500; force B 1 500; force A 0 600; force B 0 600; force A 0 600; force B 0 600; force A 0 600; force B 0 600; run;
+run
+run
+run
+run
+run
+run
+run
+exit -sim
+# reading /afs/cad/sw.common/mentor.2012/modelsim
+# Loading project prob3
+# Compile of prob_3.vhd was successful.
+vsim -voptargs=+acc work.tollbooth
+# vsim -voptargs=+acc work.tollbooth 
+# ** Note: (vsim-3812) Design is being optimized...
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.tollbooth(tollbolts)#1
+add wave -position insertpoint  \
+sim:/tollbooth/S1 \
+sim:/tollbooth/S0 \
+sim:/tollbooth/C \
+sim:/tollbooth/P \
+sim:/tollbooth/L
+sim:/tollbooth/S1
+# invalid command name "sim:/tollbooth/S1"
+sim:/tollbooth/S0
+# invalid command name "sim:/tollbooth/S0"
+sim:/tollbooth/C
+# invalid command name "sim:/tollbooth/C"
+s
+# ambiguous command name "s": sbrk sc_cpp_option_incdir sc_cpp_option_macro sc_cpp_option_macro_ok sc_fill_optimize_list sc_select_file sc_set_traces scale scaleTime scan sccom sccom_capture scgenmod scope scrollbar sdfcom search searchlog see seek seetime selection send send_and_receive sequence_image set setArrayAttributes setCoverageCutoff setFullDesignInfo setLanguage setMTIArrayProperty setMTIProperty setPartialDesignInfo setStructBackground setStructForeground setStructGeometry setStructSelectBackground setStructSelectForeground setTimeFlags setVSIMClient set_vsim_state set_window_namespace set_windowobj_namespace setenv settings0 shift show showAssertion showFCover showMessage siginterror signals_subelement_split sim_image slave_mode sm smodule_image socket source source_examine_popup source_highlight_errors source_select_all spice_du_image spinbox split splitio sqlite sqlite3 stCopy stCut stDelete stPaste stack startIndProgressBar status statusIntHandler step stimulus_image stop stopIndProgressBar stop_image string strncmp structure_binding structure_changed_trigger structure_clear_triggers structure_click_env structure_context_trigger structure_dataset_close structure_destroy structure_image structure_is_follow structure_new_root_dialog structure_restart structure_restart_context structure_restart_prep structure_set_root structure_set_selection structure_set_triggers structure_update_procs_after_run student_edition subTime subst suppress sva_cover_image sva_coverbin_image swapSeparators swap_cr_to_pad swap_pad_to_cr swap_pad_to_space switch sync_encoding systemc_image systemcdu_image systemclib_image
+force S0 0 100; force S1 0 100; force C 0 100; force P 0 100; force C 1 200; force P 1 300; force C 0 400; force P 0 500; run 600;
+exit -sim
+vsim -voptargs=+acc work.tollbooth
+# vsim -voptargs=+acc work.tollbooth 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.tollbooth(tollbolts)#1
+force C 0 100; force P 0 100; force C 1 200; force P 1 300; force C 0 400; force P 0 500; run 600;
+add wave -position insertpoint  \
+sim:/tollbooth/S1 \
+sim:/tollbooth/S0 \
+sim:/tollbooth/C \
+sim:/tollbooth/P \
+sim:/tollbooth/L
+force C 0 100; force P 0 100; force C 1 200; force P 1 300; force C 0 400; force P 0 500; run 600;
+exit -sim
+# Compile of prob_3.vhd failed with 3 errors.
+# Compile of prob_3.vhd failed with 3 errors.
+# Compile of prob_3.vhd failed with 3 errors.
+# Compile of prob_3.vhd failed with 3 errors.
+# Compile of prob_3.vhd failed with 3 errors.
+# Compile of prob_3.vhd was successful.
+# Compile of prob_3.vhd failed with 3 errors.
+# Compile of prob_3.vhd failed with 3 errors.
+# Compile of prob_3.vhd failed with 3 errors.
+# Compile of prob_3.vhd failed with 3 errors.
+# Compile of prob_3.vhd was successful.
+vsim -voptargs=+acc work.tollbooth
+# vsim -voptargs=+acc work.tollbooth 
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.tollbooth(tollbolts)#1
+add wave -position insertpoint  \
+sim:/tollbooth/C \
+sim:/tollbooth/P \
+sim:/tollbooth/CLK \
+sim:/tollbooth/L \
+sim:/tollbooth/S1 \
+sim:/tollbooth/S0 \
+sim:/tollbooth/N1 \
+sim:/tollbooth/N0
+force CLK 0 0, 1 10 -freeze -repeat 20; force C 0 100; force P 0 100; force C 1 200; force P 1 300; force C 0 400; force P 0 500; run 600;
+# ** Error: (vsim-3601) Iteration limit reached at time 310 ns.
+exit -sim
+# Compile of prob_3.vhd was successful.
+vsim -voptargs=+acc work.tollbooth
+# vsim -voptargs=+acc work.tollbooth 
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.tollbooth(tollbolts)#1
+force C 0 100; force P 0 100; force C 1 200; force P 1 300; force C 0 400; force P 0 500; run 600;
+add wave -position insertpoint  \
+sim:/tollbooth/C \
+sim:/tollbooth/P \
+sim:/tollbooth/L \
+sim:/tollbooth/S1 \
+sim:/tollbooth/S0 \
+sim:/tollbooth/N1 \
+sim:/tollbooth/N0
+force C 0 100; force P 0 100; force C 1 200; force P 1 300; force C 0 400; force P 0 500; run 600;
+force C 0 100; force P 0 100; force C 1 200; force P 1 300; force C 0 400; force P 0 500; run 600;
+exit -sim

@@ -1,0 +1,15 @@
+/afs/cad.njit.edu/u/j/k/jk526/ece758/hw2/prob_1/vhdl/prob_1.vhd {2 {vcom -work work -2002 -explicit -vopt /afs/cad.njit.edu/u/j/k/jk526/ece758/hw2/prob_1/vhdl/prob_1.vhd
+Model Technology ModelSim SE vcom 10.2c Compiler 2013.07 Jul 18 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity full_adder
+-- Compiling architecture adding_bolts of full_adder
+** Warning: [4] /afs/cad.njit.edu/u/j/k/jk526/ece758/hw2/prob_1/vhdl/prob_1.vhd(11): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] /afs/cad.njit.edu/u/j/k/jk526/ece758/hw2/prob_1/vhdl/prob_1.vhd(12): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] /afs/cad.njit.edu/u/j/k/jk526/ece758/hw2/prob_1/vhdl/prob_1.vhd(13): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] /afs/cad.njit.edu/u/j/k/jk526/ece758/hw2/prob_1/vhdl/prob_1.vhd(14): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] /afs/cad.njit.edu/u/j/k/jk526/ece758/hw2/prob_1/vhdl/prob_1.vhd(15): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] /afs/cad.njit.edu/u/j/k/jk526/ece758/hw2/prob_1/vhdl/prob_1.vhd(16): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}}

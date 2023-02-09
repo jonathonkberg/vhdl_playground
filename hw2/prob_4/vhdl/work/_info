@@ -1,0 +1,57 @@
+m255
+K4
+z2
+13
+cModel Technology
+d/afs/cad.njit.edu/u/j/k/jk526/ece758/hw2/prob_1/vhdl
+!s112 0.1
+!i10d 8192
+!i10e 25
+!i10f 100
+T_opt
+!s110 1675303257
+VXfU]8M?H@1;U`Y`md3HkS3
+04 10 14 work full_adder adding_bolts_2 1
+=1-000000000000-63db1959-195f0-d8c
+o-quiet -auto_acc_if_foreign -work work
+n@_opt
+OE;O;10.2c;57
+Efull_adder
+Z0 w1675143176
+Z1 DPx3 std 6 textio 0 22 Y8d?=bLj9m4jiPLbo;>GT0
+Z2 DPx4 ieee 14 std_logic_1164 0 22 1bm?@Gd;P>[>_lN8Do9gP3
+Z3 d/afs/cad.njit.edu/u/j/k/jk526/ece758/hw2/prob_4/vhdl
+Z4 8/afs/cad.njit.edu/u/j/k/jk526/ece758/hw2/prob_4/vhdl/prob_4.vhd
+Z5 F/afs/cad.njit.edu/u/j/k/jk526/ece758/hw2/prob_4/vhdl/prob_4.vhd
+l0
+L4
+VMTkHLLd2YHobE:F9GI`@m2
+Z6 OE;C;10.2c;57
+32
+Z7 !s110 1675303226
+Z8 !s108 1675303226.764945
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|/afs/cad.njit.edu/u/j/k/jk526/ece758/hw2/prob_4/vhdl/prob_4.vhd|
+Z10 !s107 /afs/cad.njit.edu/u/j/k/jk526/ece758/hw2/prob_4/vhdl/prob_4.vhd|
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1
+!s100 5bQH9ih7Oflj_7VDU=Qco1
+!i10b 1
+!i111 0
+Aadding_bolts_2
+R1
+R2
+DEx4 work 10 full_adder 0 22 MTkHLLd2YHobE:F9GI`@m2
+l10
+L8
+VN4C>=M29RLT1N:N;A`Go61
+R6
+32
+R7
+R8
+R9
+R10
+R11
+R12
+!s100 bf]Z[d@MACEZ8@OSizNiA2
+!i10b 1
+!i111 0

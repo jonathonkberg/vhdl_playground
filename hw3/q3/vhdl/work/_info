@@ -1,0 +1,57 @@
+m255
+K4
+z2
+13
+cModel Technology
+d/afs/cad.njit.edu/u/j/k/jk526/ece758/hw2/prob_3/vhdl
+!s112 0.1
+!i10d 8192
+!i10e 25
+!i10f 100
+T_opt
+!s110 1675751405
+V8f@gVR?<PAIKoiV]z>8iY3
+04 8 5 work full_add logic 1
+=1-000000000000-63e1efec-75361-76d2
+o-quiet -auto_acc_if_foreign -work work
+n@_opt
+OE;O;10.2c;57
+Efull_add
+Z0 w1675751354
+Z1 DPx3 std 6 textio 0 22 Y8d?=bLj9m4jiPLbo;>GT0
+Z2 DPx4 ieee 14 std_logic_1164 0 22 1bm?@Gd;P>[>_lN8Do9gP3
+Z3 d/afs/cad.njit.edu/u/j/k/jk526/ece758/hw3/q3/vhdl
+Z4 8/afs/cad.njit.edu/u/j/k/jk526/ece758/hw3/q3/vhdl/prob3.vhd
+Z5 F/afs/cad.njit.edu/u/j/k/jk526/ece758/hw3/q3/vhdl/prob3.vhd
+l0
+L4
+VRb[JGGRT_5c;1K1zHo4Rc1
+Z6 OE;C;10.2c;57
+32
+Z7 !s110 1675751360
+Z8 !s108 1675751360.215447
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|/afs/cad.njit.edu/u/j/k/jk526/ece758/hw3/q3/vhdl/prob3.vhd|
+Z10 !s107 /afs/cad.njit.edu/u/j/k/jk526/ece758/hw3/q3/vhdl/prob3.vhd|
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1
+!s100 IJbkF>JOffc_Y6Y26Hli]2
+!i10b 1
+!i111 0
+Alogic
+R1
+R2
+DEx4 work 8 full_add 0 22 Rb[JGGRT_5c;1K1zHo4Rc1
+l9
+L8
+V2CaRkhn]aj8ScY>77iMON2
+R6
+32
+R7
+R8
+R9
+R10
+R11
+R12
+!s100 33N8h1@PnZhCOlMXIaM>I1
+!i10b 1
+!i111 0

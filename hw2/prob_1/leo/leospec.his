@@ -1,0 +1,10 @@
+#
+#
+# /afs/cad/sw.common/mentor.2012/leonardo_spectrum_2011a/bin/Linux/spectrum 
+# Wed Feb  1 23:04:05 2023
+set HOME {/afs/cad.njit.edu/u/j/k/jk526}
+
+set SRC {../vhdl}
+
+set edifout_power_ground_style_is_net TRUE
+
