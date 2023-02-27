@@ -1,0 +1,18 @@
+set HOME {/afs/cad.njit.edu/u/j/p/jk526}
+set SRC	{../vhdl}
+set edifout_power_ground_style_is_net TRUE
+set vhdl_write_use_packages {library ieee, adk;	use ieee.std_logic_1164.all, adk.adk_components.a
+load_library $HOME/leonardo/tsmc035_typ.........
+read -format vhdl -dont_ELABORATE $src/counter.vhd $SRC/ounter-algo-arch.vhd
+read -format vhdl -dont_elaborate $SRC/main.vhd
+elaborate -technology tsmc035_typ counters 
+elaborate counters 
+pre_optimize -common-logic -unused_logic
+optimize -target tsmc035_typ -macro -delay
+write main_syn.vhd
+write main_syn.v
+report_delay -critical_paths -show_nets
+exit
+
+
+
