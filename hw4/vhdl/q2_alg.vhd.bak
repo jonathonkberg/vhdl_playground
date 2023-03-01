@@ -5,7 +5,7 @@ use ieee.std_logic_signed.ALL;
 entity sixteen_bit_adder_alg is
     port(   input_a, input_b : in std_logic_vector(15 downto 0);
             sum : out std_logic_vector(15 downto 0));
-end sixteen_bit_adder_alg;
+end sixteen_bit_adder;
 
 architecture algorithmic of sixteen_bit_adder_alg is
 begin

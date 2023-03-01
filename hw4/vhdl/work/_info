@@ -1,0 +1,252 @@
+m255
+K4
+z2
+13
+cModel Technology
+d/afs/cad/u/j/k/jk526/ece758/vhdl_playground/hw4
+!s112 0.1
+!i10d 8192
+!i10e 25
+!i10f 100
+T_opt
+!s110 1677713981
+VGjJ>?Pf990]febFIaCA=L3
+04 14 6 work custom_circuit arch_1 1
+=1-000000000000-63ffe23d-6a0b0-46a3
+o-quiet -auto_acc_if_foreign -work work
+n@_opt
+OE;O;10.2c;57
+Ealu
+Z0 w1677712630
+Z1 DPx4 ieee 15 std_logic_arith 0 22 I`lKR?Ob>E^B_e2VdVLiQ0
+Z2 DPx4 ieee 16 std_logic_signed 0 22 8FY=586_D?ni<6VI>V>_P1
+Z3 DPx3 std 6 textio 0 22 Y8d?=bLj9m4jiPLbo;>GT0
+Z4 DPx4 ieee 14 std_logic_1164 0 22 1bm?@Gd;P>[>_lN8Do9gP3
+Z5 d/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw4/vhdl
+Z6 8/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw4/vhdl/example_forum.vhd
+Z7 F/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw4/vhdl/example_forum.vhd
+l0
+L5
+V16Y?QRCU:NfZZ>hk73;]31
+Z8 OE;C;10.2c;57
+32
+Z9 !s110 1677713685
+Z10 !s108 1677713685.039716
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw4/vhdl/example_forum.vhd|
+Z12 !s107 /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw4/vhdl/example_forum.vhd|
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1
+!s100 TS473CA6W3zoU`U@@MPac3
+!i10b 1
+!i111 0
+Abehavioral
+R1
+R2
+R3
+R4
+DEx4 work 3 alu 0 22 16Y?QRCU:NfZZ>hk73;]31
+l16
+L14
+VW>zkX@NZmbeS=4eSeTYN;3
+R8
+32
+R9
+R10
+R11
+R12
+R13
+R14
+!s100 3=C]O:?1d]_;[FCz;I6an3
+!i10b 1
+!i111 0
+Ecustom_circuit
+Z15 w1677711704
+R3
+R4
+R5
+Z16 8/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw4/vhdl/custom_circuit.vhd
+Z17 F/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw4/vhdl/custom_circuit.vhd
+l0
+L4
+V0@aGmH305>0o[F?olV]@21
+R8
+32
+Z18 !s110 1677713945
+Z19 !s108 1677713945.789170
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw4/vhdl/custom_circuit.vhd|
+Z21 !s107 /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw4/vhdl/custom_circuit.vhd|
+R13
+R14
+!s100 =Tjglj<6Nm9WLC>B4;32K2
+!i10b 1
+!i111 0
+Aarch_1
+R3
+R4
+DEx4 work 14 custom_circuit 0 22 0@aGmH305>0o[F?olV]@21
+l10
+L8
+Vg:V33HfD_f2Wlez?iG7Zm2
+R8
+32
+R18
+R19
+R20
+R21
+R13
+R14
+!s100 cng3O`f]bIb9FEDk:jCn>2
+!i10b 1
+!i111 0
+Esixteen_bit_adder
+Z22 w1677713550
+R1
+R2
+R3
+R4
+R5
+Z23 8/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw4/vhdl/q2_df.vhd
+Z24 F/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw4/vhdl/q2_df.vhd
+l0
+L5
+VgTHABQ7g4LT^JOQznIiXN1
+R8
+32
+Z25 !s110 1677713684
+Z26 !s108 1677713684.702760
+Z27 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw4/vhdl/q2_df.vhd|
+Z28 !s107 /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw4/vhdl/q2_df.vhd|
+R13
+R14
+!s100 jT5gh3neKT[ML@Ei5YXW<2
+!i10b 1
+!i111 0
+Adataflow
+R1
+R2
+R3
+R4
+DEx4 work 17 sixteen_bit_adder 0 22 gTHABQ7g4LT^JOQznIiXN1
+l11
+L10
+Vje>ezf@P`Vh2EgdOmX4:e2
+R8
+32
+R25
+R26
+R27
+R28
+R13
+R14
+!s100 IO>J`]@Jj=E]b6aYM0nNg2
+!i10b 1
+!i111 0
+Aalgorithmic
+R1
+R2
+R3
+R4
+DEx4 work 17 sixteen_bit_adder 0 22 V:[3>D]4gd6nQhc26]:ED1
+l11
+L10
+VcRKBFM`3]LhZFCjUL9<h[0
+R8
+32
+R25
+R13
+R14
+Z29 F/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw4/vhdl/q2_alg.vhd
+w1677713679
+Z30 8/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw4/vhdl/q2_alg.vhd
+Z31 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw4/vhdl/q2_alg.vhd|
+Z32 !s107 /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw4/vhdl/q2_alg.vhd|
+!s108 1677713684.523803
+!s100 Vocfjmh011omRHH;V=KG`2
+!i10b 1
+!i111 0
+Esixteen_bit_adder_alg
+Z33 w1677713938
+R1
+R2
+R3
+R4
+R5
+R30
+R29
+l0
+L5
+Vi_;MkjnkH4S9C^b<MCNCV3
+R8
+32
+R18
+Z34 !s108 1677713945.960648
+R31
+R32
+R13
+R14
+!s100 hbbIili5gdb@]eeFo3mJ<1
+!i10b 1
+!i111 0
+Aalgorithmic
+R1
+R2
+R3
+R4
+DEx4 work 21 sixteen_bit_adder_alg 0 22 i_;MkjnkH4S9C^b<MCNCV3
+l11
+L10
+Vh^PKk3keC:i6aT]RTDajK0
+R8
+32
+R18
+R34
+R31
+R32
+R13
+R14
+!s100 `=O28H60[BzL[WbVVlI8Y0
+!i10b 1
+!i111 0
+Esixteen_bit_adder_df
+Z35 w1677713941
+R1
+R2
+R3
+R4
+R5
+R23
+R24
+l0
+L5
+VoW9TTQK<3bJ6WB735BNC?1
+R8
+32
+Z36 !s110 1677713946
+Z37 !s108 1677713946.095627
+R27
+R28
+R13
+R14
+!s100 T=lUATO<@IKO;b2e7C:ji1
+!i10b 1
+!i111 0
+Adataflow
+R1
+R2
+R3
+R4
+DEx4 work 20 sixteen_bit_adder_df 0 22 oW9TTQK<3bJ6WB735BNC?1
+l11
+L10
+V]EkeH5S^8gkN`b[P1g03G2
+R8
+32
+R36
+R37
+R27
+R28
+R13
+R14
+!s100 JUo@flRg5PdAcD^6XI4DA1
+!i10b 1
+!i111 0
