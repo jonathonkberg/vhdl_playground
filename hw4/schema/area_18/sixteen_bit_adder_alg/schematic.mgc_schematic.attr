@@ -1,0 +1,10 @@
+A 5 u mgc_schematic 640021d28261.03.80.eb.2c.48.00.43.94 2 2 1 0
+V v 1 1 640021d28261.03.80.eb.2c.48.01.43.94
+F o 0 ""
+V v 2 1 640021d2b1f2.03.80.eb.2c.48.00.43.94
+F o 0 ""
+O 2
+R cspuv 0 "$HOME/ece758/vhdl_playground/hw4/schema/area_18/sixteen_bit_adder_alg/schematic/sheet1" 1 mgc_sheet 640021d285cd.03.80.eb.2c.48.01.43.94 640021d285cd.03.80.eb.2c.48.00.43.94
+O 1
+R cspuv 0 "$HOME/ece758/vhdl_playground/hw4/schema/area_18/sixteen_bit_adder_alg/schematic/sheet1" 1 mgc_sheet 640021d285cd.03.80.eb.2c.48.01.43.94 640021d285cd.03.80.eb.2c.48.00.43.94
+P "eddm__refer_state" "eddm__refer_floating"

@@ -26,7 +26,7 @@ Info: setting encoding to auto
 Info, Command 'load_library' finished successfully
 -- Reading file /afs/cad/sw.common/mentor.2012/leonardo_spectrum_2011a/data/standard.vhd for unit standard
 -- Loading package standard into library std
--- Reading vhdl file /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw4/leo/../vhdl/q2_alg.vhd into library work
+-- Reading vhdl file /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw4/leo/../vhdl/q2_df.vhd into library work
 -- Reading file /afs/cad/sw.common/mentor.2012/leonardo_spectrum_2011a/data/std_1164.vhd for unit std_logic_1164
 -- Loading package std_logic_1164 into library ieee
 -- Searching for SYNOPSYS package std_logic_signed..
@@ -35,25 +35,27 @@ Info, Command 'load_library' finished successfully
 -- Reading file /afs/cad/sw.common/mentor.2012/leonardo_spectrum_2011a/data/syn_arit.vhd for unit std_logic_arith
 -- Loading package std_logic_arith into library ieee
 -- Loading package STD_LOGIC_SIGNED into library ieee
--- Loading entity sixteen_bit_adder_alg into library work
--- Loading architecture algorithmic of sixteen_bit_adder_alg into library work
--- Compiling root entity sixteen_bit_adder_alg(algorithmic)
+-- Loading entity sixteen_bit_adder_df into library work
+-- Loading architecture dataflow of sixteen_bit_adder_df into library work
+-- Compiling root entity sixteen_bit_adder_df(dataflow)
 Info, Command 'elaborate' finished successfully
--- Compiling root entity sixteen_bit_adder_alg(algorithmic)
--- Info, replacing sixteen_bit_adder_alg(algorithmic)
+-- Compiling root entity sixteen_bit_adder_df(dataflow)
+-- Info, replacing sixteen_bit_adder_df(dataflow)
 Info, Command 'elaborate' finished successfully
--- Start pre-optimization for design .work.sixteen_bit_adder_alg.algorithmic
+-- Start pre-optimization for design .work.sixteen_bit_adder_df.dataflow
 Info, Command 'pre_optimize' finished successfully
 NO wire table is found
--- Optimizing netlist .work.sixteen_bit_adder_alg.algorithmic
+-- Optimizing netlist .work.sixteen_bit_adder_df.dataflow
 -- Matching combinational logic..
 -- Matching non-combinational logic..
 -- Covering..
 -- CPU Time used :   00:00 Mapping
 -- Final Design Rule Check..
 Info, Command 'optimize' finished successfully
-unknown command "script_alg_area_18.vhd"
-unknown command "script_alg_area_18.v"
+-- Writing file script_df_area_18.vhd
+Info, Command 'write' finished successfully
+-- Writing file script_df_area_18.v
+Info, Command 'write' finished successfully
 NO wire table is found
 
 
@@ -63,7 +65,7 @@ NO wire table is found
 Critical path #1, (unconstrained path)
 NAME                               GATE              ARRIVAL              LOAD
 ------------------------------------------------------------------------------
-input_b(1)/                                    0.00  0.00 dn             0.02
+input_b(14)/                                   0.00  0.00 dn             0.02
 ix102/Y                            xnor2       0.11  0.11 up             0.02
 nx101                     (net)                0.00  0.11 up   (fan)     2.00
 ix79/Y                             inv01       0.05  0.16 dn             0.01
@@ -97,8 +99,8 @@ nx188                     (net)                0.00  2.39 up   (fan)     2.00
 ix141/Y                            mux21       0.13  2.52 dn             0.02
 nx140                     (net)                0.00  2.52 dn   (fan)     1.00
 ix145/Y                            xnor2       0.06  2.59 up             0.00
-sum(15)                   (net)                0.00  2.59 up   (fan)     1.00
-sum(15)/                                       0.00  2.59 up             0.00
+sum(0)                    (net)                0.00  2.59 up   (fan)     1.00
+sum(0)/                                        0.00  2.59 up             0.00
 data arrival time                                    2.59
 
 data required time                                not specified
@@ -114,7 +116,7 @@ data arrival time                                    2.59
 Critical path #2, (unconstrained path)
 NAME                               GATE              ARRIVAL              LOAD
 ------------------------------------------------------------------------------
-input_a(1)/                                    0.00  0.00 dn             0.02
+input_a(14)/                                   0.00  0.00 dn             0.02
 ix102/Y                            xnor2       0.10  0.10 up             0.02
 nx101                     (net)                0.00  0.10 up   (fan)     2.00
 ix79/Y                             inv01       0.05  0.15 dn             0.01
@@ -148,8 +150,8 @@ nx188                     (net)                0.00  2.38 up   (fan)     2.00
 ix141/Y                            mux21       0.13  2.51 dn             0.02
 nx140                     (net)                0.00  2.51 dn   (fan)     1.00
 ix145/Y                            xnor2       0.06  2.57 up             0.00
-sum(15)                   (net)                0.00  2.57 up   (fan)     1.00
-sum(15)/                                       0.00  2.57 up             0.00
+sum(0)                    (net)                0.00  2.57 up   (fan)     1.00
+sum(0)/                                        0.00  2.57 up             0.00
 data arrival time                                    2.57
 
 data required time                                not specified
@@ -165,7 +167,7 @@ data arrival time                                    2.57
 Critical path #3, (unconstrained path)
 NAME                               GATE              ARRIVAL              LOAD
 ------------------------------------------------------------------------------
-input_b(1)/                                    0.00  0.00 dn             0.02
+input_b(14)/                                   0.00  0.00 dn             0.02
 ix102/Y                            xnor2       0.11  0.11 up             0.02
 nx101                     (net)                0.00  0.11 up   (fan)     2.00
 ix79/Y                             inv01       0.05  0.16 dn             0.01
@@ -197,8 +199,8 @@ nx132                     (net)                0.00  2.21 dn   (fan)     2.00
 ix189/Y                            mux21       0.18  2.39 up             0.03
 nx188                     (net)                0.00  2.39 up   (fan)     2.00
 ix147/Y                            xor2        0.15  2.55 dn             0.00
-sum(14)                   (net)                0.00  2.55 dn   (fan)     1.00
-sum(14)/                                       0.00  2.55 dn             0.00
+sum(1)                    (net)                0.00  2.55 dn   (fan)     1.00
+sum(1)/                                        0.00  2.55 dn             0.00
 data arrival time                                    2.55
 
 data required time                                not specified
@@ -214,7 +216,7 @@ data arrival time                                    2.55
 Critical path #4, (unconstrained path)
 NAME                               GATE              ARRIVAL              LOAD
 ------------------------------------------------------------------------------
-input_a(1)/                                    0.00  0.00 dn             0.02
+input_a(14)/                                   0.00  0.00 dn             0.02
 ix102/Y                            xnor2       0.10  0.10 up             0.02
 nx101                     (net)                0.00  0.10 up   (fan)     2.00
 ix79/Y                             inv01       0.05  0.15 dn             0.01
@@ -246,8 +248,8 @@ nx132                     (net)                0.00  2.20 dn   (fan)     2.00
 ix189/Y                            mux21       0.18  2.38 up             0.03
 nx188                     (net)                0.00  2.38 up   (fan)     2.00
 ix147/Y                            xor2        0.15  2.53 dn             0.00
-sum(14)                   (net)                0.00  2.53 dn   (fan)     1.00
-sum(14)/                                       0.00  2.53 dn             0.00
+sum(1)                    (net)                0.00  2.53 dn   (fan)     1.00
+sum(1)/                                        0.00  2.53 dn             0.00
 data arrival time                                    2.53
 
 data required time                                not specified
@@ -263,7 +265,7 @@ data arrival time                                    2.53
 Critical path #5, (unconstrained path)
 NAME                               GATE              ARRIVAL              LOAD
 ------------------------------------------------------------------------------
-input_a(0)/                                    0.00  0.00 dn             0.03
+input_a(15)/                                   0.00  0.00 dn             0.03
 ix106/Y                            aoi32       0.18  0.18 up             0.03
 nx105                     (net)                0.00  0.18 up   (fan)     2.00
 ix93/Y                             mux21       0.16  0.34 dn             0.03
@@ -293,8 +295,8 @@ nx188                     (net)                0.00  2.20 up   (fan)     2.00
 ix141/Y                            mux21       0.13  2.33 dn             0.02
 nx140                     (net)                0.00  2.33 dn   (fan)     1.00
 ix145/Y                            xnor2       0.06  2.40 up             0.00
-sum(15)                   (net)                0.00  2.40 up   (fan)     1.00
-sum(15)/                                       0.00  2.40 up             0.00
+sum(0)                    (net)                0.00  2.40 up   (fan)     1.00
+sum(0)/                                        0.00  2.40 up             0.00
 data arrival time                                    2.40
 
 data required time                                not specified
@@ -310,7 +312,7 @@ data arrival time                                    2.40
 Critical path #6, (unconstrained path)
 NAME                               GATE              ARRIVAL              LOAD
 ------------------------------------------------------------------------------
-input_b(0)/                                    0.00  0.00 dn             0.03
+input_b(15)/                                   0.00  0.00 dn             0.03
 ix106/Y                            aoi32       0.16  0.16 up             0.03
 nx105                     (net)                0.00  0.16 up   (fan)     2.00
 ix93/Y                             mux21       0.16  0.32 dn             0.03
@@ -340,8 +342,8 @@ nx188                     (net)                0.00  2.19 up   (fan)     2.00
 ix141/Y                            mux21       0.13  2.32 dn             0.02
 nx140                     (net)                0.00  2.32 dn   (fan)     1.00
 ix145/Y                            xnor2       0.06  2.38 up             0.00
-sum(15)                   (net)                0.00  2.38 up   (fan)     1.00
-sum(15)/                                       0.00  2.38 up             0.00
+sum(0)                    (net)                0.00  2.38 up   (fan)     1.00
+sum(0)/                                        0.00  2.38 up             0.00
 data arrival time                                    2.38
 
 data required time                                not specified
@@ -357,7 +359,7 @@ data arrival time                                    2.38
 Critical path #7, (unconstrained path)
 NAME                               GATE              ARRIVAL              LOAD
 ------------------------------------------------------------------------------
-input_b(2)/                                    0.00  0.00 up             0.02
+input_b(13)/                                   0.00  0.00 up             0.02
 ix110/Y                            xnor2       0.12  0.12 dn             0.03
 nx109                     (net)                0.00  0.12 dn   (fan)     2.00
 ix93/Y                             mux21       0.13  0.26 dn             0.03
@@ -387,8 +389,8 @@ nx188                     (net)                0.00  2.13 up   (fan)     2.00
 ix141/Y                            mux21       0.13  2.25 dn             0.02
 nx140                     (net)                0.00  2.25 dn   (fan)     1.00
 ix145/Y                            xnor2       0.06  2.32 up             0.00
-sum(15)                   (net)                0.00  2.32 up   (fan)     1.00
-sum(15)/                                       0.00  2.32 up             0.00
+sum(0)                    (net)                0.00  2.32 up   (fan)     1.00
+sum(0)/                                        0.00  2.32 up             0.00
 data arrival time                                    2.38
 
 data required time                                not specified
@@ -404,7 +406,7 @@ data arrival time                                    2.38
 Critical path #8, (unconstrained path)
 NAME                               GATE              ARRIVAL              LOAD
 ------------------------------------------------------------------------------
-input_a(2)/                                    0.00  0.00 up             0.02
+input_a(13)/                                   0.00  0.00 up             0.02
 ix110/Y                            xnor2       0.11  0.11 dn             0.03
 nx109                     (net)                0.00  0.11 dn   (fan)     2.00
 ix93/Y                             mux21       0.13  0.24 dn             0.03
@@ -434,8 +436,8 @@ nx188                     (net)                0.00  2.11 up   (fan)     2.00
 ix141/Y                            mux21       0.13  2.24 dn             0.02
 nx140                     (net)                0.00  2.24 dn   (fan)     1.00
 ix145/Y                            xnor2       0.06  2.30 up             0.00
-sum(15)                   (net)                0.00  2.30 up   (fan)     1.00
-sum(15)/                                       0.00  2.30 up             0.00
+sum(0)                    (net)                0.00  2.30 up   (fan)     1.00
+sum(0)/                                        0.00  2.30 up             0.00
 data arrival time                                    2.36
 
 data required time                                not specified
@@ -451,7 +453,7 @@ data arrival time                                    2.36
 Critical path #9, (unconstrained path)
 NAME                               GATE              ARRIVAL              LOAD
 ------------------------------------------------------------------------------
-input_a(0)/                                    0.00  0.00 dn             0.03
+input_a(15)/                                   0.00  0.00 dn             0.03
 ix106/Y                            aoi32       0.18  0.18 up             0.03
 nx105                     (net)                0.00  0.18 up   (fan)     2.00
 ix93/Y                             mux21       0.16  0.34 dn             0.03
@@ -479,8 +481,8 @@ nx132                     (net)                0.00  2.02 dn   (fan)     2.00
 ix189/Y                            mux21       0.18  2.20 up             0.03
 nx188                     (net)                0.00  2.20 up   (fan)     2.00
 ix147/Y                            xor2        0.15  2.36 dn             0.00
-sum(14)                   (net)                0.00  2.36 dn   (fan)     1.00
-sum(14)/                                       0.00  2.36 dn             0.00
+sum(1)                    (net)                0.00  2.36 dn   (fan)     1.00
+sum(1)/                                        0.00  2.36 dn             0.00
 data arrival time                                    2.36
 
 data required time                                not specified
@@ -496,7 +498,7 @@ data arrival time                                    2.36
 Critical path #10, (unconstrained path)
 NAME                               GATE              ARRIVAL              LOAD
 ------------------------------------------------------------------------------
-input_b(0)/                                    0.00  0.00 dn             0.03
+input_b(15)/                                   0.00  0.00 dn             0.03
 ix106/Y                            aoi32       0.16  0.16 up             0.03
 nx105                     (net)                0.00  0.16 up   (fan)     2.00
 ix93/Y                             mux21       0.16  0.32 dn             0.03
@@ -524,8 +526,8 @@ nx132                     (net)                0.00  2.01 dn   (fan)     2.00
 ix189/Y                            mux21       0.18  2.19 up             0.03
 nx188                     (net)                0.00  2.19 up   (fan)     2.00
 ix147/Y                            xor2        0.15  2.34 dn             0.00
-sum(14)                   (net)                0.00  2.34 dn   (fan)     1.00
-sum(14)/                                       0.00  2.34 dn             0.00
+sum(1)                    (net)                0.00  2.34 dn   (fan)     1.00
+sum(1)/                                        0.00  2.34 dn             0.00
 data arrival time                                    2.34
 
 data required time                                not specified

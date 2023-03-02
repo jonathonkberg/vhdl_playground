@@ -1,7 +1,7 @@
 #
 #
 # /afs/cad/sw.common/mentor.2012/leonardo_spectrum_2011a/bin/Linux/spectrum 
-# Wed Mar  1 23:05:01 2023
+# Thu Mar  2 00:34:41 2023
 set HOME {/afs/cad.njit.edu/u/j/k/jk526}
 
 set SRC {../vhdl}
@@ -16,13 +16,13 @@ set vhdl_write_use_packages {library ieee, adk; use ieee.std_logic_1164.all, use
 
 load_library $HOME/tsmc018_typ
 
-read -format vhdl -dont_elaborate $SRC/q2_alg.vhd
+read -format vhdl -dont_elaborate $SRC/q2_df.vhd
 
 
 
-elaborate -technology tsmc018_typ sixteen_bit_adder_alg
+elaborate -technology tsmc018_typ sixteen_bit_adder_df
 
-elaborate sixteen_bit_adder_alg
+elaborate sixteen_bit_adder_df
 
 
 
@@ -32,19 +32,13 @@ optimize -target tsmc018_typ -macro -area
 
 
 
-script_alg_area_18.vhd
+write script_df_area_18.vhd
 
-### Previous Command Failed
-
-script_alg_area_18.v
-
-### Previous Command Failed
+write script_df_area_18.v
 
 
 
 report_delay -critical_paths -show_nets
-
-
 
 exit
 

@@ -1,0 +1,6 @@
+A 5 u mgc_symbol 640021af4097.03.80.eb.2c.48.00.43.4c 1 2 1 0
+V v 1 2 640021af4097.03.80.eb.2c.48.01.43.4c
+F f 1 "sixteen_bit_adder_alg.smbl_1"
+F o 0 
+O 1
+R csduv 0 "$HOME/ece758/vhdl_playground/hw4/schema/area_35/sixteen_bit_adder_alg/part" 1 Eddm_part 640021af418c.03.80.eb.2c.48.01.43.4c 640021af418c.03.80.eb.2c.48.00.43.4c

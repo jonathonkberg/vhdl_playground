@@ -1,0 +1,16 @@
+A 5 u mgc_schematic 640021e31669.03.80.eb.2c.48.00.43.be 4 2 2 0
+V v 2 1 640021e32c3c.03.80.eb.2c.48.00.43.be
+F o 0 ""
+V v 3 1 640021e335cf.03.80.eb.2c.48.00.43.be
+F o 0 ""
+V v 4 1 640021e362c8.03.80.eb.2c.48.00.43.be
+F o 0 ""
+O 4
+R cspuv 0 "$HOME/ece758/vhdl_playground/hw4/schema/delay_18/sixteen_bit_adder_alg/schematic/sheet1" 1 mgc_sheet 640021e31915.03.80.eb.2c.48.01.43.be 640021e31915.03.80.eb.2c.48.00.43.be
+R cspuv 1 "$HOME/ece758/vhdl_playground/hw4/schema/delay_18/sixteen_bit_adder_alg/schematic/sheet2" 1 mgc_sheet 640021e335d0.03.80.eb.2c.48.01.43.be 640021e335d0.03.80.eb.2c.48.00.43.be
+O 3
+R cspuv 0 "$HOME/ece758/vhdl_playground/hw4/schema/delay_18/sixteen_bit_adder_alg/schematic/sheet1" 1 mgc_sheet 640021e31915.03.80.eb.2c.48.01.43.be 640021e31915.03.80.eb.2c.48.00.43.be
+R cspuv 1 "$HOME/ece758/vhdl_playground/hw4/schema/delay_18/sixteen_bit_adder_alg/schematic/sheet2" 1 mgc_sheet 640021e335d0.03.80.eb.2c.48.01.43.be 640021e335d0.03.80.eb.2c.48.00.43.be
+P "eddm__refer_state" "eddm__refer_floating"
+O 2
+R cspuv 0 "$HOME/ece758/vhdl_playground/hw4/schema/delay_18/sixteen_bit_adder_alg/schematic/sheet1" 1 mgc_sheet 640021e31915.03.80.eb.2c.48.01.43.be 640021e31915.03.80.eb.2c.48.00.43.be

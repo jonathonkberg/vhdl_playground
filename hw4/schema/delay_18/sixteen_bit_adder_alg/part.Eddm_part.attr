@@ -1,0 +1,12 @@
+A 5 u Eddm_part 640021e3115a.03.80.eb.2c.48.00.43.be 2 2 2 0
+V v 1 1 640021e3115a.03.80.eb.2c.48.01.43.be
+F f 1 "part.part_1"
+V v 2 1 640021e328d7.03.80.eb.2c.48.00.43.be
+F f 2 "part.part_2"
+O 2
+P "eddm__stream_to_use" "eddm__propl_dstream"
+R csduv 0 "$HOME/ece758/vhdl_playground/hw4/schema/delay_18/sixteen_bit_adder_alg/sixteen_bit_adder_alg" 1 mgc_symbol 640021e3105c.03.80.eb.2c.48.01.43.be 640021e3105c.03.80.eb.2c.48.00.43.be
+R csduv 1 "$HOME/ece758/vhdl_playground/hw4/schema/delay_18/sixteen_bit_adder_alg/schematic" 1 mgc_schematic 640021e31669.03.80.eb.2c.48.01.43.be 640021e31669.03.80.eb.2c.48.00.43.be
+O 1
+P "eddm__stream_to_use" "eddm__propl_dstream"
+R csduv 0 "$HOME/ece758/vhdl_playground/hw4/schema/delay_18/sixteen_bit_adder_alg/sixteen_bit_adder_alg" 1 mgc_symbol 640021e3105c.03.80.eb.2c.48.01.43.be 640021e3105c.03.80.eb.2c.48.00.43.be
