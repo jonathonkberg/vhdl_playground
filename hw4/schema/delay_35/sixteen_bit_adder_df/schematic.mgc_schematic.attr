@@ -1,0 +1,16 @@
+A 5 u mgc_schematic 64001e74bfd9.03.80.eb.2c.48.00.3b.c8 4 2 2 0
+V v 2 1 64001e74df16.03.80.eb.2c.48.00.3b.c8
+F o 0 ""
+V v 3 1 64001e74eb07.03.80.eb.2c.48.00.3b.c8
+F o 0 ""
+V v 4 1 64001e75282f.03.80.eb.2c.48.00.3b.c8
+F o 0 ""
+O 4
+R cspuv 0 "$HOME/ece758/vhdl_playground/hw4/schema/delay_35/sixteen_bit_adder_df/schematic/sheet1" 1 mgc_sheet 64001e74c2ba.03.80.eb.2c.48.01.3b.c8 64001e74c2ba.03.80.eb.2c.48.00.3b.c8
+R cspuv 1 "$HOME/ece758/vhdl_playground/hw4/schema/delay_35/sixteen_bit_adder_df/schematic/sheet2" 1 mgc_sheet 64001e74eb09.03.80.eb.2c.48.01.3b.c8 64001e74eb09.03.80.eb.2c.48.00.3b.c8
+O 3
+R cspuv 0 "$HOME/ece758/vhdl_playground/hw4/schema/delay_35/sixteen_bit_adder_df/schematic/sheet1" 1 mgc_sheet 64001e74c2ba.03.80.eb.2c.48.01.3b.c8 64001e74c2ba.03.80.eb.2c.48.00.3b.c8
+R cspuv 1 "$HOME/ece758/vhdl_playground/hw4/schema/delay_35/sixteen_bit_adder_df/schematic/sheet2" 1 mgc_sheet 64001e74eb09.03.80.eb.2c.48.01.3b.c8 64001e74eb09.03.80.eb.2c.48.00.3b.c8
+P "eddm__refer_state" "eddm__refer_floating"
+O 2
+R cspuv 0 "$HOME/ece758/vhdl_playground/hw4/schema/delay_35/sixteen_bit_adder_df/schematic/sheet1" 1 mgc_sheet 64001e74c2ba.03.80.eb.2c.48.01.3b.c8 64001e74c2ba.03.80.eb.2c.48.00.3b.c8

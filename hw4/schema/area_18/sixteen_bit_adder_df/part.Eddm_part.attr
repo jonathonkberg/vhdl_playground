@@ -1,0 +1,12 @@
+A 5 u Eddm_part 64001e0d8d84.03.80.eb.2c.48.00.3a.d4 2 2 2 0
+V v 1 1 64001e0d8d84.03.80.eb.2c.48.01.3a.d4
+F f 1 "part.part_1"
+V v 2 1 64001e0dbea6.03.80.eb.2c.48.00.3a.d4
+F f 2 "part.part_2"
+O 2
+P "eddm__stream_to_use" "eddm__propl_dstream"
+R csduv 0 "$HOME/ece758/vhdl_playground/hw4/schema/area_18/sixteen_bit_adder_df/sixteen_bit_adder_df" 1 mgc_symbol 64001e0d8c90.03.80.eb.2c.48.01.3a.d4 64001e0d8c90.03.80.eb.2c.48.00.3a.d4
+R csduv 1 "$HOME/ece758/vhdl_playground/hw4/schema/area_18/sixteen_bit_adder_df/schematic" 1 mgc_schematic 64001e0d9312.03.80.eb.2c.48.01.3a.d4 64001e0d9312.03.80.eb.2c.48.00.3a.d4
+O 1
+P "eddm__stream_to_use" "eddm__propl_dstream"
+R csduv 0 "$HOME/ece758/vhdl_playground/hw4/schema/area_18/sixteen_bit_adder_df/sixteen_bit_adder_df" 1 mgc_symbol 64001e0d8c90.03.80.eb.2c.48.01.3a.d4 64001e0d8c90.03.80.eb.2c.48.00.3a.d4

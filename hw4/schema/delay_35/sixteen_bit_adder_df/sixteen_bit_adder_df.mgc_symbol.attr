@@ -1,0 +1,6 @@
+A 5 u mgc_symbol 64001e74b9a0.03.80.eb.2c.48.00.3b.c8 1 2 1 0
+V v 1 2 64001e74b9a0.03.80.eb.2c.48.01.3b.c8
+F f 1 "sixteen_bit_adder_df.smbl_1"
+F o 0 
+O 1
+R csduv 0 "$HOME/ece758/vhdl_playground/hw4/schema/delay_35/sixteen_bit_adder_df/part" 1 Eddm_part 64001e74ba8d.03.80.eb.2c.48.01.3b.c8 64001e74ba8d.03.80.eb.2c.48.00.3b.c8

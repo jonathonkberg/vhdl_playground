@@ -1,0 +1,18 @@
+A 5 u mgc_sheet 64001e588431.03.80.eb.2c.48.00.3b.94 1 2 11 0
+V v 1 3 64001e588431.03.80.eb.2c.48.01.3b.94
+F f 1 "sheet1.ssht_1"
+F f 1 "sheet1.sgfx_1"
+F o 0 
+O 1
+P "eddm__stream_to_use" "eddm__propl_dstream"
+R csduv 0 "$HOME/ece758/vhdl_playground/hw4/schema/delay_18/sixteen_bit_adder_df/schematic" 1 mgc_schematic 64001e5881c0.03.80.eb.2c.48.01.3b.94 64001e5881c0.03.80.eb.2c.48.00.3b.94
+R csduv 1 "$MGC_IC_GENERIC_LIB/offpag.in/part" 1 Eddm_part 5bc451019000.0d.00.02.ed.d4.00.00.00 3890e8888efc.03.86.56.31.70.02.3a.eb
+R csduv 2 "$MGC_IC_GENERIC_LIB/offpag.in/offpag.in" 1 mgc_symbol 5e8fb81f8000.0d.00.02.ed.d4.00.00.00 3890e8888efc.03.86.56.31.70.03.3a.eb
+R csduv 3 "$MGC_IC_GENERIC_LIB/rip/part" 1 Eddm_part 5f94d2b7f000.0d.00.02.e4.17.00.00.00 3890e8888ef7.03.86.56.31.70.03.3a.eb
+R csduv 4 "$MGC_IC_GENERIC_LIB/rip/1X1" 1 mgc_symbol 6021b4b18000.0d.00.03.97.39.00.00.00 3890e8888ef7.03.86.56.31.70.04.3a.eb
+R csduv 5 "$ADK/parts/xnor2/part" 1 Eddm_part 411d1bc6ef8c.03.93.22.46.d8.00.24.b5 43349f1b0f4f.03.93.22.46.d8.00.02.fa
+R csduv 6 "$ADK/parts/xnor2/xnor2" 1 mgc_symbol 37c5aee7c870.03.93.22.21.a7.00.2d.3e 43349f1b0f4e.03.93.22.46.d8.04.02.fa
+R csduv 7 "$ADK/technology/ic/symbols/portin/part" 1 Eddm_part 35773eaadc18.03.86.56.31.87.00.0e.9f 43349f1b0e01.03.93.22.46.d8.05.02.fa
+R csduv 8 "$ADK/technology/ic/symbols/portin/portin" 1 mgc_symbol 35773d18855d.03.86.56.31.87.00.0e.9f 43349f1b0e01.03.93.22.46.d8.06.02.fa
+R csduv 9 "$ADK/technology/ic/symbols/portout/part" 1 Eddm_part 35785fdc394b.03.86.56.31.87.00.12.30 43349f1b0e02.03.93.22.46.d8.00.02.fa
+R csduv 10 "$ADK/technology/ic/symbols/portout/portout" 1 mgc_symbol 357ed6243e32.03.86.56.31.87.00.28.94 43349f1b0e02.03.93.22.46.d8.01.02.fa

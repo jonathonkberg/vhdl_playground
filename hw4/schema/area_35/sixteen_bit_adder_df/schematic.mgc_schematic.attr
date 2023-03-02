@@ -1,0 +1,10 @@
+A 5 u mgc_schematic 64001e877663.03.80.eb.2c.48.00.3b.f5 2 2 1 0
+V v 1 1 64001e877663.03.80.eb.2c.48.01.3b.f5
+F o 0 ""
+V v 2 1 64001e87a815.03.80.eb.2c.48.00.3b.f5
+F o 0 ""
+O 2
+R cspuv 0 "$HOME/ece758/vhdl_playground/hw4/schema/area_35/sixteen_bit_adder_df/schematic/sheet1" 1 mgc_sheet 64001e87791c.03.80.eb.2c.48.01.3b.f5 64001e87791c.03.80.eb.2c.48.00.3b.f5
+O 1
+R cspuv 0 "$HOME/ece758/vhdl_playground/hw4/schema/area_35/sixteen_bit_adder_df/schematic/sheet1" 1 mgc_sheet 64001e87791c.03.80.eb.2c.48.01.3b.f5 64001e87791c.03.80.eb.2c.48.00.3b.f5
+P "eddm__refer_state" "eddm__refer_floating"
