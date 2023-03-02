@@ -1,0 +1,82 @@
+force in_a 0 0
+force in_b 0 0
+force in_c 0 0
+force in_d 0 0
+
+force in_a 0 100
+force in_b 0 100
+force in_c 0 100
+force in_d 1 100
+
+force in_a 0 200
+force in_b 0 200
+force in_c 1 200
+force in_d 0 200
+
+force in_a 0 300
+force in_b 0 300
+force in_c 1 300
+force in_d 1 300
+
+force in_a 0 400
+force in_b 1 400
+force in_c 0 400
+force in_d 0 400
+
+force in_a 0 500
+force in_b 1 500
+force in_c 0 500
+force in_d 1 500
+
+force in_a 0 600
+force in_b 1 600
+force in_c 1 600
+force in_d 0 600
+
+
+force in_a 0 700
+force in_b 1 700
+force in_c 1 700
+force in_d 1 700
+
+force in_a 1 800
+force in_b 0 800
+force in_c 0 800
+force in_d 0 800
+
+force in_a 1 900
+force in_b 0 900
+force in_c 0 900
+force in_d 1 900
+
+force in_a 1 1000
+force in_b 0 1000
+force in_c 1 1000
+force in_d 0 1000
+
+force in_a 1 1100
+force in_b 0 1100
+force in_c 1 1100
+force in_d 1 1100
+
+force in_a 1 1200
+force in_b 1 1200
+force in_c 0 1200
+force in_d 0 1200
+
+force in_a 1 1300
+force in_b 1 1300
+force in_c 0 1300
+force in_d 1 1300
+
+force in_a 1 1400
+force in_b 1 1400
+force in_c 1 1400
+force in_d 0 1400
+
+force in_a 1 1500
+force in_b 1 1500
+force in_c 1 1500
+force in_d 1 1500
+
+run
