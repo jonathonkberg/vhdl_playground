@@ -3,80 +3,80 @@ force in_b 0 0
 force in_c 0 0
 force in_d 0 0
 
-force in_a 0 100
+force in_a 0 10
+force in_b 0 10
+force in_c 0 10
+force in_d 1 10
+
+force in_a 0 20
+force in_b 0 20
+force in_c 1 20
+force in_d 0 20
+
+force in_a 0 30
+force in_b 0 30
+force in_c 1 30
+force in_d 1 30
+
+force in_a 0 40
+force in_b 1 40
+force in_c 0 40
+force in_d 0 40
+
+force in_a 0 50
+force in_b 1 50
+force in_c 0 50
+force in_d 1 50
+
+force in_a 0 60
+force in_b 1 60
+force in_c 1 60
+force in_d 0 60
+
+
+force in_a 0 70
+force in_b 1 70
+force in_c 1 70
+force in_d 1 70
+
+force in_a 1 80
+force in_b 0 80
+force in_c 0 80
+force in_d 0 80
+
+force in_a 1 90
+force in_b 0 90
+force in_c 0 90
+force in_d 1 90
+
+force in_a 1 100
 force in_b 0 100
-force in_c 0 100
-force in_d 1 100
+force in_c 1 100
+force in_d 0 100
 
-force in_a 0 200
-force in_b 0 200
-force in_c 1 200
-force in_d 0 200
+force in_a 1 110
+force in_b 0 110
+force in_c 1 110
+force in_d 1 110
 
-force in_a 0 300
-force in_b 0 300
-force in_c 1 300
-force in_d 1 300
+force in_a 1 120
+force in_b 1 120
+force in_c 0 120
+force in_d 0 120
 
-force in_a 0 400
-force in_b 1 400
-force in_c 0 400
-force in_d 0 400
+force in_a 1 130
+force in_b 1 130
+force in_c 0 130
+force in_d 1 130
 
-force in_a 0 500
-force in_b 1 500
-force in_c 0 500
-force in_d 1 500
+force in_a 1 140
+force in_b 1 140
+force in_c 1 140
+force in_d 0 140
 
-force in_a 0 600
-force in_b 1 600
-force in_c 1 600
-force in_d 0 600
+force in_a 1 150
+force in_b 1 150
+force in_c 1 150
+force in_d 1 150
 
-
-force in_a 0 700
-force in_b 1 700
-force in_c 1 700
-force in_d 1 700
-
-force in_a 1 800
-force in_b 0 800
-force in_c 0 800
-force in_d 0 800
-
-force in_a 1 900
-force in_b 0 900
-force in_c 0 900
-force in_d 1 900
-
-force in_a 1 1000
-force in_b 0 1000
-force in_c 1 1000
-force in_d 0 1000
-
-force in_a 1 1100
-force in_b 0 1100
-force in_c 1 1100
-force in_d 1 1100
-
-force in_a 1 1200
-force in_b 1 1200
-force in_c 0 1200
-force in_d 0 1200
-
-force in_a 1 1300
-force in_b 1 1300
-force in_c 0 1300
-force in_d 1 1300
-
-force in_a 1 1400
-force in_b 1 1400
-force in_c 1 1400
-force in_d 0 1400
-
-force in_a 1 1500
-force in_b 1 1500
-force in_c 1 1500
-force in_d 1 1500
-
-run 1600
+run 160
