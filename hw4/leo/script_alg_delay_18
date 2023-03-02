@@ -2,8 +2,7 @@ set HOME {/afs/cad.njit.edu/u/j/k/jk526}
 set SRC {../vhdl}
 
 set edifout_power_ground_style_is_net TRUE
-set vhdl_write_use_packages library ieee, adk; 
-set vhdl_write_use_packages use ieee.std_logic_1164.all, ieee.std_logic_signed.all, adk.adk_components.all;
+set vhdl_write_use_packages {library ieee, adk; use ieee.std_logic_1164.all, use ieee.std_logic_signed.all, adk.adk_components.all;}
 
 load_library $HOME/tsmc035_typ
 read -format vhdl -dont_ELABORATE $SRC/q2_alg.vhd
@@ -11,7 +10,7 @@ read -format vhdl -dont_ELABORATE $SRC/q2_alg.vhd
 elaborate -technology tsmc018_typ sixteen_bit_adder_alg
 elaborate sixteen_bit_adder_alg
 
-pre_optimize -common-logic -unused_logic
+pre_optimize -common_logic -unused_logic
 optimize -target tsmc018_typ -macro -delay
 
 script_alg_delay_18.vhd
