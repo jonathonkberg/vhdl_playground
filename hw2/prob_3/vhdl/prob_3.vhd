@@ -11,7 +11,7 @@ architecture tollbolts of tollbooth is
 	S1N <= NOT S1;
 	S0N <= NOT S0;
 	PN <= NOT P;
-  N1 <= (S1N AND S0 AND P) OR (S1 AND S0N AND C);
+	N1 <= (S1N AND S0 AND P) OR (S1 AND S0N AND C);
 	N0 <= S1N AND ((S0N AND C) OR (S0 AND PN));
 	L <= S1 AND S0N;
 	S1 <= TRANSPORT N1 AFTER 10 ns;
