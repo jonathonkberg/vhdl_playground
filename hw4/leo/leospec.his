@@ -1,0 +1,64 @@
+#
+#
+# /afs/cad/sw.common/mentor.2012/leonardo_spectrum_2011a/bin/Linux/spectrum 
+# Wed Mar  1 21:57:46 2023
+set HOME {/afs/cad.njit.edu/u/j/k/jk526}
+
+echo $HOME
+
+echo $SRC
+
+### Previous Command Failed
+
+set SRC {../vhdl}
+
+echo $SRC
+
+set edifout_power_ground_style_is_net TRUE
+
+set vhdl_write_use_packages library ieee, adk; 
+
+### Previous Command Failed
+
+set vhdl_write_use_packages library ieee, adk
+
+### Previous Command Failed
+
+set vhdl_write_use_packages library {ieee, adk; use ieee.std_logic_1164.all, use ieee.std_logic_signed.all, adk.adk_components.all;}
+
+### Previous Command Failed
+
+set vhdl_write_use_packages {library ieee, adk; use ieee.std_logic_1164.all, use ieee.std_logic_signed.all, adk.adk_components.all;}
+
+load_library $HOME/tsmc035_typ
+
+read -format vhdl -dont_ELABORATE $SRC/q2_df.vhd
+
+### Previous Command Failed
+
+read -format vhdl -dont_elaborate $SRC/q2_df.vhd
+
+elaborate -technology tsmc035_typ q2_df
+
+### Previous Command Failed
+
+elaborate -technology tsmc035_typ sixteen_bit_adder_df
+
+elaborate sixteen_bit_adder_df
+
+pre_optimize -common-logic -unused_logic
+
+### Previous Command Failed
+
+pre_optimize -common_logic -unused_logic
+
+optimize -target tsmc035_typ -macro -area
+
+write script_df_area_35.vhd
+
+write script_df_area_35.v
+
+report_delay -critical_paths -show_nets
+
+exit
+
