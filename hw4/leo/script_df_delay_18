@@ -11,7 +11,7 @@ elaborate -technology tsmc018_typ sixteen_bit_adder_df
 elaborate sixteen_bit_adder_df
 
 pre_optimize -common_logic -unused_logic
-optimize -target tsmc035_typ -macro -delay
+optimize -target tsmc018_typ -macro -delay
 
 write script_df_delay_18.vhd
 write script_df_delay_18.v

@@ -11,7 +11,7 @@ elaborate -technology tsmc018_typ sixteen_bit_adder_alg
 elaborate sixteen_bit_adder_alg
 
 pre_optimize -common_logic -unused_logic
-optimize -target tsmc035_typ -macro -area
+optimize -target tsmc018_typ -macro -area
 
 script_alg_area_18.vhd
 script_alg_area_18.v
