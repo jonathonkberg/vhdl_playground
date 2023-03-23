@@ -1,0 +1,224 @@
+/afs/cad/sw.common/mentor.2012/leonardo_spectrum_2011a/bin/Linux/spectrum 
+-------------------------------------------------
+LeonardoSpectrum Level 3 - 2011a.4 (Release Production Release, compiled May 26 2011 at 11:43:50)
+Copyright 1990-2010 Mentor Graphics.  All rights reserved.
+Portions copyright 1991-2010 Compuware Corporation
+
+Checking Security ...
+
+   *** Welcome to Interactive LeonardoSpectrum Level 3 Version 2011a.4 ***
+
+News :
+  * Enter "help" to get an overview of all commands
+  * Enter <command> -help  to get usage of each command
+
+Session history will be logged to file '/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw5/q2/leo/leospec.his'
+/afs/cad.njit.edu/u/j/k/jk526
+../vhdl
+Info: setting edifout_power_ground_style_is_net to TRUE
+TRUE
+Info: setting vhdl_write_use_packages to library ieee, adk; use ieee.std_logic_1164.all, use ieee.std_logic_signed.all, adk.adk_components.all;
+library ieee, adk; use ieee.std_logic_1164.all, use ieee.std_logic_signed.all, adk.adk_components.all;
+Reading library file `/afs/cad.njit.edu/u/j/k/jk526/tsmc018_typ.syn`...
+Library version = v3.1 Release : Patch (a) : (Aug 26, 2005)
+Delays assume: Process=typical Temp=  0.0 C  Voltage=1.80 V  
+Info: setting encoding to auto
+Info, Command 'load_library' finished successfully
+-- Reading file /afs/cad/sw.common/mentor.2012/leonardo_spectrum_2011a/data/standard.vhd for unit standard
+-- Loading package standard into library std
+-- Reading vhdl file /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw5/q2/leo/../vhdl/bit_placer_if.vhdl into library work
+-- Reading file /afs/cad/sw.common/mentor.2012/leonardo_spectrum_2011a/data/std_1164.vhd for unit std_logic_1164
+-- Loading package std_logic_1164 into library ieee
+-- Searching for SYNOPSYS package std_logic_signed..
+-- Reading file /afs/cad/sw.common/mentor.2012/leonardo_spectrum_2011a/data/syn_sign.vhd for unit std_logic_signed
+-- Searching for SYNOPSYS package std_logic_arith..
+-- Reading file /afs/cad/sw.common/mentor.2012/leonardo_spectrum_2011a/data/syn_arit.vhd for unit std_logic_arith
+-- Loading package std_logic_arith into library ieee
+-- Loading package STD_LOGIC_SIGNED into library ieee
+-- Loading entity bit_placer into library work
+-- Loading architecture if_arch of bit_placer into library work
+-- Compiling root entity bit_placer(if_arch)
+"/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw5/q2/leo/../vhdl/bit_placer_if.vhdl",line 15: Info, conditions are mutually exclusive; resolve without priority.
+"/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw5/q2/leo/../vhdl/bit_placer_if.vhdl",line 15: Info, else part is never selected for synthesis.
+Info, Command 'elaborate' finished successfully
+-- Compiling root entity bit_placer(if_arch)
+"/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw5/q2/leo/../vhdl/bit_placer_if.vhdl",line 15: Info, conditions are mutually exclusive; resolve without priority.
+"/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw5/q2/leo/../vhdl/bit_placer_if.vhdl",line 15: Info, else part is never selected for synthesis.
+-- Info, replacing bit_placer(if_arch)
+Info, Command 'elaborate' finished successfully
+-- Start pre-optimization for design .work.bit_placer.if_arch
+Info, Command 'pre_optimize' finished successfully
+NO wire table is found
+-- Optimizing netlist .work.bit_placer.if_arch
+-- Matching combinational logic..
+-- Matching non-combinational logic..
+-- Covering..
+-- CPU Time used :   00:00 Mapping
+-- Final Design Rule Check..
+Info, Command 'optimize' finished successfully
+-- Writing file synthesized_if.vhd
+Info, Command 'write' finished successfully
+-- Writing file synthesized_if.v
+Info, Command 'write' finished successfully
+NO wire table is found
+
+
+
+                        Critical Path Report
+
+Critical path #1, (unconstrained path)
+NAME                                 GATE              ARRIVAL              LOAD
+--------------------------------------------------------------------------------
+sig_in(0)/                                       0.00  0.00 dn             0.02
+ix86/Y                               nand02      0.05  0.05 up             0.01
+nx85                        (net)                0.00  0.05 up   (fan)     1.00
+ix15/Y                               inv01       0.02  0.06 dn             0.00
+sig_out(3)                  (net)                0.00  0.06 dn   (fan)     1.00
+sig_out(3)/                                      0.00  0.06 dn             0.00
+data arrival time                                      0.06
+
+data required time                                  not specified
+--------------------------------------------------------------------------------
+data required time                                  not specified
+data arrival time                                      0.06
+                                                    ----------
+                                                 unconstrained path
+--------------------------------------------------------------------------------
+
+
+
+Critical path #2, (unconstrained path)
+NAME                                 GATE              ARRIVAL              LOAD
+--------------------------------------------------------------------------------
+sig_in(0)/                                       0.00  0.00 dn             0.02
+ix9/Y                                nor02ii     0.06  0.06 up             0.00
+sig_out(1)                  (net)                0.00  0.06 up   (fan)     1.00
+sig_out(1)/                                      0.00  0.06 up             0.00
+data arrival time                                      0.06
+
+data required time                                  not specified
+--------------------------------------------------------------------------------
+data required time                                  not specified
+data arrival time                                      0.06
+                                                    ----------
+                                                 unconstrained path
+--------------------------------------------------------------------------------
+
+
+
+Critical path #3, (unconstrained path)
+NAME                                 GATE              ARRIVAL              LOAD
+--------------------------------------------------------------------------------
+sig_in(1)/                                       0.00  0.00 up             0.02
+ix13/Y                               nor02ii     0.06  0.06 up             0.00
+sig_out(2)                  (net)                0.00  0.06 up   (fan)     1.00
+sig_out(2)/                                      0.00  0.06 up             0.00
+data arrival time                                      0.06
+
+data required time                                  not specified
+--------------------------------------------------------------------------------
+data required time                                  not specified
+data arrival time                                      0.06
+                                                    ----------
+                                                 unconstrained path
+--------------------------------------------------------------------------------
+
+
+
+Critical path #4, (unconstrained path)
+NAME                                 GATE              ARRIVAL              LOAD
+--------------------------------------------------------------------------------
+sig_in(1)/                                       0.00  0.00 up             0.02
+ix86/Y                               nand02      0.04  0.04 up             0.01
+nx85                        (net)                0.00  0.04 up   (fan)     1.00
+ix15/Y                               inv01       0.02  0.06 dn             0.00
+sig_out(3)                  (net)                0.00  0.06 dn   (fan)     1.00
+sig_out(3)/                                      0.00  0.06 dn             0.00
+data arrival time                                      0.06
+
+data required time                                  not specified
+--------------------------------------------------------------------------------
+data required time                                  not specified
+data arrival time                                      0.06
+                                                    ----------
+                                                 unconstrained path
+--------------------------------------------------------------------------------
+
+
+
+Critical path #5, (unconstrained path)
+NAME                                 GATE              ARRIVAL              LOAD
+--------------------------------------------------------------------------------
+sig_in(1)/                                       0.00  0.00 up             0.02
+ix9/Y                                nor02ii     0.04  0.04 up             0.00
+sig_out(1)                  (net)                0.00  0.04 up   (fan)     1.00
+sig_out(1)/                                      0.00  0.04 up             0.00
+data arrival time                                      0.04
+
+data required time                                  not specified
+--------------------------------------------------------------------------------
+data required time                                  not specified
+data arrival time                                      0.04
+                                                    ----------
+                                                 unconstrained path
+--------------------------------------------------------------------------------
+
+
+
+Critical path #6, (unconstrained path)
+NAME                                 GATE              ARRIVAL              LOAD
+--------------------------------------------------------------------------------
+sig_in(0)/                                       0.00  0.00 dn             0.02
+ix13/Y                               nor02ii     0.04  0.04 up             0.00
+sig_out(2)                  (net)                0.00  0.04 up   (fan)     1.00
+sig_out(2)/                                      0.00  0.04 up             0.00
+data arrival time                                      0.04
+
+data required time                                  not specified
+--------------------------------------------------------------------------------
+data required time                                  not specified
+data arrival time                                      0.04
+                                                    ----------
+                                                 unconstrained path
+--------------------------------------------------------------------------------
+
+
+
+Critical path #7, (unconstrained path)
+NAME                                 GATE              ARRIVAL              LOAD
+--------------------------------------------------------------------------------
+sig_in(1)/                                       0.00  0.00 up             0.02
+ix5/Y                                nor02       0.04  0.04 up             0.00
+sig_out(0)                  (net)                0.00  0.04 up   (fan)     1.00
+sig_out(0)/                                      0.00  0.04 up             0.00
+data arrival time                                      0.04
+
+data required time                                  not specified
+--------------------------------------------------------------------------------
+data required time                                  not specified
+data arrival time                                      0.04
+                                                    ----------
+                                                 unconstrained path
+--------------------------------------------------------------------------------
+
+
+
+Critical path #8, (unconstrained path)
+NAME                                 GATE              ARRIVAL              LOAD
+--------------------------------------------------------------------------------
+sig_in(0)/                                       0.00  0.00 dn             0.02
+ix5/Y                                nor02       0.03  0.03 up             0.00
+sig_out(0)                  (net)                0.00  0.03 up   (fan)     1.00
+sig_out(0)/                                      0.00  0.03 up             0.00
+data arrival time                                      0.03
+
+data required time                                  not specified
+--------------------------------------------------------------------------------
+data required time                                  not specified
+data arrival time                                      0.03
+                                                    ----------
+                                                 unconstrained path
+--------------------------------------------------------------------------------
+
+
+Info, Command 'report_delay' finished successfully

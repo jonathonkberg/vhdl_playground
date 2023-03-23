@@ -8,12 +8,14 @@ entity invert_circuit is
     );
 end invert_circuit;
 
-architecture var_ex of invert_circuit is
+architecture sig_ex of invert_circuit is
+    
+    signal A_MID : bit;
+    
     begin
         process(A_IN)
-        variable A_MID : bit;
         begin
-            A_MID := not A_IN;
+            A_MID <= not A_IN;
             A_OUT <= A_MID;
         end process;
-    end var_ex;
+    end sig_ex;

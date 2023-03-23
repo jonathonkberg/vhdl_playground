@@ -3,7 +3,7 @@ use ieee.std_logic_1164.ALL;
 use ieee.std_logic_signed.ALL;
 
 entity bit_placer is
-    (PORT   sig_in  : in bit_vector(1 downto 0);
+    PORT   (sig_in  : in bit_vector(1 downto 0);
             sig_out : OUT bit_vector(3 downto 0) 
     );
 end bit_placer;
