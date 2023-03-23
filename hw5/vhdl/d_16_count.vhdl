@@ -1,12 +1,5 @@
 library ieee;
 use ieee.std_logic_1164.ALL;
-use ieee.std_logic_signed.ALL;
-
-entity dff is
-    port(
-        D, CLK_ff: in std_ulogic; Q, Q_n: out: std_ulogic
-        );
-end dff;
 
 entity counter_sixteen is
     port(
@@ -16,23 +9,11 @@ entity counter_sixteen is
     end counter_sixteen;
 
 
-architecture algorithm of dff is
-    begin
-        process(CLK, D)
-        begin
-            if CLK'event and CLK = '1' then
-                Q <= D;
-                Q_n <= not D'
-            end if;
-        end process
-end algorithm;
-
-
 architecture hierchical_design of counter_sixteen is
 
 component dff is
     port(
-        D, CLK: in std_ulogic; Q, Q_n: out: std_ulogic
+        D, CLK: in std_ulogic; Q, Q_n: out std_ulogic
         );
 end component;
 
@@ -43,145 +24,145 @@ begin
     dff0 : dff
     port map
     (
-        i0 -> D
-        Q -> o0
-        CLK -> CLK_ff
-        Q_n -> i0
+        D => i0,
+        Q => o0,
+        CLK => CLK,
+        Q_n => i0
     );
 
     dff1 : dff
     port map
     (
-        i1 -> D
-        Q -> o1
-        CLK -> CLK_ff
-        Q_n -> i1
+        D => i1,
+        Q => o1,
+        CLK => CLK,
+        Q_n => i1
     );
 
     dff2 : dff
     port map
     (
-        i2 -> D
-        Q -> o2
-        CLK -> CLK_ff
-        Q_n -> i2
+        D => i2,
+        Q => o2,
+        CLK => CLK,
+        Q_n => i2
     );
 
     dff3 : dff
     port map
     (
-        i3 -> D
-        Q -> o3
-        CLK -> CLK_ff
-        Q_n -> i3
+        D => i3,
+        Q => o3,
+        CLK => CLK,
+        Q_n => i3
     );
 
     dff4 : dff
     port map
     (
-        i4 -> D
-        Q -> o4
-        CLK -> CLK_ff
-        Q_n -> i4
+        D => i4,
+        Q => o4,
+        CLK => CLK,
+        Q_n => i4
     );
 
     dff5 : dff
     port map
     (
-        i5 -> D
-        Q -> o5
-        CLK -> CLK_ff
-        Q_n -> i5
+        D => i5,
+        Q => o5,
+        CLK => CLK,
+        Q_n => i5
     );
 
     dff6 : dff
     port map
     (
-        i6 -> D
-        Q -> o6
-        CLK -> CLK_ff
-        Q_n -> i6
+        D => i6,
+        Q => o6,
+        CLK => CLK,
+        Q_n => i6
     );
 
     dff7 : dff
     port map
     (
-        i7 -> D
-        Q -> o7
-        CLK -> CLK_ff
-        Q_n -> i7
+        D => i7,
+        Q => o7,
+        CLK => CLK,
+        Q_n => i7
     );
 
     dff8 : dff
     port map
     (
-        i8 -> D
-        Q -> o8
-        CLK -> CLK_ff
-        Q_n -> i8
+        D => i8,
+        Q => o8,
+        CLK => CLK,
+        Q_n => i8
     );
 
     dff9 : dff
     port map
     (
-        i9 -> D
-        Q -> o9
-        CLK -> CLK_ff
-        Q_n -> i9
+        D => i9,
+        Q => o9,
+        CLK => CLK,
+        Q_n => i9
     );
 
     dff10 : dff
     port map
     (
-        i10 -> D
-        Q -> o10
-        CLK -> CLK_ff
-        Q_n -> i10
+        D => i10,
+        Q => o10,
+        CLK => CLK,
+        Q_n => i10
     );
 
     dff11 : dff
     port map
     (
-        i11 -> D
-        Q -> o11
-        CLK -> CLK_ff
-        Q_n -> i11
+        D => i11,
+        Q => o11,
+        CLK => CLK,
+        Q_n => i11
     );
 
     dff12 : dff
     port map
     (
-        i12 -> D
-        Q -> o12
-        CLK -> CLK_ff
-        Q_n -> i12
+        D => i12,
+        Q => o12,
+        CLK => CLK,
+        Q_n => i12
     );
 
     dff13 : dff
     port map
     (
-        i13 -> D
-        Q -> o13
-        CLK -> CLK_ff
-        Q_n -> i13
+        D => i13,
+        Q => o13,
+        CLK => CLK,
+        Q_n => i13
     );
 
     dff14 : dff
     port map
     (
-        i14 -> D
-        Q -> o14
-        CLK -> CLK_ff
-        Q_n -> i14
+        D => i14,
+        Q => o14,
+        CLK => CLK,
+        Q_n => i14
     );
 
     dff15 : dff
     port map
     (
-        i15 -> D
-        Q -> o15
-        CLK -> CLK_ff
-        Q_n -> i15
+        D => i15,
+        Q => o15,
+        CLK => CLK,
+        Q_n => i15
     );
 
 end architecture;

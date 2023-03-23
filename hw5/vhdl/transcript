@@ -1,0 +1,355 @@
+vsim work.dff
+# vsim work.dff 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.dff(algorithm)#1
+add wave -position insertpoint  \
+sim:/dff/D \
+sim:/dff/CLK \
+sim:/dff/Q \
+sim:/dff/Q_n
+add wave -position insertpoint  \
+sim:/dff/D \
+sim:/dff/CLK \
+sim:/dff/Q \
+sim:/dff/Q_n
+force D 0 10
+run
+force CLK 0 10
+run
+force D 1 10
+run
+force D 0 10
+run
+force D 0 10
+run
+force CLK 0 10
+run
+force D 1 10
+run
+force D 0 10
+run
+force D 0 10
+run
+force CLK 0 10
+run
+force D 1 10
+run
+force D 0 10
+run
+force D 0 10
+run
+force CLK 0 10
+run
+force D 1 10
+run
+force D 0 10
+run
+force D 0 10
+run
+force CLK 0 10
+run
+force D 1 10
+run
+force D 0 10
+run
+force D 0 10
+run
+force CLK 0 10
+run
+force D 1 10
+run
+force D 0 10
+run
+force D 0 10
+run
+force CLK 0 10
+run
+force D 1 10
+run
+
+force Q 0 1
+force Q_n 1
+run
+force D 0 10
+run
+force CLK 0 10
+run
+force D 1 10
+run
+force D 0 10
+run
+force D 0 10
+run
+force CLK 0 10
+run
+force D 1 10
+run
+force D 0 10
+run
+force D 0 10
+run
+force CLK 0 10
+run
+force D 1 10
+run
+force D 0 10
+run
+force D 0 10
+run
+force CLK 0 10
+run
+force D 1 10
+run
+force D 0 10
+run
+force D 0 10
+run
+force CLK 0 10
+run
+force D 1 10
+run
+force D 0 10
+run
+force D 0 10
+run
+force CLK 0 10
+run
+force D 1 10
+run
+force D 0 10
+run
+force Q 0 1
+force Q_n 1
+run
+force D 0 10
+run
+force CLK 0 10
+run
+force D 1 10
+run
+force CLK 1 10
+run
+force D 0 10
+run
+force CLK 0 10
+run
+force D 1 10
+run
+force CLK 1 10
+run
+force D 0 10
+run
+force CLK 0 10
+run
+force D 1 10
+run
+force CLK 1 10
+run
+force D 0 10
+run
+force CLK 0 10
+run
+force D 1 10
+run
+force CLK 1 10
+run
+
+add wave -position insertpoint  \
+sim:/dff/D \
+sim:/dff/CLK \
+sim:/dff/Q \
+sim:/dff/Q_n
+sim:/dff/D
+# invalid command name "sim:/dff/D"
+sim:/dff/CLK
+# invalid command name "sim:/dff/CLK"
+sim:/dff/
+# invalid command name "sim:/dff/"
+force Q 0 1
+force Q_n 1
+run
+force D 0 10
+run
+force CLK 0 10
+run
+force D 1 10
+run
+force CLK 1 10
+run
+force D 0 10
+run
+force CLK 0 10
+run
+force D 1 10
+run
+force CLK 1 10
+run
+force D 0 10
+run
+force CLK 0 10
+run
+force D 1 10
+run
+force CLK 1 10
+run
+force D 0 10
+run
+force CLK 0 10
+run
+force D 1 10
+run
+force CLK 1 10
+run
+
+
+run
+force D 0 10
+run
+force CLK 0 10
+run
+force D 1 10
+run
+force CLK 1 10
+run
+force D 0 10
+run
+force CLK 0 10
+run
+force D 1 10
+run
+force CLK 1 10
+run
+force D 0 10
+run
+force CLK 0 10
+run
+force D 1 10
+run
+force CLK 1 10
+run
+force D 0 10
+run
+force CLK 0 10
+run
+force D 1 10
+run
+force CLK 1 10
+run
+
+
+
+restart -f
+run
+force D 0 10
+run
+force CLK 0 10
+run
+force D 1 10
+run
+force CLK 1 10
+run
+force D 0 10
+run
+force CLK 0 10
+run
+force D 1 10
+run
+force CLK 1 10
+run
+force D 0 10
+run
+force CLK 0 10
+run
+force D 1 10
+run
+force CLK 1 10
+run
+force D 0 10
+run
+force CLK 0 10
+run
+force D 1 10
+run
+force CLK 1 10
+run
+
+run
+force D 0 10
+run
+force CLK 0 10
+run
+force D 1 10
+run
+force CLK 1 10
+run
+force D 0 10
+run
+force CLK 0 10
+run
+force D 0 10
+run
+force CLK 1 10
+run
+run
+force D 0 10
+run
+force CLK 0 10
+run
+force D 1 10
+run
+force CLK 1 10
+run
+force D 0 10
+run
+force CLK 0 10
+run
+force D 0 10
+run
+force CLK 1 10
+run
+run
+force D 0 5
+run
+force CLK 0 5
+run
+force D 1 5
+run
+force CLK 1 5
+run
+force D 0 5
+run
+force CLK 0 5
+run
+force D 0 5
+run
+force CLK 1 5
+run
+force D 0 5
+run
+force CLK 0 5
+run
+force D 1 5
+run
+force CLK 1 5
+run
+force D 0 5
+run
+force CLK 0 5
+run
+force D 0 5
+run
+force CLK 1 5
+run
+# Causality operation skipped due to absence of debug database file
+add wave -position insertpoint  \
+sim:/dff/D \
+sim:/dff/CLK \
+sim:/dff/Q \
+sim:/dff/Q_n
+add wave -position insertpoint  \
+sim:/dff/D \
+sim:/dff/CLK \
+sim:/dff/Q \
+sim:/dff/Q_n
