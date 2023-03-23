@@ -3,7 +3,7 @@ use ieee.std_logic_1164.ALL;
 
 entity dff is
     port(
-        D, CLK: in std_ulogic; Q, Q_n: out std_ulogic
+        D, CLK: in bit; Q, Q_n: out bit
         );
 end dff;
 

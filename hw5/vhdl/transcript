@@ -353,3 +353,1354 @@ sim:/dff/D \
 sim:/dff/CLK \
 sim:/dff/Q \
 sim:/dff/Q_n
+quit -sim
+vsim work.counter_sixteen
+# vsim work.counter_sixteen 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.counter_sixteen(hierchical_design)#1
+add wave -position insertpoint  \
+sim:/counter_sixteen/CLK \
+sim:/counter_sixteen/o0 \
+sim:/counter_sixteen/o1 \
+sim:/counter_sixteen/o2 \
+sim:/counter_sixteen/o3 \
+sim:/counter_sixteen/o4 \
+sim:/counter_sixteen/o5 \
+sim:/counter_sixteen/o6 \
+sim:/counter_sixteen/o7 \
+sim:/counter_sixteen/o8 \
+sim:/counter_sixteen/o9 \
+sim:/counter_sixteen/o10 \
+sim:/counter_sixteen/o11 \
+sim:/counter_sixteen/o12 \
+sim:/counter_sixteen/o13 \
+sim:/counter_sixteen/o14 \
+sim:/counter_sixteen/o15
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+
+force d0 0 100
+# ** Error: (vish-4008) Object 'd0' not found.
+# 
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force do 0 100
+# ** Error: (vish-4008) Object 'do' not found.
+# 
+force d0 0 100
+# ** Error: (vish-4008) Object 'd0' not found.
+# 
+force i0 0 100
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+
+quit -sim
+# Compile of dff.vhdl was successful.
+# Compile of d_16_count.vhdl was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim work.counter_sixteen
+# vsim work.counter_sixteen 
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.counter_sixteen(hierchical_design)#1
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+add wave -position insertpoint  \
+sim:/counter_sixteen/CLK \
+sim:/counter_sixteen/o0 \
+sim:/counter_sixteen/o1 \
+sim:/counter_sixteen/o2 \
+sim:/counter_sixteen/o3 \
+sim:/counter_sixteen/o4 \
+sim:/counter_sixteen/o5 \
+sim:/counter_sixteen/o6 \
+sim:/counter_sixteen/o7 \
+sim:/counter_sixteen/o8 \
+sim:/counter_sixteen/o9 \
+sim:/counter_sixteen/o10 \
+sim:/counter_sixteen/o11 \
+sim:/counter_sixteen/o12 \
+sim:/counter_sixteen/o13 \
+sim:/counter_sixteen/o14 \
+sim:/counter_sixteen/o15
+force i0 0 100
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+
+quit -sim
+# Compile of dff.vhdl was successful.
+# Compile of d_16_count.vhdl was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim work.counter_sixteen
+# vsim work.counter_sixteen 
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.counter_sixteen(hierchical_design)#1
+add wave -position insertpoint  \
+sim:/counter_sixteen/CLK \
+sim:/counter_sixteen/o0 \
+sim:/counter_sixteen/o1 \
+sim:/counter_sixteen/o2 \
+sim:/counter_sixteen/o3 \
+sim:/counter_sixteen/o4 \
+sim:/counter_sixteen/o5 \
+sim:/counter_sixteen/o6 \
+sim:/counter_sixteen/o7 \
+sim:/counter_sixteen/o8 \
+sim:/counter_sixteen/o9 \
+sim:/counter_sixteen/o10 \
+sim:/counter_sixteen/o11 \
+sim:/counter_sixteen/o12 \
+sim:/counter_sixteen/o13 \
+sim:/counter_sixteen/o14 \
+sim:/counter_sixteen/o15
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+
+restart -f
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+force CLK 0 1
+run
+force CLK 1 1
+run
+
+
+
+add wave -position insertpoint  \
+sim:/counter_sixteen/CLK \
+sim:/counter_sixteen/o0 \
+sim:/counter_sixteen/o1 \
+sim:/counter_sixteen/o2 \
+sim:/counter_sixteen/o3 \
+sim:/counter_sixteen/o4 \
+sim:/counter_sixteen/o5 \
+sim:/counter_sixteen/o6 \
+sim:/counter_sixteen/o7 \
+sim:/counter_sixteen/o8
+quit -sim

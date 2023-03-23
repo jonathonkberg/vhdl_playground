@@ -3,8 +3,8 @@ use ieee.std_logic_1164.ALL;
 
 entity counter_sixteen is
     port(
-        CLK: in std_ulogic;
-        o0, o1, o2, o3, o4, o5, o6, o7, o8, o9, o10, o11, o12, o13, o14, o15: out std_ulogic
+        CLK: in bit;
+        o0, o1, o2, o3, o4, o5, o6, o7, o8, o9, o10, o11, o12, o13, o14, o15: out bit
         );
     end counter_sixteen;
 
@@ -13,11 +13,11 @@ architecture hierchical_design of counter_sixteen is
 
 component dff is
     port(
-        D, CLK: in std_ulogic; Q, Q_n: out std_ulogic
+        D, CLK: in bit; Q, Q_n: out bit
         );
 end component;
 
-signal i0, i1, i2, i3, i4, i5, i6, i7, i8, i9, i10, i11, i12, i13, i14, i15: std_ulogic;
+signal i0, i1, i2, i3, i4, i5, i6, i7, i8, i9, i10, i11, i12, i13, i14, i15: bit;
 
 begin
 
@@ -35,7 +35,7 @@ begin
     (
         D => i1,
         Q => o1,
-        CLK => CLK,
+        CLK => i0,
         Q_n => i1
     );
 
@@ -44,7 +44,7 @@ begin
     (
         D => i2,
         Q => o2,
-        CLK => CLK,
+        CLK => i1,
         Q_n => i2
     );
 
@@ -53,7 +53,7 @@ begin
     (
         D => i3,
         Q => o3,
-        CLK => CLK,
+        CLK => i2,
         Q_n => i3
     );
 
@@ -62,7 +62,7 @@ begin
     (
         D => i4,
         Q => o4,
-        CLK => CLK,
+        CLK => i3,
         Q_n => i4
     );
 
@@ -71,7 +71,7 @@ begin
     (
         D => i5,
         Q => o5,
-        CLK => CLK,
+        CLK => i4,
         Q_n => i5
     );
 
@@ -80,7 +80,7 @@ begin
     (
         D => i6,
         Q => o6,
-        CLK => CLK,
+        CLK => i5,
         Q_n => i6
     );
 
@@ -89,7 +89,7 @@ begin
     (
         D => i7,
         Q => o7,
-        CLK => CLK,
+        CLK => i6,
         Q_n => i7
     );
 
@@ -98,7 +98,7 @@ begin
     (
         D => i8,
         Q => o8,
-        CLK => CLK,
+        CLK => i7,
         Q_n => i8
     );
 
@@ -107,7 +107,7 @@ begin
     (
         D => i9,
         Q => o9,
-        CLK => CLK,
+        CLK => i8,
         Q_n => i9
     );
 
@@ -116,7 +116,7 @@ begin
     (
         D => i10,
         Q => o10,
-        CLK => CLK,
+        CLK => i9,
         Q_n => i10
     );
 
@@ -125,7 +125,7 @@ begin
     (
         D => i11,
         Q => o11,
-        CLK => CLK,
+        CLK => i10,
         Q_n => i11
     );
 
@@ -134,7 +134,7 @@ begin
     (
         D => i12,
         Q => o12,
-        CLK => CLK,
+        CLK => i11,
         Q_n => i12
     );
 
@@ -143,7 +143,7 @@ begin
     (
         D => i13,
         Q => o13,
-        CLK => CLK,
+        CLK => i12,
         Q_n => i13
     );
 
@@ -152,7 +152,7 @@ begin
     (
         D => i14,
         Q => o14,
-        CLK => CLK,
+        CLK => i13,
         Q_n => i14
     );
 
@@ -161,7 +161,7 @@ begin
     (
         D => i15,
         Q => o15,
-        CLK => CLK,
+        CLK => i14,
         Q_n => i15
     );
 
