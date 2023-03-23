@@ -5,7 +5,7 @@ set edifout_power_ground_style_is_net TRUE
 set vhdl_write_use_packages {library ieee, adk; use ieee.std_logic_1164.all, use ieee.std_logic_signed.all, adk.adk_components.all;}
 
 load_library $HOME/tsmc018_typ
-read -format vhdl -dont_elaborate $SRC/var_add.vhd
+read -format vhdl -dont_elaborate $SRC/var_add.vhdl
 
 elaborate -technology tsmc018_typ invert_circuit
 elaborate invert_circuit
