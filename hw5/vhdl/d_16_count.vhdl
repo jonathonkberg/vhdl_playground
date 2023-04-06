@@ -32,7 +32,7 @@ begin
 
     dff1 : dff
     port map
-    (
+    (c
         D => i1,
         Q => o1,
         CLK => i0,
