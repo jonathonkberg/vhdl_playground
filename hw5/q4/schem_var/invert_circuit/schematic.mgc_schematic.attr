@@ -1,0 +1,10 @@
+A 5 u mgc_schematic 641cb1ae5461.03.80.eb.2c.48.00.13.14 2 2 1 0
+V v 1 1 641cb1ae5461.03.80.eb.2c.48.01.13.14
+F o 0 ""
+V v 2 1 641cb1ae660c.03.80.eb.2c.48.00.13.14
+F o 0 ""
+O 2
+R cspuv 0 "$HOME/ece758/vhdl_playground/hw5/q4/schem_var/invert_circuit/schematic/sheet1" 1 mgc_sheet 641cb1ae5765.03.80.eb.2c.48.01.13.14 641cb1ae5765.03.80.eb.2c.48.00.13.14
+O 1
+R cspuv 0 "$HOME/ece758/vhdl_playground/hw5/q4/schem_var/invert_circuit/schematic/sheet1" 1 mgc_sheet 641cb1ae5765.03.80.eb.2c.48.01.13.14 641cb1ae5765.03.80.eb.2c.48.00.13.14
+P "eddm__refer_state" "eddm__refer_floating"

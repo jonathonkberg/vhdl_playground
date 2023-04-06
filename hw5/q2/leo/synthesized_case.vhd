@@ -2,7 +2,7 @@
 -- 
 -- Definition of  bit_placer
 -- 
---      Thu Mar 23 15:34:20 2023
+--      Thu Mar 23 15:34:33 2023
 --      
 --      LeonardoSpectrum Level 3, 2011a.4
 -- 
@@ -15,7 +15,7 @@ entity bit_placer is
       sig_out : OUT std_logic_vector (3 DOWNTO 0)) ;
 end bit_placer ;
 
-architecture if_arch of bit_placer is
+architecture case_arch of bit_placer is
    signal nx85: std_logic ;
 
 begin
@@ -25,5 +25,5 @@ begin
    ix13 : nor02ii port map ( Y=>sig_out(2), A0=>sig_in(0), A1=>sig_in(1));
    ix9 : nor02ii port map ( Y=>sig_out(1), A0=>sig_in(1), A1=>sig_in(0));
 
-end if_arch ;
+end case_arch ;
 

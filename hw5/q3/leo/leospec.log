@@ -1,0 +1,34 @@
+/afs/cad/sw.common/mentor.2012/leonardo_spectrum_2011a/bin/Linux/spectrum 
+-------------------------------------------------
+LeonardoSpectrum Level 3 - 2011a.4 (Release Production Release, compiled May 26 2011 at 11:43:50)
+Copyright 1990-2010 Mentor Graphics.  All rights reserved.
+Portions copyright 1991-2010 Compuware Corporation
+
+Checking Security ...
+
+   *** Welcome to Interactive LeonardoSpectrum Level 3 Version 2011a.4 ***
+
+News :
+  * Enter "help" to get an overview of all commands
+  * Enter <command> -help  to get usage of each command
+
+Session history will be logged to file '/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw5/q3/leo/leospec.his'
+/afs/cad.njit.edu/u/j/k/jk526
+../vhdl
+Info: setting edifout_power_ground_style_is_net to TRUE
+TRUE
+Info: setting vhdl_write_use_packages to library ieee, adk; use ieee.std_logic_1164.all, use ieee.std_logic_signed.all, adk.adk_components.all;
+library ieee, adk; use ieee.std_logic_1164.all, use ieee.std_logic_signed.all, adk.adk_components.all;
+Reading library file `/afs/cad.njit.edu/u/j/k/jk526/tsmc018_typ.syn`...
+Library version = v3.1 Release : Patch (a) : (Aug 26, 2005)
+Delays assume: Process=typical Temp=  0.0 C  Voltage=1.80 V  
+Info: setting encoding to auto
+Info, Command 'load_library' finished successfully
+Error, cannot find file '../vhdl/q2_with_lat.vhdl'
+Error, 'bit_placer' not found in HDL library 'work'
+Error, 'bit_placer' not found in HDL library 'work'
+pre_optimize: design is not a view
+optimize: design is not a view
+write: present design is not set to a view
+write: present design is not set to a view
+report_delay: present design is not a view; cannot report delay

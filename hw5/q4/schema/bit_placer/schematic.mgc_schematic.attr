@@ -1,0 +1,14 @@
+A 5 u mgc_schematic 641caf6a6e13.03.80.eb.2c.48.00.0b.9a 3 2 1 0
+V v 1 1 641caf6a6e13.03.80.eb.2c.48.01.0b.9a
+F o 0 ""
+V v 2 1 641caf6aa460.03.80.eb.2c.48.00.0b.9a
+F o 0 ""
+V v 3 1 641cb0274515.03.80.eb.2c.48.00.03.b4
+F o 0 ""
+O 3
+R cspuv 0 "$HOME/ece758/vhdl_playground/hw5/q4/schema/bit_placer/schematic/sheet1" 2 mgc_sheet 641cb02743e7.03.80.eb.2c.48.00.03.b4 641caf6a7251.03.80.eb.2c.48.00.0b.9a
+O 2
+R cspuv 0 "$HOME/ece758/vhdl_playground/hw5/q4/schema/bit_placer/schematic/sheet1" 1 mgc_sheet 641caf6a7251.03.80.eb.2c.48.01.0b.9a 641caf6a7251.03.80.eb.2c.48.00.0b.9a
+O 1
+R cspuv 0 "$HOME/ece758/vhdl_playground/hw5/q4/schema/bit_placer/schematic/sheet1" 1 mgc_sheet 641caf6a7251.03.80.eb.2c.48.01.0b.9a 641caf6a7251.03.80.eb.2c.48.00.0b.9a
+P "eddm__refer_state" "eddm__refer_floating"

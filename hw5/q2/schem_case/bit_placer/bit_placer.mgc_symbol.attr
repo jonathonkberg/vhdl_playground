@@ -1,0 +1,6 @@
+A 5 u mgc_symbol 641cb11ce6bf.03.80.eb.2c.48.00.11.a8 1 2 1 0
+V v 1 2 641cb11ce6bf.03.80.eb.2c.48.01.11.a8
+F f 1 "bit_placer.smbl_1"
+F o 0 
+O 1
+R csduv 0 "$HOME/ece758/vhdl_playground/hw5/q2/schem_case/bit_placer/part" 1 Eddm_part 641cb11ce7ce.03.80.eb.2c.48.00.11.a8 641cb11ce7cd.03.80.eb.2c.48.00.11.a8

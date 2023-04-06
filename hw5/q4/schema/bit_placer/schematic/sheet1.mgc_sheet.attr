@@ -1,0 +1,43 @@
+A 5 u mgc_sheet 641caf6a7251.03.80.eb.2c.48.00.0b.9a 2 2 15 0
+V v 1 3 641caf6a7251.03.80.eb.2c.48.01.0b.9a
+F f 1 "sheet1.ssht_1"
+F f 1 "sheet1.sgfx_1"
+F o 0 ""
+V v 2 3 641cb02743e7.03.80.eb.2c.48.00.03.b4
+F f 2 "sheet1.ssht_2"
+F f 2 "sheet1.sgfx_2"
+F o 0 ""
+O 2
+P "eddm__stream_to_use" "eddm__propl_dstream"
+R csduv 0 "$HOME/ece758/vhdl_playground/hw5/q4/schema/bit_placer/schematic" 1 mgc_schematic 641caf6a6e13.03.80.eb.2c.48.01.0b.9a 641caf6a6e13.03.80.eb.2c.48.00.0b.9a
+R csduv 1 "$ADK/parts/inv01/part" 1 Eddm_part 411d0b78f3c4.03.93.22.46.d8.00.24.b5 43349f1b0f6b.03.93.22.46.d8.05.02.fa
+R csduv 2 "$ADK/parts/inv01/inv01" 1 mgc_symbol 37c5aadeee9e.03.93.22.21.a7.00.2d.3e 43349f1b0f6b.03.93.22.46.d8.02.02.fa
+R csduv 3 "$ADK/parts/nand02/part" 1 Eddm_part 411d10708d00.03.93.22.46.d8.00.24.b5 43349f1b0f63.03.93.22.46.d8.06.02.fa
+R csduv 4 "$ADK/parts/nand02/nand02" 1 mgc_symbol 3758212dcd4b.03.80.fc.a8.96.00.6c.50 43349f1b0f63.03.93.22.46.d8.03.02.fa
+R csduv 5 "$ADK/parts/nor02/part" 1 Eddm_part 411d115ee970.03.93.22.46.d8.00.24.b5 43349f1b0f61.03.93.22.46.d8.05.02.fa
+R csduv 6 "$ADK/parts/nor02/nor02" 1 mgc_symbol 37c5ac204e6c.03.93.22.21.a7.00.2d.3e 43349f1b0f61.03.93.22.46.d8.02.02.fa
+R csduv 7 "$ADK/parts/nor02ii/part" 1 Eddm_part 411d119f084e.03.93.22.46.d8.00.24.b5 43349f1b0f46.03.93.22.46.d8.02.02.fa
+R csduv 8 "$ADK/parts/nor02ii/nor02ii" 1 mgc_symbol 41117a24dc46.03.93.22.46.d8.00.06.eb 43349f1b0efe.03.93.22.46.d8.03.02.fa
+R csduv 9 "$ADK/technology/ic/symbols/portin/part" 1 Eddm_part 35773eaadc18.03.86.56.31.87.00.0e.9f 43349f1b0e01.03.93.22.46.d8.05.02.fa
+R csduv 10 "$ADK/technology/ic/symbols/portin/portin" 1 mgc_symbol 35773d18855d.03.86.56.31.87.00.0e.9f 43349f1b0e01.03.93.22.46.d8.06.02.fa
+R csduv 11 "$ADK/technology/ic/symbols/portout/part" 1 Eddm_part 35785fdc394b.03.86.56.31.87.00.12.30 43349f1b0e02.03.93.22.46.d8.00.02.fa
+R csduv 12 "$ADK/technology/ic/symbols/portout/portout" 1 mgc_symbol 357ed6243e32.03.86.56.31.87.00.28.94 43349f1b0e02.03.93.22.46.d8.01.02.fa
+R csduv 13 "$MGC_IC_GENERIC_LIB/rip/part" 1 Eddm_part 5f94d2b7f000.0d.00.02.e4.17.00.00.00 3890e8888ef7.03.86.56.31.70.03.3a.eb
+R csduv 14 "$MGC_IC_GENERIC_LIB/rip/1X1" 1 mgc_symbol 6021b4b18000.0d.00.03.97.39.00.00.00 3890e8888ef7.03.86.56.31.70.04.3a.eb
+O 1
+P "eddm__stream_to_use" "eddm__propl_dstream"
+R csduv 0 "$HOME/ece758/vhdl_playground/hw5/q4/schema/bit_placer/schematic" 1 mgc_schematic 641caf6a6e13.03.80.eb.2c.48.01.0b.9a 641caf6a6e13.03.80.eb.2c.48.00.0b.9a
+R csduv 1 "$ADK/parts/inv01/part" 1 Eddm_part 411d0b78f3c4.03.93.22.46.d8.00.24.b5 43349f1b0f6b.03.93.22.46.d8.05.02.fa
+R csduv 2 "$ADK/parts/inv01/inv01" 1 mgc_symbol 37c5aadeee9e.03.93.22.21.a7.00.2d.3e 43349f1b0f6b.03.93.22.46.d8.02.02.fa
+R csduv 3 "$ADK/parts/nand02/part" 1 Eddm_part 411d10708d00.03.93.22.46.d8.00.24.b5 43349f1b0f63.03.93.22.46.d8.06.02.fa
+R csduv 4 "$ADK/parts/nand02/nand02" 1 mgc_symbol 3758212dcd4b.03.80.fc.a8.96.00.6c.50 43349f1b0f63.03.93.22.46.d8.03.02.fa
+R csduv 5 "$ADK/parts/nor02/part" 1 Eddm_part 411d115ee970.03.93.22.46.d8.00.24.b5 43349f1b0f61.03.93.22.46.d8.05.02.fa
+R csduv 6 "$ADK/parts/nor02/nor02" 1 mgc_symbol 37c5ac204e6c.03.93.22.21.a7.00.2d.3e 43349f1b0f61.03.93.22.46.d8.02.02.fa
+R csduv 7 "$ADK/parts/nor02ii/part" 1 Eddm_part 411d119f084e.03.93.22.46.d8.00.24.b5 43349f1b0f46.03.93.22.46.d8.02.02.fa
+R csduv 8 "$ADK/parts/nor02ii/nor02ii" 1 mgc_symbol 41117a24dc46.03.93.22.46.d8.00.06.eb 43349f1b0efe.03.93.22.46.d8.03.02.fa
+R csduv 9 "$ADK/technology/ic/symbols/portin/part" 1 Eddm_part 35773eaadc18.03.86.56.31.87.00.0e.9f 43349f1b0e01.03.93.22.46.d8.05.02.fa
+R csduv 10 "$ADK/technology/ic/symbols/portin/portin" 1 mgc_symbol 35773d18855d.03.86.56.31.87.00.0e.9f 43349f1b0e01.03.93.22.46.d8.06.02.fa
+R csduv 11 "$ADK/technology/ic/symbols/portout/part" 1 Eddm_part 35785fdc394b.03.86.56.31.87.00.12.30 43349f1b0e02.03.93.22.46.d8.00.02.fa
+R csduv 12 "$ADK/technology/ic/symbols/portout/portout" 1 mgc_symbol 357ed6243e32.03.86.56.31.87.00.28.94 43349f1b0e02.03.93.22.46.d8.01.02.fa
+R csduv 13 "$MGC_IC_GENERIC_LIB/rip/part" 1 Eddm_part 5f94d2b7f000.0d.00.02.e4.17.00.00.00 3890e8888ef7.03.86.56.31.70.03.3a.eb
+R csduv 14 "$MGC_IC_GENERIC_LIB/rip/1X1" 1 mgc_symbol 6021b4b18000.0d.00.03.97.39.00.00.00 3890e8888ef7.03.86.56.31.70.04.3a.eb

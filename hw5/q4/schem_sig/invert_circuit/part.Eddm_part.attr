@@ -1,0 +1,12 @@
+A 5 u Eddm_part 641cb19ef295.03.80.eb.2c.48.00.12.b5 2 2 2 0
+V v 1 1 641cb19ef295.03.80.eb.2c.48.01.12.b5
+F f 1 "part.part_1"
+V v 2 1 641cb19f176c.03.80.eb.2c.48.00.12.b5
+F f 2 "part.part_2"
+O 2
+P "eddm__stream_to_use" "eddm__propl_dstream"
+R csduv 0 "$HOME/ece758/vhdl_playground/hw5/q4/schem_sig/invert_circuit/invert_circuit" 1 mgc_symbol 641cb19ef18c.03.80.eb.2c.48.01.12.b5 641cb19ef18c.03.80.eb.2c.48.00.12.b5
+R csduv 1 "$HOME/ece758/vhdl_playground/hw5/q4/schem_sig/invert_circuit/schematic" 1 mgc_schematic 641cb19f03dd.03.80.eb.2c.48.01.12.b5 641cb19f03dd.03.80.eb.2c.48.00.12.b5
+O 1
+P "eddm__stream_to_use" "eddm__propl_dstream"
+R csduv 0 "$HOME/ece758/vhdl_playground/hw5/q4/schem_sig/invert_circuit/invert_circuit" 1 mgc_symbol 641cb19ef18c.03.80.eb.2c.48.01.12.b5 641cb19ef18c.03.80.eb.2c.48.00.12.b5

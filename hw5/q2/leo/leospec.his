@@ -1,7 +1,7 @@
 #
 #
 # /afs/cad/sw.common/mentor.2012/leonardo_spectrum_2011a/bin/Linux/spectrum 
-# Thu Mar 23 15:31:08 2023
+# Thu Mar 23 15:34:40 2023
 set HOME {/afs/cad.njit.edu/u/j/k/jk526}
 
 set SRC {../vhdl}
@@ -16,7 +16,7 @@ set vhdl_write_use_packages {library ieee, adk; use ieee.std_logic_1164.all, use
 
 load_library $HOME/tsmc018_typ
 
-read -format vhdl -dont_elaborate $SRC/bit_placer_if.vhdl
+read -format vhdl -dont_elaborate $SRC/bit_placer_when.vhdl
 
 
 
@@ -32,9 +32,9 @@ optimize -target tsmc018_typ -macro -delay
 
 
 
-write synthesized_if.vhd
+write synthesized_when.vhd
 
-write synthesized_if.v
+write synthesized_when.v
 
 
 

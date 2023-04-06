@@ -1,0 +1,12 @@
+A 5 u Eddm_part 641cb1613734.03.80.eb.2c.48.00.12.40 2 2 2 0
+V v 1 1 641cb1613734.03.80.eb.2c.48.01.12.40
+F f 1 "part.part_1"
+V v 2 1 641cb16155d0.03.80.eb.2c.48.00.12.40
+F f 2 "part.part_2"
+O 2
+P "eddm__stream_to_use" "eddm__propl_dstream"
+R csduv 0 "$HOME/ece758/vhdl_playground/hw5/q2/schem_3/bit_placer/bit_placer" 1 mgc_symbol 641cb1613632.03.80.eb.2c.48.01.12.40 641cb1613632.03.80.eb.2c.48.00.12.40
+R csduv 1 "$HOME/ece758/vhdl_playground/hw5/q2/schem_3/bit_placer/schematic" 1 mgc_schematic 641cb1613cca.03.80.eb.2c.48.01.12.40 641cb1613cca.03.80.eb.2c.48.00.12.40
+O 1
+P "eddm__stream_to_use" "eddm__propl_dstream"
+R csduv 0 "$HOME/ece758/vhdl_playground/hw5/q2/schem_3/bit_placer/bit_placer" 1 mgc_symbol 641cb1613632.03.80.eb.2c.48.01.12.40 641cb1613632.03.80.eb.2c.48.00.12.40

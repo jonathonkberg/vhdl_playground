@@ -1,0 +1,6 @@
+A 5 u mgc_symbol 641cb16f6036.03.80.eb.2c.48.00.12.69 1 2 1 0
+V v 1 2 641cb16f6036.03.80.eb.2c.48.01.12.69
+F f 1 "bit_placer.smbl_1"
+F o 0 
+O 1
+R csduv 0 "$HOME/ece758/vhdl_playground/hw5/q2/schem_4/bit_placer/part" 1 Eddm_part 641cb16f6199.03.80.eb.2c.48.01.12.69 641cb16f6199.03.80.eb.2c.48.00.12.69

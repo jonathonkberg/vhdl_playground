@@ -26,7 +26,7 @@ Info: setting encoding to auto
 Info, Command 'load_library' finished successfully
 -- Reading file /afs/cad/sw.common/mentor.2012/leonardo_spectrum_2011a/data/standard.vhd for unit standard
 -- Loading package standard into library std
--- Reading vhdl file /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw5/q2/leo/../vhdl/bit_placer_if.vhdl into library work
+-- Reading vhdl file /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw5/q2/leo/../vhdl/bit_placer_when.vhdl into library work
 -- Reading file /afs/cad/sw.common/mentor.2012/leonardo_spectrum_2011a/data/std_1164.vhd for unit std_logic_1164
 -- Loading package std_logic_1164 into library ieee
 -- Searching for SYNOPSYS package std_logic_signed..
@@ -36,29 +36,29 @@ Info, Command 'load_library' finished successfully
 -- Loading package std_logic_arith into library ieee
 -- Loading package STD_LOGIC_SIGNED into library ieee
 -- Loading entity bit_placer into library work
--- Loading architecture if_arch of bit_placer into library work
--- Compiling root entity bit_placer(if_arch)
-"/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw5/q2/leo/../vhdl/bit_placer_if.vhdl",line 15: Info, conditions are mutually exclusive; resolve without priority.
-"/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw5/q2/leo/../vhdl/bit_placer_if.vhdl",line 15: Info, else part is never selected for synthesis.
+-- Loading architecture when_arch of bit_placer into library work
+-- Compiling root entity bit_placer(when_arch)
+"/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw5/q2/leo/../vhdl/bit_placer_when.vhdl",line 13: Info, conditions are mutually exclusive; resolve without priority.
+"/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw5/q2/leo/../vhdl/bit_placer_when.vhdl",line 13: Info, else part is never selected for synthesis.
 Info, Command 'elaborate' finished successfully
--- Compiling root entity bit_placer(if_arch)
-"/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw5/q2/leo/../vhdl/bit_placer_if.vhdl",line 15: Info, conditions are mutually exclusive; resolve without priority.
-"/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw5/q2/leo/../vhdl/bit_placer_if.vhdl",line 15: Info, else part is never selected for synthesis.
--- Info, replacing bit_placer(if_arch)
+-- Compiling root entity bit_placer(when_arch)
+"/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw5/q2/leo/../vhdl/bit_placer_when.vhdl",line 13: Info, conditions are mutually exclusive; resolve without priority.
+"/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw5/q2/leo/../vhdl/bit_placer_when.vhdl",line 13: Info, else part is never selected for synthesis.
+-- Info, replacing bit_placer(when_arch)
 Info, Command 'elaborate' finished successfully
--- Start pre-optimization for design .work.bit_placer.if_arch
+-- Start pre-optimization for design .work.bit_placer.when_arch
 Info, Command 'pre_optimize' finished successfully
 NO wire table is found
--- Optimizing netlist .work.bit_placer.if_arch
+-- Optimizing netlist .work.bit_placer.when_arch
 -- Matching combinational logic..
 -- Matching non-combinational logic..
 -- Covering..
 -- CPU Time used :   00:00 Mapping
 -- Final Design Rule Check..
 Info, Command 'optimize' finished successfully
--- Writing file synthesized_if.vhd
+-- Writing file synthesized_when.vhd
 Info, Command 'write' finished successfully
--- Writing file synthesized_if.v
+-- Writing file synthesized_when.v
 Info, Command 'write' finished successfully
 NO wire table is found
 

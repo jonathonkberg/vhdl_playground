@@ -1,0 +1,83 @@
+/afs/cad/sw.common/mentor.2012/leonardo_spectrum_2011a/bin/Linux/spectrum 
+-------------------------------------------------
+LeonardoSpectrum Level 3 - 2011a.4 (Release Production Release, compiled May 26 2011 at 11:43:50)
+Copyright 1990-2010 Mentor Graphics.  All rights reserved.
+Portions copyright 1991-2010 Compuware Corporation
+
+Checking Security ...
+
+   *** Welcome to Interactive LeonardoSpectrum Level 3 Version 2011a.4 ***
+
+News :
+  * Enter "help" to get an overview of all commands
+  * Enter <command> -help  to get usage of each command
+
+Session history will be logged to file '/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw5/q4/leo/leospec.his'
+/afs/cad.njit.edu/u/j/k/jk526
+../vhdl
+Info: setting edifout_power_ground_style_is_net to TRUE
+TRUE
+Info: setting vhdl_write_use_packages to library ieee, adk; use ieee.std_logic_1164.all, use ieee.std_logic_signed.all, adk.adk_components.all;
+library ieee, adk; use ieee.std_logic_1164.all, use ieee.std_logic_signed.all, adk.adk_components.all;
+Reading library file `/afs/cad.njit.edu/u/j/k/jk526/tsmc018_typ.syn`...
+Library version = v3.1 Release : Patch (a) : (Aug 26, 2005)
+Delays assume: Process=typical Temp=  0.0 C  Voltage=1.80 V  
+Info: setting encoding to auto
+Info, Command 'load_library' finished successfully
+-- Reading file /afs/cad/sw.common/mentor.2012/leonardo_spectrum_2011a/data/standard.vhd for unit standard
+-- Loading package standard into library std
+-- Reading vhdl file /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw5/q4/leo/../vhdl/var_add.vhdl into library work
+-- Reading file /afs/cad/sw.common/mentor.2012/leonardo_spectrum_2011a/data/std_1164.vhd for unit std_logic_1164
+-- Loading package std_logic_1164 into library ieee
+-- Searching for SYNOPSYS package std_logic_signed..
+-- Reading file /afs/cad/sw.common/mentor.2012/leonardo_spectrum_2011a/data/syn_sign.vhd for unit std_logic_signed
+-- Searching for SYNOPSYS package std_logic_arith..
+-- Reading file /afs/cad/sw.common/mentor.2012/leonardo_spectrum_2011a/data/syn_arit.vhd for unit std_logic_arith
+-- Loading package std_logic_arith into library ieee
+-- Loading package STD_LOGIC_SIGNED into library ieee
+-- Loading entity invert_circuit into library work
+-- Loading architecture var_ex of invert_circuit into library work
+-- Compiling root entity invert_circuit(var_ex)
+Info, Command 'elaborate' finished successfully
+-- Compiling root entity invert_circuit(var_ex)
+-- Info, replacing invert_circuit(var_ex)
+Info, Command 'elaborate' finished successfully
+-- Start pre-optimization for design .work.invert_circuit.var_ex
+Info, Command 'pre_optimize' finished successfully
+NO wire table is found
+-- Optimizing netlist .work.invert_circuit.var_ex
+-- Matching combinational logic..
+-- Matching non-combinational logic..
+-- Covering..
+-- CPU Time used :   00:00 Mapping
+-- Final Design Rule Check..
+Info, Command 'optimize' finished successfully
+-- Writing file synthesized_var.vhd
+Info, Command 'write' finished successfully
+-- Writing file synthesized_var.v
+Info, Command 'write' finished successfully
+NO wire table is found
+
+
+
+                        Critical Path Report
+
+Critical path #1, (unconstrained path)
+NAME                               GATE              ARRIVAL              LOAD
+------------------------------------------------------------------------------
+A_IN/                                          0.00  0.00 up             0.01
+ix59/Y                             inv01       0.02  0.02 dn             0.00
+A_OUT                     (net)                0.00  0.02 dn   (fan)     1.00
+A_OUT/                                         0.00  0.02 dn             0.00
+data arrival time                                    0.02
+
+data required time                                not specified
+------------------------------------------------------------------------------
+data required time                                not specified
+data arrival time                                    0.02
+                                                  ----------
+                                               unconstrained path
+------------------------------------------------------------------------------
+
+
+Info, Command 'report_delay' finished successfully

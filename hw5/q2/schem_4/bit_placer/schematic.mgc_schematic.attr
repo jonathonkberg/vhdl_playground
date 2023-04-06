@@ -1,0 +1,10 @@
+A 5 u mgc_schematic 641cb16f68a2.03.80.eb.2c.48.00.12.69 2 2 1 0
+V v 1 1 641cb16f68a2.03.80.eb.2c.48.01.12.69
+F o 0 ""
+V v 2 1 641cb16f8dde.03.80.eb.2c.48.00.12.69
+F o 0 ""
+O 2
+R cspuv 0 "$HOME/ece758/vhdl_playground/hw5/q2/schem_4/bit_placer/schematic/sheet1" 1 mgc_sheet 641cb16f6e35.03.80.eb.2c.48.01.12.69 641cb16f6e35.03.80.eb.2c.48.00.12.69
+O 1
+R cspuv 0 "$HOME/ece758/vhdl_playground/hw5/q2/schem_4/bit_placer/schematic/sheet1" 1 mgc_sheet 641cb16f6e35.03.80.eb.2c.48.01.12.69 641cb16f6e35.03.80.eb.2c.48.00.12.69
+P "eddm__refer_state" "eddm__refer_floating"

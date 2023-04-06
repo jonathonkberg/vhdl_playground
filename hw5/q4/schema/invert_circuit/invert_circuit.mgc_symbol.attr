@@ -1,0 +1,6 @@
+A 5 u mgc_symbol 641caf6ab82a.03.80.eb.2c.48.00.0b.9a 1 2 1 0
+V v 1 2 641caf6ab82a.03.80.eb.2c.48.01.0b.9a
+F f 1 "invert_circuit.smbl_1"
+F o 0 
+O 1
+R csduv 0 "$HOME/ece758/vhdl_playground/hw5/q4/schema/invert_circuit/part" 1 Eddm_part 641caf6ab939.03.80.eb.2c.48.01.0b.9a 641caf6ab939.03.80.eb.2c.48.00.0b.9a
