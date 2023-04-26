@@ -1,0 +1,266 @@
+# Compile of dff.vhd was successful.
+# Compile of galois_adder.vhd failed with 1 errors.
+# Compile of galois_multiplier.vhd failed with 1 errors.
+# Compile of lfsr.vhd failed with 1 errors.
+# Compile of network_encoder.vhd failed with 1 errors.
+# Compile of shift_register_15.vhd failed with 1 errors.
+# Compile of galois_expand.vhd failed with 1 errors.
+# 7 compiles, 6 failed with 6 errors. 
+# Compile of dff.vhd was successful.
+# Compile of galois_adder.vhd failed with 1 errors.
+# Compile of galois_multiplier.vhd failed with 1 errors.
+# Compile of lfsr.vhd failed with 1 errors.
+# Compile of network_encoder.vhd failed with 1 errors.
+# Compile of shift_register_15.vhd failed with 1 errors.
+# Compile of galois_expand.vhd failed with 1 errors.
+# 7 compiles, 6 failed with 6 errors. 
+# Compile of dff.vhd was successful.
+# Compile of galois_adder.vhd failed with 1 errors.
+# Compile of galois_multiplier.vhd failed with 1 errors.
+# Compile of lfsr.vhd failed with 1 errors.
+# Compile of network_encoder.vhd failed with 1 errors.
+# Compile of shift_register_15.vhd failed with 1 errors.
+# Compile of galois_expand.vhd failed with 1 errors.
+# 7 compiles, 6 failed with 6 errors. 
+# Compile of dff.vhd was successful.
+# Compile of galois_adder.vhd failed with 1 errors.
+# Compile of galois_multiplier.vhd failed with 1 errors.
+# Compile of lfsr.vhd failed with 1 errors.
+# Compile of network_encoder.vhd failed with 1 errors.
+# Compile of shift_register_15.vhd failed with 1 errors.
+# Compile of galois_expand.vhd failed with 1 errors.
+# 7 compiles, 6 failed with 6 errors. 
+# Compile of dff.vhd was successful.
+# Compile of galois_adder.vhd failed with 1 errors.
+# Compile of galois_multiplier.vhd failed with 1 errors.
+# Compile of lfsr.vhd failed with 1 errors.
+# Compile of network_encoder.vhd failed with 1 errors.
+# Compile of shift_register_15.vhd failed with 1 errors.
+# Compile of galois_expand.vhd failed with 1 errors.
+# 7 compiles, 6 failed with 6 errors. 
+# Compile of dff.vhd was successful.
+# Compile of galois_adder.vhd failed with 1 errors.
+# Compile of galois_multiplier.vhd failed with 1 errors.
+# Compile of lfsr.vhd failed with 1 errors.
+# Compile of network_encoder.vhd failed with 1 errors.
+# Compile of shift_register_15.vhd failed with 1 errors.
+# Compile of galois_expand.vhd failed with 1 errors.
+# 7 compiles, 6 failed with 6 errors. 
+# Compile of dff.vhd was successful.
+# Compile of galois_adder.vhd failed with 1 errors.
+# Compile of galois_multiplier.vhd failed with 1 errors.
+# Compile of lfsr.vhd failed with 1 errors.
+# Compile of network_encoder.vhd failed with 1 errors.
+# Compile of shift_register_15.vhd failed with 1 errors.
+# Compile of galois_expand.vhd failed with 1 errors.
+# 7 compiles, 6 failed with 6 errors. 
+# Compile of galois_expand.vhd failed with 1 errors.
+# Compile of galois_expand.vhd failed with 1 errors.
+# Compile of galois_expand.vhd failed with 1 errors.
+# Compile of galois_expand.vhd failed with 1 errors.
+# Compile of galois_expand.vhd failed with 1 errors.
+# Compile of galois_expand.vhd was successful.
+# Compile of galois_expand.vhd failed with 1 errors.
+# Compile of galois_expand.vhd was successful.
+# Compile of galois_expand.vhd was successful.
+# Compile of galois_expand.vhd was successful.
+# Compile of galois_expand.vhd was successful.
+# Compile of galois_expand.vhd failed with 1 errors.
+# Compile of galois_expand.vhd was successful.
+# Compile of galois_expand.vhd failed with 3 errors.
+# Compile of galois_expand.vhd failed with 1 errors.
+# Compile of galois_expand.vhd failed with 1 errors.
+# Compile of galois_expand.vhd was successful.
+# Compile of galois_expand.vhd failed with 1 errors.
+# Compile of galois_expand_test.vhd failed with 6 errors.
+# 2 compiles, 2 failed with 7 errors. 
+# Compile of galois_expand.vhd failed with 1 errors.
+# Compile of galois_expand_test.vhd failed with 6 errors.
+# 2 compiles, 2 failed with 7 errors. 
+# Compile of galois_expand.vhd was successful.
+# Compile of galois_expand_test.vhd failed with 6 errors.
+# 2 compiles, 1 failed with 6 errors. 
+# Compile of galois_expand.vhd was successful.
+# Compile of galois_expand_test.vhd failed with 6 errors.
+# 2 compiles, 1 failed with 6 errors. 
+# Compile of galois_expand.vhd was successful.
+# Compile of galois_expand_test.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim work.galois_expand_test
+# vsim work.galois_expand_test 
+# ** Note: (vsim-3812) Design is being optimized...
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.galois_expand_test(behavior)#1
+add wave -position insertpoint  \
+sim:/galois_expand_test/packet_input \
+sim:/galois_expand_test/random_num_input \
+sim:/galois_expand_test/clk \
+sim:/galois_expand_test/mult_out
+start sijm
+# wrong # args: should be "startIndProgressBar"
+start sim
+# wrong # args: should be "startIndProgressBar"
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+start sim
+# wrong # args: should be "startIndProgressBar"
+start sim
+# wrong # args: should be "startIndProgressBar"
+start sim
+# wrong # args: should be "startIndProgressBar"
+start sim
+# wrong # args: should be "startIndProgressBar"
+start sim
+# wrong # args: should be "startIndProgressBar"
+start sim
+# wrong # args: should be "startIndProgressBar"
+start sim
+# wrong # args: should be "startIndProgressBar"
+start sim
+# wrong # args: should be "startIndProgressBar"
+start sim
+# wrong # args: should be "startIndProgressBar"
+start sim
+# wrong # args: should be "startIndProgressBar"
+start sim
+# wrong # args: should be "startIndProgressBar"
+start sim
+# wrong # args: should be "startIndProgressBar"
+start sim
+# wrong # args: should be "startIndProgressBar"
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+add wave -position insertpoint  \
+sim:/galois_expand_test/galois_expand_instance/row_1
+# Load canceled
+quit -sim
+vsim work.galois_expand_test
+# vsim work.galois_expand_test 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.galois_expand_test(behavior)#1
+add wave -position insertpoint  \
+sim:/galois_expand_test/packet_input \
+sim:/galois_expand_test/random_num_input \
+sim:/galois_expand_test/clk \
+sim:/galois_expand_test/mult_out
+add wave -position insertpoint  \
+sim:/galois_expand_test/galois_expand_instance/row_1 \
+sim:/galois_expand_test/galois_expand_instance/row_2 \
+sim:/galois_expand_test/galois_expand_instance/row_3 \
+sim:/galois_expand_test/galois_expand_instance/row_4 \
+sim:/galois_expand_test/galois_expand_instance/row_5 \
+sim:/galois_expand_test/galois_expand_instance/row_6 \
+sim:/galois_expand_test/galois_expand_instance/row_7 \
+sim:/galois_expand_test/galois_expand_instance/perform_xor \
+sim:/galois_expand_test/galois_expand_instance/start_xor \
+sim:/galois_expand_test/galois_expand_instance/calc_complete \
+sim:/galois_expand_test/galois_expand_instance/clk
+run
+run
+# Causality operation skipped due to absence of debug database file
+#  Trace back: invalid command name ".main_pane.cs.9.pw"
+#     while executing
+# "$w cget -opaqueresize"
+#     (procedure "::tk::panedwindow::ReleaseSash" line 2)
+#     invoked from within
+# "::tk::panedwindow::ReleaseSash $w $opaque"
+#     (procedure "::tk::panedwindow::2DReleaseSash" line 8)
+#     invoked from within
+# "::tk::panedwindow::2DReleaseSash .main_pane.dataflow.interior.cs.body.pw 635 281 2792 538 0"
+#     (command bound to event) 
+#    <2:/mtitcl/tk8.5/bgerror.tcl:92: ::tkerror {invalid command name ".main_pane.cs.9.pw"} 
+#    <1:eval:1: ::tk::dialog::error::bgerror {invalid command name ".main_pane.cs.9.pw"} 
+quit -sim
+vsim work.galois_expand
+# vsim work.galois_expand 
+# ** Note: (vsim-3812) Design is being optimized...
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.galois_expand(galois_expand_fsm)#1
+add wave -position insertpoint  \
+sim:/galois_expand/clk \
+sim:/galois_expand/packet_input \
+sim:/galois_expand/random_num_input \
+sim:/galois_expand/mult_out \
+sim:/galois_expand/finish \
+sim:/galois_expand/row_1 \
+sim:/galois_expand/row_2 \
+sim:/galois_expand/row_3 \
+sim:/galois_expand/row_4 \
+sim:/galois_expand/row_5 \
+sim:/galois_expand/row_6 \
+sim:/galois_expand/row_7 \
+sim:/galois_expand/perform_xor \
+sim:/galois_expand/start_xor \
+sim:/galois_expand/calc_complete
+force clk 1 25
+run
+force clk 0 25
+run
+# Compile of galois_expand.vhd was successful.
+# Compile of galois_expand_test.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+# Compile of galois_expand.vhd was successful.
+# Compile of galois_expand_test.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart -f
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.galois_expand(galois_expand_fsm)#1
+force clk 0 25
+force clk 1 25
+run
+force clk 0 25
+run
+# Compile of dff.vhd was successful.
+# Compile of galois_adder.vhd failed with 1 errors.
+# Compile of galois_multiplier.vhd failed with 1 errors.
+# Compile of lfsr.vhd failed with 1 errors.
+# Compile of network_encoder.vhd failed with 1 errors.
+# Compile of shift_register_15.vhd failed with 1 errors.
+# Compile of galois_expand.vhd was successful.
+# Compile of galois_expand_test.vhd was successful.
+# 8 compiles, 5 failed with 5 errors. 
+# Compile of dff.vhd was successful.
+# Compile of galois_adder.vhd failed with 1 errors.
+# Compile of galois_multiplier.vhd failed with 1 errors.
+# Compile of lfsr.vhd failed with 1 errors.
+# Compile of network_encoder.vhd failed with 1 errors.
+# Compile of shift_register_15.vhd failed with 1 errors.
+# Compile of galois_expand.vhd was successful.
+# Compile of galois_expand_test.vhd was successful.
+# 8 compiles, 5 failed with 5 errors. 
+quit -sim
