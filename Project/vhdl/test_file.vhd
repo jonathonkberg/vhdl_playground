@@ -6,7 +6,7 @@ entity galois_expand is
     port(
         clk : in std_logic;
         packet_input, random_num_input : in std_logic_vector(7 downto 0);
-        mult_out : out std_logic_vector(15 downto 0);
+        mult_out : out std_logic_vector(14 downto 0);
         complete : out std_logic
     );
 end galois_expand;
