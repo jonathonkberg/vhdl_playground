@@ -44,13 +44,13 @@ architecture behavior of galois_expand_test is
       
       stimulus_process : process
       begin
-        packet_input <= "10010011";
-        random_num_input <= "01011001";
+        packet_input <= "10101010";
+        random_num_input <= "11001011";
         
         wait for 200 ns;
         
-        packet_input <= "10101010";
-        random_num_input <= "01010101";
+        packet_input <= "00010001";
+        random_num_input <= "11100100";
         
         wait for 200 ns;
         
