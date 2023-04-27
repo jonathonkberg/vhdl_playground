@@ -35,7 +35,6 @@ architecture galois_expand_fsm of galois_expand is
             row_5 <= "000000000000000";
             row_6 <= "000000000000000";
             row_7 <= "000000000000000";
-            mult_out <= "000000000000000";
             complete <= '0';
             perform_xor <= "00000000";
             calc_complete <= '0';
@@ -46,6 +45,7 @@ architecture galois_expand_fsm of galois_expand is
 
         process(populate_rows) is
         begin
+        mult_out <= "000000000000000";
           if(populate_rows = '1') then
             if (random_num_input(1) = '1') then
               for i in 7 downto 0 loop
