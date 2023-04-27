@@ -178,10 +178,10 @@ architecture galois_expand_fsm of galois_expand is
           end if;
           if (ready_0 = '1' and ready_1 = '1' and ready_2 = '1' and ready_3 = '1' and ready_4 = '1' and ready_5 = '1' and ready_6 = '1' and ready_7 = '1') then
             for i in 0 to 14 loop
-              mult_out(i) <= (((((((row_0(i) xor row_1(i)) xor row_2(i)) xor row_3(i)) xor row_4(i)) xor row_5(i)) xor row_6(i)) xor row_7(i));
+              mult_out(i) <= (((((((row_0(i) xor row_1(i)) xor row_2(i)) xor row_3(i)) xor row_4(i)) xor row_5(i)) xor row_6(i)) xor row_7(i)) after 1 ns;
             end loop;
-            complete_fsm <= '1';
-            complete <= '1';
+            complete_fsm <= '1' after 1 ns;
+            complete <= '1' after 1 ns;
           end if;
         end process;
             
