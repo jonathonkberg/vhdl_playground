@@ -25,7 +25,7 @@ architecture galois_expand_fsm of galois_expand is
   -- Signals are re-initialized at restart of state machine
     process(clk) is
         begin
-          if clk'event and clk = '1' then
+          if (clk'event and clk = '1') then
             row_0 <= "000000000000000";
             row_1 <= "000000000000000";
             row_2 <= "000000000000000";
@@ -41,5 +41,17 @@ architecture galois_expand_fsm of galois_expand is
             populate_rows <= '1';
           end if;
         end process;
+
+        process(populate_rows) is
+            begin
+              if(populate_rows = '1') then
+                if (random_num_input(0) = '1') then
+                  for i in 0 to 7 loop
+                    row_0(i) <= packet_input(i);
+                  end loop;
+                end if;
+                perform_xor(0) <= '1';
+              end if;
+            end process;
 
 end galois_expand_fsm;
