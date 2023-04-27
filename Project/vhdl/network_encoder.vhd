@@ -29,7 +29,7 @@ entity network_encoder is
     port(
         packet_1, packet_2, packet_3, packet_4, packet_5, packet_6, packet_7, packet_8 : in std_logic_vector(7 downto 0);
         CLK: inout std_logic;
-        coded_packet: out std_logic_vector(14 downto 0);
+        coded_packet: out std_logic_vector(7 downto 0);
         );
     end network_encoder;
 
@@ -54,7 +54,9 @@ architecture hierchical_design of network_encoder is
         );
     end component;
 
-    signal : mult_ans_1, mult_ans_2, mult_ans_3, mult_ans_4, mult_ans_5, mult_ans_6, mult_ans_7, mult_ans_8 : std_logic(14 downto 0);
+    signal : mult_ans_1, mult_ans_2, mult_ans_3, mult_ans_4, mult_ans_5, mult_ans_6, mult_ans_7, mult_ans_8 : std_logic(7 downto 0);
+    signal : add_out_11, add_out_12, add_out_13, add_out_14, add_out_21, add_out_22 : std_logic(7 downto 0);
+
     begin
 
         -- multipliers
