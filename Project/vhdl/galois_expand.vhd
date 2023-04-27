@@ -38,14 +38,14 @@ architecture galois_expand_fsm of galois_expand is
 -- Row population processes
   -- Processes only populate if populate_rows = 1
   -- Eight rows are populated concurrently
-    process(populate_rows) is
+    process(populate_rows, complete_fsm) is
       begin
-        if(reset_rows = '1') then
+        if(reset_rows = '1' or complete_fsm = '1') then
           ready_0 <= '0';
           row_0 <= "000000000000000";
         end if;
         if(populate_rows = '1') then
-          if (random_num_input(0) = '1') then
+          if (random_num_input(0) = '1'  and complete_fsm = '0') then
             for i in 0 to 7 loop
               row_0(i) <= packet_input(i);
             end loop;
@@ -54,14 +54,14 @@ architecture galois_expand_fsm of galois_expand is
         end if;
       end process;
 
-      process(populate_rows) is
+      process(populate_rows, complete_fsm) is
         begin
-          if(reset_rows = '1') then
+          if(reset_rows = '1'  or complete_fsm = '1') then
             ready_1 <= '0';
             row_1 <= "000000000000000";
           end if;
           if(populate_rows = '1') then
-            if (random_num_input(1) = '1') then
+            if (random_num_input(1) = '1'  and complete_fsm = '0') then
               for i in 0 to 7 loop
                 row_1(i+1) <= packet_input(i);
               end loop;
@@ -70,14 +70,14 @@ architecture galois_expand_fsm of galois_expand is
           end if;
         end process;
 
-        process(populate_rows) is
+        process(populate_rows, complete_fsm) is
           begin
-            if(reset_rows = '1') then
+            if(reset_rows = '1'  or complete_fsm = '1') then
               ready_2 <= '0';
               row_2 <= "000000000000000";
             end if;
             if(populate_rows = '1') then
-              if (random_num_input(2) = '1') then
+              if (random_num_input(2) = '1'  and complete_fsm = '0') then
                 for i in 0 to 7 loop
                   row_2(i+2) <= packet_input(i);
                 end loop;
@@ -86,14 +86,14 @@ architecture galois_expand_fsm of galois_expand is
             end if;
           end process;
 
-          process(populate_rows) is
+          process(populate_rows, complete_fsm) is
             begin
-              if(reset_rows = '1') then
+              if(reset_rows = '1'  or complete_fsm = '1') then
                 ready_3 <= '0';
                 row_3 <= "000000000000000";
               end if;
               if(populate_rows = '1') then
-                if (random_num_input(3) = '1') then
+                if (random_num_input(3) = '1'  and complete_fsm = '0') then
                   for i in 0 to 7 loop
                     row_3(i+3) <= packet_input(i);
                   end loop;
@@ -102,14 +102,14 @@ architecture galois_expand_fsm of galois_expand is
               end if;
             end process;
 
-            process(populate_rows) is
+            process(populate_rows, complete_fsm) is
               begin
-                if(reset_rows = '1') then
+                if(reset_rows = '1'  or complete_fsm = '1') then
                   ready_4 <= '0';
                   row_4 <= "000000000000000";
                 end if;
                 if(populate_rows = '1') then
-                  if (random_num_input(4) = '1') then
+                  if (random_num_input(4) = '1'  and complete_fsm = '0') then
                     for i in 0 to 7 loop
                       row_4(i+4) <= packet_input(i);
                     end loop;
@@ -118,14 +118,14 @@ architecture galois_expand_fsm of galois_expand is
                 end if;
               end process;
 
-              process(populate_rows) is
+              process(populate_rows, complete_fsm) is
                 begin
-                  if(reset_rows = '1') then
+                  if(reset_rows = '1'  or complete_fsm = '1') then
                     ready_5 <= '0';
                     row_5 <= "000000000000000";
                   end if;
                   if(populate_rows = '1') then
-                    if (random_num_input(5) = '1') then
+                    if (random_num_input(5) = '1'  and complete_fsm = '0') then
                       for i in 0 to 7 loop
                         row_5(i+5) <= packet_input(i);
                       end loop;
@@ -134,14 +134,14 @@ architecture galois_expand_fsm of galois_expand is
                   end if;
                 end process;
 
-                process(populate_rows) is
+                process(populate_rows, complete_fsm) is
                   begin
-                    if(reset_rows = '1') then
+                    if(reset_rows = '1'  or complete_fsm = '1') then
                       ready_6 <= '0';
                       row_6 <= "000000000000000";
                     end if;
                     if(populate_rows = '1') then
-                      if (random_num_input(6) = '1') then
+                      if (random_num_input(6) = '1'  and complete_fsm = '0') then
                         for i in 0 to 7 loop
                           row_6(i+6) <= packet_input(i);
                         end loop;
@@ -150,13 +150,13 @@ architecture galois_expand_fsm of galois_expand is
                     end if;
                   end process;
 
-                  process(populate_rows) is
+                  process(populate_rows, complete_fsm) is
                     begin
-                      if(reset_rows = '1') then
+                      if(reset_rows = '1'  or complete_fsm = '1') then
                         ready_7 <= '0';
                         row_7 <= "000000000000000";
                       end if;
-                      if(populate_rows = '1') then
+                      if(populate_rows = '1' and complete_fsm = '0') then
                         if (random_num_input(7) = '1') then
                           for i in 0 to 7 loop
                             row_7(i+7) <= packet_input(i);
