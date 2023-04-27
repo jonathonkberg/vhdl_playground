@@ -11,7 +11,7 @@ architecture behavior of galois_expand_test is
       clk : in std_logic;
       packet_input, random_num_input : in std_logic_vector(7 downto 0);
       mult_out : out std_logic_vector(14 downto 0);
-      finish : out std_logic
+      complete : out std_logic
       );
     end component;
     
@@ -21,7 +21,7 @@ architecture behavior of galois_expand_test is
     
     -- output signals
     signal mult_out : std_logic_vector(14 downto 0);
-    signal finish : std_logic;
+    signal complete : std_logic;
     
     begin
       
@@ -33,7 +33,7 @@ architecture behavior of galois_expand_test is
         packet_input => packet_input,
         random_num_input => random_num_input,
         mult_out => mult_out,
-        finish => finish
+        complete => complete
       );
       
       clock : process

@@ -6,7 +6,7 @@ entity galois_expand is
         clk : in std_logic;
         packet_input, random_num_input : in std_logic_vector(7 downto 0);
         mult_out : out std_logic_vector(14 downto 0);
-        finish : out std_logic
+        complete : out std_logic
     );
 end galois_expand;
 
@@ -35,7 +35,7 @@ architecture galois_expand_fsm of galois_expand is
             row_6 <= "000000000000000";
             row_7 <= "000000000000000";
             mult_out <= "000000000000000";
-            finish <= '0';
+            complete <= '0';
             perform_xor <= "00000000";
             calc_complete <= '0';
             populate_rows <= '1';
@@ -160,7 +160,7 @@ architecture galois_expand_fsm of galois_expand is
               mult_out(i) <= (((((((row_0(i) xor row_1(i)) xor row_2(i)) xor row_3(i)) xor row_4(i)) xor row_5(i)) xor row_6(i)) xor row_7(i));
             end loop;
             calc_complete <= '1';
-            finish <= '1';
+            complete <= '1';
           end if;
         end process;
             
