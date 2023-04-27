@@ -8,6 +8,7 @@ entity galois_expand is
         packet_input, random_num_input : in std_logic_vector(7 downto 0);
         mult_out : out std_logic_vector(14 downto 0);
         complete : out std_logic
+        row_0, row_1, row_2, row_3, row_4, row_5, row_6, row_7 : out std_logic_vector(14 downto 0);
     );
 end galois_expand;
 
@@ -15,7 +16,6 @@ end galois_expand;
 
 architecture galois_expand_fsm of galois_expand is
 
-  signal row_0, row_1, row_2, row_3, row_4, row_5, row_6, row_7 : std_logic_vector(14 downto 0);
   signal perform_xor : std_logic_vector(7 downto 0);
   signal start_xor, calc_complete, populate_rows : std_logic;
     
