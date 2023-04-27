@@ -27,14 +27,6 @@ architecture galois_expand_fsm of galois_expand is
     process(clk) is
         begin
           if (clk'event and clk = '1') then
-            row_0 <= "000000000000000";
-            row_1 <= "000000000000000";
-            row_2 <= "000000000000000";
-            row_3 <= "000000000000000";
-            row_4 <= "000000000000000";
-            row_5 <= "000000000000000";
-            row_6 <= "000000000000000";
-            row_7 <= "000000000000000";
             complete <= '0';
             perform_xor <= "00000000";
             calc_complete <= '0';
@@ -58,7 +50,7 @@ architecture galois_expand_fsm of galois_expand is
 
 
 
-            process(populate_rows) is
+    process(populate_rows) is
       begin
         row_0 <= "000000000000000";
         if(populate_rows = '1') then
