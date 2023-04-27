@@ -172,7 +172,7 @@ architecture galois_expand_fsm of galois_expand is
       process(populate_rows, ready_0, ready_1, ready_2, ready_3, ready_4, ready_5, ready_6, ready_7)
         begin
           if (populate_rows = '1') then
-            mult_out <= "000000000000000";
+            --mult_out <= "000000000000000";
             complete_fsm <= '0';
             complete <= '0';
           end if;
