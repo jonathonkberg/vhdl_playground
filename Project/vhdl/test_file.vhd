@@ -34,7 +34,7 @@ architecture galois_expand_fsm of galois_expand is
             row_5 <= "000000000000000";
             row_6 <= "000000000000000";
             row_7 <= "000000000000000";
-            mult_out <= "000000000000000";
+            --mult_out <= "000000000000000";
             complete <= '0';
             perform_xor <= "00000000";
             calc_complete <= '0';
