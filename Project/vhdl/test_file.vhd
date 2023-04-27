@@ -43,9 +43,9 @@ architecture galois_expand_fsm of galois_expand is
         end process;
 
 
-        process(populate_rows and perform_xor(1) = '0') is
+        process(populate_rows, perform_xor) is
         begin
-          if(populate_rows = '1') then
+          if(populate_rows = '1' and perform_xor(1) = '0') then
             if (random_num_input(1) = '1') then
               for i in 0 to 7 loop
                 mult_out(i+1) <= packet_input(i);
