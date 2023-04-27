@@ -38,7 +38,7 @@ architecture galois_expand_fsm of galois_expand is
 -- Row population processes
   -- Processes only populate if populate_rows = 1
   -- Eight rows are populated concurrently
-    process(populate_rows, complete_fsm) is
+    process(populate_rows) is
       begin
         if(reset_rows = '1') then
           ready_0 <= '0';
