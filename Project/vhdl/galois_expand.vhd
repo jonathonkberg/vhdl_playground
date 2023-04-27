@@ -47,10 +47,10 @@ architecture galois_expand_fsm of galois_expand is
         if(populate_rows = '1') then
           if (random_num_input(0) = '1') then
             for i in 0 to 7 loop
-              row_0(i) <= packet_input(i) after 1 ns;
+              row_0(i) <= packet_input(i);
             end loop;
           end if;
-          ready_0 <= '1' after 1 ns;
+          ready_0 <= '1';
         end if;
       end process;
 
@@ -63,10 +63,10 @@ architecture galois_expand_fsm of galois_expand is
           if(populate_rows = '1') then
             if (random_num_input(1) = '1') then
               for i in 0 to 7 loop
-                row_1(i+1) <= packet_input(i) after 1 ns;
+                row_1(i+1) <= packet_input(i);
               end loop;
             end if;
-            ready_1 <= '1' after 1 ns;
+            ready_1 <= '1';
           end if;
         end process;
 
@@ -79,10 +79,10 @@ architecture galois_expand_fsm of galois_expand is
             if(populate_rows = '1') then
               if (random_num_input(2) = '1') then
                 for i in 0 to 7 loop
-                  row_2(i+2) <= packet_input(i) after 1 ns;
+                  row_2(i+2) <= packet_input(i);
                 end loop;
               end if;
-              ready_2 <= '1' after 1 ns;
+              ready_2 <= '1';
             end if;
           end process;
 
@@ -95,10 +95,10 @@ architecture galois_expand_fsm of galois_expand is
               if(populate_rows = '1') then
                 if (random_num_input(3) = '1') then
                   for i in 0 to 7 loop
-                    row_3(i+3) <= packet_input(i) after 1 ns;
+                    row_3(i+3) <= packet_input(i);
                   end loop;
                 end if;
-                ready_3 <= '1' after 1 ns;
+                ready_3 <= '1';
               end if;
             end process;
 
@@ -111,10 +111,10 @@ architecture galois_expand_fsm of galois_expand is
                 if(populate_rows = '1') then
                   if (random_num_input(4) = '1') then
                     for i in 0 to 7 loop
-                      row_4(i+4) <= packet_input(i) after 1 ns;
+                      row_4(i+4) <= packet_input(i);
                     end loop;
                   end if;
-                  ready_4 <= '1' after 1 ns;
+                  ready_4 <= '1';
                 end if;
               end process;
 
@@ -127,10 +127,10 @@ architecture galois_expand_fsm of galois_expand is
                   if(populate_rows = '1') then
                     if (random_num_input(5) = '1') then
                       for i in 0 to 7 loop
-                        row_5(i+5) <= packet_input(i) after 1 ns;
+                        row_5(i+5) <= packet_input(i);
                       end loop;
                     end if;
-                    ready_5 <= '1' after 1 ns;
+                    ready_5 <= '1';
                   end if;
                 end process;
 
@@ -143,10 +143,10 @@ architecture galois_expand_fsm of galois_expand is
                     if(populate_rows = '1') then
                       if (random_num_input(6) = '1') then
                         for i in 0 to 7 loop
-                          row_6(i+6) <= packet_input(i) after 1 ns;
+                          row_6(i+6) <= packet_input(i);
                         end loop;
                       end if;
-                      ready_6 <= '1' after 1 ns;
+                      ready_6 <= '1';
                     end if;
                   end process;
 
@@ -159,10 +159,10 @@ architecture galois_expand_fsm of galois_expand is
                       if(populate_rows = '1') then
                         if (random_num_input(7) = '1') then
                           for i in 0 to 7 loop
-                            row_7(i+7) <= packet_input(i) after 1 ns;
+                            row_7(i+7) <= packet_input(i);
                           end loop;
                         end if;
-                        ready_7 <= '1' after 1 ns;
+                        ready_7 <= '1';
                       end if;
                     end process;
  
