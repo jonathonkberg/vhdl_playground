@@ -1,0 +1,257 @@
+# Compile of dff.vhd was successful.
+# Compile of galois_adder.vhd failed with 1 errors.
+# Compile of galois_multiplier.vhd failed with 1 errors.
+# Compile of lfsr.vhd failed with 1 errors.
+# Compile of network_encoder.vhd failed with 1 errors.
+# Compile of shift_register_15.vhd failed with 1 errors.
+# Compile of galois_expand.vhd was successful.
+# Compile of galois_expand_test.vhd was successful.
+# Compile of test_file.vhd was successful.
+# 9 compiles, 5 failed with 5 errors. 
+vsim work.galois_expand_test
+# vsim work.galois_expand_test 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.galois_expand_test(behavior)#1
+add wave -position insertpoint sim:/galois_expand_test/galois_expand_instance/*
+run
+run
+run
+run
+run
+quit -sim
+# Compile of dff.vhd was successful.
+# Compile of galois_adder.vhd failed with 1 errors.
+# Compile of galois_multiplier.vhd failed with 1 errors.
+# Compile of lfsr.vhd failed with 1 errors.
+# Compile of network_encoder.vhd failed with 1 errors.
+# Compile of shift_register_15.vhd failed with 1 errors.
+# Compile of galois_expand.vhd was successful.
+# Compile of galois_expand_test.vhd was successful.
+# Compile of test_file.vhd was successful.
+# 9 compiles, 5 failed with 5 errors. 
+vsim work.galois_expand_test
+# vsim work.galois_expand_test 
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.galois_expand_test(behavior)#1
+quit -sim
+# Compile of dff.vhd was successful.
+# Compile of galois_adder.vhd failed with 1 errors.
+# Compile of galois_multiplier.vhd failed with 1 errors.
+# Compile of lfsr.vhd failed with 1 errors.
+# Compile of network_encoder.vhd failed with 1 errors.
+# Compile of shift_register_15.vhd failed with 1 errors.
+# Compile of galois_expand.vhd was successful.
+# Compile of galois_expand_test.vhd was successful.
+# Compile of test_file.vhd was successful.
+# 9 compiles, 5 failed with 5 errors. 
+vsim work.galois_expand_test
+# vsim work.galois_expand_test 
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.galois_expand_test(behavior)#1
+run
+# Load canceled
+quit -sim
+# Compile of dff.vhd was successful.
+# Compile of galois_adder.vhd failed with 1 errors.
+# Compile of galois_multiplier.vhd failed with 1 errors.
+# Compile of lfsr.vhd failed with 1 errors.
+# Compile of network_encoder.vhd failed with 1 errors.
+# Compile of shift_register_15.vhd failed with 1 errors.
+# Compile of galois_expand.vhd was successful.
+# Compile of galois_expand_test.vhd was successful.
+# Compile of test_file.vhd was successful.
+# 9 compiles, 5 failed with 5 errors. 
+vsim work.galois_expand_test
+# vsim work.galois_expand_test 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.galois_expand_test(behavior)#1
+run
+run
+add wave -position insertpoint sim:/galois_expand_test/galois_expand_instance/*
+# A time value could not be extracted from the current line
+run
+run
+runr
+# invalid command name "runr"
+run
+run
+# Break key hit 
+quit -sim
+# Compile of dff.vhd was successful.
+# Compile of galois_adder.vhd failed with 1 errors.
+# Compile of galois_multiplier.vhd failed with 1 errors.
+# Compile of lfsr.vhd failed with 1 errors.
+# Compile of network_encoder.vhd failed with 1 errors.
+# Compile of shift_register_15.vhd failed with 1 errors.
+# Compile of galois_expand.vhd was successful.
+# Compile of galois_expand_test.vhd was successful.
+# Compile of test_file.vhd was successful.
+# 9 compiles, 5 failed with 5 errors. 
+vsim work.galois_expand_test
+# vsim work.galois_expand_test 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.galois_expand_test(behavior)#1
+run
+run
+quit -sim
+# Compile of dff.vhd was successful.
+# Compile of galois_adder.vhd failed with 1 errors.
+# Compile of galois_multiplier.vhd failed with 1 errors.
+# Compile of lfsr.vhd failed with 1 errors.
+# Compile of network_encoder.vhd failed with 1 errors.
+# Compile of shift_register_15.vhd failed with 1 errors.
+# Compile of galois_expand.vhd was successful.
+# Compile of galois_expand_test.vhd was successful.
+# Compile of test_file.vhd was successful.
+# 9 compiles, 5 failed with 5 errors. 
+vsim work.galois_expand_test
+# vsim work.galois_expand_test 
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.galois_expand_test(behavior)#1
+quit -sim
+# Compile of dff.vhd was successful.
+# Compile of galois_adder.vhd failed with 1 errors.
+# Compile of galois_multiplier.vhd failed with 1 errors.
+# Compile of lfsr.vhd failed with 1 errors.
+# Compile of network_encoder.vhd failed with 1 errors.
+# Compile of shift_register_15.vhd failed with 1 errors.
+# Compile of galois_expand.vhd was successful.
+# Compile of galois_expand_test.vhd was successful.
+# Compile of test_file.vhd was successful.
+# 9 compiles, 5 failed with 5 errors. 
+vsim work.galois_expand_test
+# vsim work.galois_expand_test 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.galois_expand_test(behavior)#1
+quit -sim
+vsim work.galois_expand
+# vsim work.galois_expand 
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.galois_expand(galois_expand_fsm)#1
+add wave -position insertpoint sim:/galois_expand/*
+force clk 0 100
+run
+force packet_input(0) 0 100
+force packet_input(1) 1 100
+force packet_input(2) 0 100
+force packet_input(3) 1 100
+force packet_input(4) 0 100
+force packet_input(5) 1 100
+force packet_input(6) 0 100
+force packet_input(7) 1 100
+force random_num_input(0) 1 100
+force random_num_input(1) 1 100
+force random_num_input(2) 0 100
+force random_num_input(3) 1 100
+force random_num_input(4) 0 100
+force random_num_input(5) 0 100
+force random_num_input(6) 1 100
+force random_num_input(7) 1 100
+run
+force clk 1 100
+run
+run
+quit -sim
+# Compile of dff.vhd was successful.
+# Compile of galois_adder.vhd failed with 1 errors.
+# Compile of galois_multiplier.vhd failed with 1 errors.
+# Compile of lfsr.vhd failed with 1 errors.
+# Compile of network_encoder.vhd failed with 1 errors.
+# Compile of shift_register_15.vhd failed with 1 errors.
+# Compile of galois_expand.vhd was successful.
+# Compile of galois_expand_test.vhd was successful.
+# Compile of test_file.vhd was successful.
+# 9 compiles, 5 failed with 5 errors. 
+# Compile of galois_expand.vhd was successful.
+vsim work.galois_expand
+# vsim work.galois_expand 
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.galois_expand(galois_expand_fsm)#1
+add wave -position insertpoint sim:/galois_expand/*
+force clk 0 100
+run
+force packet_input(0) 0 100
+force packet_input(1) 1 100
+force packet_input(2) 0 100
+force packet_input(3) 1 100
+force packet_input(4) 0 100
+force packet_input(5) 1 100
+force packet_input(6) 0 100
+force packet_input(7) 1 100
+force random_num_input(0) 1 100
+force random_num_input(1) 1 100
+force random_num_input(2) 0 100
+force random_num_input(3) 1 100
+force random_num_input(4) 0 100
+force random_num_input(5) 0 100
+force random_num_input(6) 1 100
+force random_num_input(7) 1 100
+run
+force clk 1 100
+run
+run
+quit -sim
+# Compile of galois_expand.vhd was successful.
+# Compile of galois_expand_test.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim work.galois_expand_test
+# vsim work.galois_expand_test 
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.galois_expand_test(behavior)#1
+add wave -position insertpoint sim:/galois_expand_test/galois_expand_instance/*
+run
+run
+run
+run
+run
+run
+run
+quit -sim
+# Compile of galois_expand_test.vhd was successful.
+vsim work.galois_expand_test
+# vsim work.galois_expand_test 
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.galois_expand_test(behavior)#1
+add wave -position insertpoint sim:/galois_expand_test/galois_expand_instance/*
+run
+run
+run
+run
+# Causality operation skipped due to absence of debug database file
