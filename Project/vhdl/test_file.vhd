@@ -64,10 +64,10 @@ architecture galois_expand_fsm of galois_expand is
         if(populate_rows = '1') then
           if (random_num_input(0) = '1') then
             for i in 0 to 7 loop
-              row_0(i) <= packet_input(i);
+              row_0(i) <= packet_input(i) after 1 ns;
             end loop;
           end if;
-          perform_xor(0) <= '1';
+          perform_xor(0) <= '1' after 1 ns;
         end if;
       end process;
 
@@ -77,10 +77,10 @@ architecture galois_expand_fsm of galois_expand is
           if(populate_rows = '1') then
             if (random_num_input(1) = '1') then
               for i in 0 to 7 loop
-                row_1(i+1) <= packet_input(i);
+                row_1(i+1) <= packet_input(i) after 1 ns;
               end loop;
             end if;
-            perform_xor(1) <= '1';
+            perform_xor(1) <= '1' after 1 ns;
           end if;
         end process;
 
@@ -90,10 +90,10 @@ architecture galois_expand_fsm of galois_expand is
             if(populate_rows = '1') then
               if (random_num_input(2) = '1') then
                 for i in 0 to 7 loop
-                  row_2(i+2) <= packet_input(i);
+                  row_2(i+2) <= packet_input(i) after 1 ns;
                 end loop;
               end if;
-              perform_xor(2) <= '1';
+              perform_xor(2) <= '1' after 1 ns;
             end if;
           end process;
 
@@ -103,10 +103,10 @@ architecture galois_expand_fsm of galois_expand is
               if(populate_rows = '1') then
                 if (random_num_input(3) = '1') then
                   for i in 0 to 7 loop
-                    row_3(i+3) <= packet_input(i);
+                    row_3(i+3) <= packet_input(i) after 1 ns;
                   end loop;
                 end if;
-                perform_xor(3) <= '1';
+                perform_xor(3) <= '1' after 1 ns;
               end if;
             end process;
 
@@ -116,10 +116,10 @@ architecture galois_expand_fsm of galois_expand is
                 if(populate_rows = '1') then
                   if (random_num_input(4) = '1') then
                     for i in 0 to 7 loop
-                      row_4(i+4) <= packet_input(i);
+                      row_4(i+4) <= packet_input(i) after 1 ns;
                     end loop;
                   end if;
-                  perform_xor(4) <= '1';
+                  perform_xor(4) <= '1' after 1 ns;
                 end if;
               end process;
 
@@ -129,10 +129,10 @@ architecture galois_expand_fsm of galois_expand is
                   if(populate_rows = '1') then
                     if (random_num_input(5) = '1') then
                       for i in 0 to 7 loop
-                        row_5(i+5) <= packet_input(i);
+                        row_5(i+5) <= packet_input(i) after 1 ns;
                       end loop;
                     end if;
-                    perform_xor(5) <= '1';
+                    perform_xor(5) <= '1' after 1 ns;
                   end if;
                 end process;
 
@@ -142,10 +142,10 @@ architecture galois_expand_fsm of galois_expand is
                     if(populate_rows = '1') then
                       if (random_num_input(6) = '1') then
                         for i in 0 to 7 loop
-                          row_6(i+6) <= packet_input(i);
+                          row_6(i+6) <= packet_input(i) after 1 ns;
                         end loop;
                       end if;
-                      perform_xor(6) <= '1';
+                      perform_xor(6) <= '1' after 1 ns;
                     end if;
                   end process;
 
@@ -155,10 +155,10 @@ architecture galois_expand_fsm of galois_expand is
                       if(populate_rows = '1') then
                         if (random_num_input(7) = '1') then
                           for i in 0 to 7 loop
-                            row_7(i+7) <= packet_input(i);
+                            row_7(i+7) <= packet_input(i) after 1 ns;
                           end loop;
                         end if;
-                        perform_xor(7) <= '1';
+                        perform_xor(7) <= '1' after 1 ns;
                       end if;
                     end process;
  
