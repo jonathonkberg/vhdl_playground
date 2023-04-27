@@ -255,3 +255,337 @@ run
 run
 run
 # Causality operation skipped due to absence of debug database file
+quit -sim
+# Compile of test_file.vhd was successful.
+# Compile of dff.vhd was successful.
+# Compile of lfsr.vhd failed with 1 errors.
+# Compile of shift_register_15.vhd failed with 1 errors.
+# Compile of galois_adder.vhd failed with 1 errors.
+# Compile of galois_expand.vhd was successful.
+# Compile of galois_expand_test.vhd was successful.
+# Compile of galois_modulo.vhd was successful.
+# Compile of galois_multiplier.vhd failed with 1 errors.
+# Compile of network_encoder.vhd failed with 1 errors.
+# 10 compiles, 5 failed with 5 errors. 
+# Compile of test_file.vhd was successful.
+# Compile of dff.vhd was successful.
+# Compile of lfsr.vhd failed with 1 errors.
+# Compile of shift_register_15.vhd failed with 1 errors.
+# Compile of galois_adder.vhd failed with 1 errors.
+# Compile of galois_expand.vhd was successful.
+# Compile of galois_expand_test.vhd was successful.
+# Compile of galois_modulo.vhd was successful.
+# Compile of galois_multiplier.vhd failed with 1 errors.
+# Compile of network_encoder.vhd failed with 1 errors.
+# 10 compiles, 5 failed with 5 errors. 
+# Compile of test_file.vhd was successful.
+# Compile of dff.vhd was successful.
+# Compile of lfsr.vhd failed with 1 errors.
+# Compile of shift_register_15.vhd failed with 1 errors.
+# Compile of galois_adder.vhd failed with 1 errors.
+# Compile of galois_expand.vhd was successful.
+# Compile of galois_expand_test.vhd was successful.
+# Compile of galois_modulo.vhd was successful.
+# Compile of galois_multiplier.vhd failed with 1 errors.
+# Compile of network_encoder.vhd failed with 1 errors.
+# 10 compiles, 5 failed with 5 errors. 
+# Compile of test_file.vhd was successful.
+# Compile of dff.vhd was successful.
+# Compile of lfsr.vhd failed with 1 errors.
+# Compile of shift_register_15.vhd failed with 1 errors.
+# Compile of galois_adder.vhd failed with 1 errors.
+# Compile of galois_expand.vhd was successful.
+# Compile of galois_expand_test.vhd was successful.
+# Compile of galois_modulo.vhd was successful.
+# Compile of galois_multiplier.vhd failed with 1 errors.
+# Compile of network_encoder.vhd failed with 1 errors.
+# 10 compiles, 5 failed with 5 errors. 
+# Compile of test_file.vhd was successful.
+# Compile of dff.vhd was successful.
+# Compile of lfsr.vhd failed with 1 errors.
+# Compile of shift_register_15.vhd failed with 1 errors.
+# Compile of galois_adder.vhd failed with 1 errors.
+# Compile of galois_expand.vhd was successful.
+# Compile of galois_expand_test.vhd was successful.
+# Compile of galois_modulo.vhd was successful.
+# Compile of galois_multiplier.vhd failed with 1 errors.
+# Compile of network_encoder.vhd failed with 1 errors.
+# 10 compiles, 5 failed with 5 errors. 
+# Compile of test_file.vhd was successful.
+# Compile of dff.vhd was successful.
+# Compile of lfsr.vhd failed with 1 errors.
+# Compile of shift_register_15.vhd failed with 1 errors.
+# Compile of galois_adder.vhd failed with 1 errors.
+# Compile of galois_expand.vhd was successful.
+# Compile of galois_expand_test.vhd was successful.
+# Compile of galois_modulo.vhd was successful.
+# Compile of galois_multiplier.vhd failed with 1 errors.
+# Compile of network_encoder.vhd failed with 1 errors.
+# 10 compiles, 5 failed with 5 errors. 
+# Compile of test_file.vhd was successful.
+# Compile of dff.vhd was successful.
+# Compile of lfsr.vhd failed with 1 errors.
+# Compile of shift_register_15.vhd failed with 1 errors.
+# Compile of galois_adder.vhd failed with 1 errors.
+# Compile of galois_expand.vhd was successful.
+# Compile of galois_expand_test.vhd was successful.
+# Compile of galois_modulo.vhd was successful.
+# Compile of galois_multiplier.vhd failed with 1 errors.
+# Compile of network_encoder.vhd failed with 1 errors.
+# 10 compiles, 5 failed with 5 errors. 
+# Compile of test_file.vhd was successful.
+# Compile of dff.vhd was successful.
+# Compile of lfsr.vhd failed with 1 errors.
+# Compile of shift_register_15.vhd failed with 1 errors.
+# Compile of galois_adder.vhd failed with 1 errors.
+# Compile of galois_expand.vhd was successful.
+# Compile of galois_expand_test.vhd was successful.
+# Compile of galois_modulo.vhd was successful.
+# Compile of galois_multiplier.vhd failed with 1 errors.
+# Compile of network_encoder.vhd failed with 1 errors.
+# 10 compiles, 5 failed with 5 errors. 
+# Compile of test_file.vhd was successful.
+# Compile of dff.vhd was successful.
+# Compile of lfsr.vhd failed with 1 errors.
+# Compile of shift_register_15.vhd failed with 1 errors.
+# Compile of galois_adder.vhd failed with 1 errors.
+# Compile of galois_expand.vhd was successful.
+# Compile of galois_expand_test.vhd was successful.
+# Compile of galois_modulo.vhd was successful.
+# Compile of galois_multiplier.vhd was successful.
+# Compile of network_encoder.vhd failed with 1 errors.
+# 10 compiles, 4 failed with 4 errors. 
+# Compile of test_file.vhd was successful.
+# Compile of dff.vhd was successful.
+# Compile of lfsr.vhd failed with 1 errors.
+# Compile of shift_register_15.vhd failed with 1 errors.
+# Compile of galois_adder.vhd failed with 1 errors.
+# Compile of galois_expand.vhd was successful.
+# Compile of galois_expand_test.vhd was successful.
+# Compile of galois_modulo.vhd was successful.
+# Compile of galois_multiplier.vhd was successful.
+# Compile of network_encoder.vhd failed with 1 errors.
+# Compile of multiply_test.vhd failed with 1 errors.
+# 11 compiles, 5 failed with 5 errors. 
+# Compile of test_file.vhd was successful.
+# Compile of dff.vhd was successful.
+# Compile of lfsr.vhd failed with 1 errors.
+# Compile of shift_register_15.vhd failed with 1 errors.
+# Compile of galois_adder.vhd failed with 1 errors.
+# Compile of galois_expand.vhd was successful.
+# Compile of galois_expand_test.vhd was successful.
+# Compile of galois_modulo.vhd was successful.
+# Compile of galois_multiplier.vhd was successful.
+# Compile of network_encoder.vhd failed with 1 errors.
+# Compile of multiply_test.vhd failed with 1 errors.
+# 11 compiles, 5 failed with 5 errors. 
+# Compile of test_file.vhd was successful.
+# Compile of dff.vhd was successful.
+# Compile of lfsr.vhd failed with 1 errors.
+# Compile of shift_register_15.vhd failed with 1 errors.
+# Compile of galois_adder.vhd failed with 1 errors.
+# Compile of galois_expand.vhd was successful.
+# Compile of galois_expand_test.vhd was successful.
+# Compile of galois_modulo.vhd was successful.
+# Compile of galois_multiplier.vhd was successful.
+# Compile of network_encoder.vhd failed with 1 errors.
+# Compile of multiply_test.vhd failed with 1 errors.
+# 11 compiles, 5 failed with 5 errors. 
+# Compile of test_file.vhd was successful.
+# Compile of dff.vhd was successful.
+# Compile of lfsr.vhd failed with 1 errors.
+# Compile of shift_register_15.vhd failed with 1 errors.
+# Compile of galois_adder.vhd failed with 1 errors.
+# Compile of galois_expand.vhd was successful.
+# Compile of galois_expand_test.vhd was successful.
+# Compile of galois_modulo.vhd was successful.
+# Compile of galois_multiplier.vhd was successful.
+# Compile of network_encoder.vhd failed with 1 errors.
+# Compile of multiply_test.vhd failed with 1 errors.
+# 11 compiles, 5 failed with 5 errors. 
+# Compile of test_file.vhd was successful.
+# Compile of dff.vhd was successful.
+# Compile of lfsr.vhd failed with 1 errors.
+# Compile of shift_register_15.vhd failed with 1 errors.
+# Compile of galois_adder.vhd failed with 1 errors.
+# Compile of galois_expand.vhd was successful.
+# Compile of galois_expand_test.vhd was successful.
+# Compile of galois_modulo.vhd was successful.
+# Compile of galois_multiplier.vhd was successful.
+# Compile of network_encoder.vhd failed with 1 errors.
+# Compile of multiply_test.vhd was successful.
+# 11 compiles, 4 failed with 4 errors. 
+vsim work.galois_multiply_test
+# vsim work.galois_multiply_test 
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Error: /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/Project/vhdl/galois_multiplier.vhd(53): (vopt-1270) Bad default binding for component instance "expansion_1: galois_expand".
+#  (Component port "finish" is not on the entity.)
+# ** Warning: [1] /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/Project/vhdl/galois_multiplier.vhd(53): (vopt-3473) Component instance "/galois_multiply_test/galois_expand_instance/expansion_1 : galois_expand" is not bound.
+# Optimization failed
+# Error loading design
+vsim work.galois_multiply_test
+# vsim work.galois_multiply_test 
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Error: /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/Project/vhdl/galois_multiplier.vhd(53): (vopt-1270) Bad default binding for component instance "expansion_1: galois_expand".
+#  (Component port "finish" is not on the entity.)
+# ** Warning: [1] /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/Project/vhdl/galois_multiplier.vhd(53): (vopt-3473) Component instance "/galois_multiply_test/galois_expand_instance/expansion_1 : galois_expand" is not bound.
+# Optimization failed
+# Error loading design
+# Compile of test_file.vhd was successful.
+# Compile of dff.vhd was successful.
+# Compile of lfsr.vhd failed with 1 errors.
+# Compile of shift_register_15.vhd failed with 1 errors.
+# Compile of galois_adder.vhd failed with 1 errors.
+# Compile of galois_expand.vhd was successful.
+# Compile of galois_expand_test.vhd was successful.
+# Compile of galois_modulo.vhd was successful.
+# Compile of galois_multiplier.vhd was successful.
+# Compile of network_encoder.vhd failed with 1 errors.
+# Compile of multiply_test.vhd was successful.
+# 11 compiles, 4 failed with 4 errors. 
+vsim work.galois_multiply_test
+# vsim work.galois_multiply_test 
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Error: /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/Project/vhdl/galois_multiplier.vhd(55): (vopt-1270) Bad default binding for component instance "expansion_1: galois_expand".
+#  (Component port "finish" is not on the entity.)
+# ** Warning: [1] /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/Project/vhdl/galois_multiplier.vhd(55): (vopt-3473) Component instance "/galois_multiply_test/galois_expand_instance/expansion_1 : galois_expand" is not bound.
+# Optimization failed
+# Error loading design
+# Compile of test_file.vhd was successful.
+# Compile of dff.vhd was successful.
+# Compile of lfsr.vhd failed with 1 errors.
+# Compile of shift_register_15.vhd failed with 1 errors.
+# Compile of galois_adder.vhd failed with 1 errors.
+# Compile of galois_expand.vhd was successful.
+# Compile of galois_expand_test.vhd was successful.
+# Compile of galois_modulo.vhd was successful.
+# Compile of galois_multiplier.vhd failed with 1 errors.
+# Compile of network_encoder.vhd failed with 1 errors.
+# Compile of multiply_test.vhd was successful.
+# 11 compiles, 5 failed with 5 errors. 
+# Compile of test_file.vhd was successful.
+# Compile of dff.vhd was successful.
+# Compile of lfsr.vhd failed with 1 errors.
+# Compile of shift_register_15.vhd failed with 1 errors.
+# Compile of galois_adder.vhd failed with 1 errors.
+# Compile of galois_expand.vhd was successful.
+# Compile of galois_expand_test.vhd was successful.
+# Compile of galois_modulo.vhd was successful.
+# Compile of galois_multiplier.vhd was successful.
+# Compile of network_encoder.vhd failed with 1 errors.
+# Compile of multiply_test.vhd was successful.
+# 11 compiles, 4 failed with 4 errors. 
+vsim work.galois_multiplier
+# vsim work.galois_multiplier 
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Error: /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/Project/vhdl/galois_multiplier.vhd(55): (vopt-1270) Bad default binding for component instance "expansion_1: galois_expand".
+#  (Component port "finish" is not on the entity.)
+# ** Warning: [1] /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/Project/vhdl/galois_multiplier.vhd(55): (vopt-3473) Component instance "/galois_multiplier/expansion_1 : galois_expand" is not bound.
+# Optimization failed
+# Error loading design
+# Compile of test_file.vhd was successful.
+# Compile of dff.vhd was successful.
+# Compile of lfsr.vhd failed with 1 errors.
+# Compile of shift_register_15.vhd failed with 1 errors.
+# Compile of galois_adder.vhd failed with 1 errors.
+# Compile of galois_expand.vhd was successful.
+# Compile of galois_expand_test.vhd was successful.
+# Compile of galois_modulo.vhd was successful.
+# Compile of galois_multiplier.vhd failed with 1 errors.
+# Compile of network_encoder.vhd failed with 1 errors.
+# Compile of multiply_test.vhd was successful.
+# 11 compiles, 5 failed with 5 errors. 
+# Compile of test_file.vhd was successful.
+# Compile of dff.vhd was successful.
+# Compile of lfsr.vhd failed with 1 errors.
+# Compile of shift_register_15.vhd failed with 1 errors.
+# Compile of galois_adder.vhd failed with 1 errors.
+# Compile of galois_expand.vhd was successful.
+# Compile of galois_expand_test.vhd was successful.
+# Compile of galois_modulo.vhd was successful.
+# Compile of galois_multiplier.vhd was successful.
+# Compile of network_encoder.vhd failed with 1 errors.
+# Compile of multiply_test.vhd was successful.
+# 11 compiles, 4 failed with 4 errors. 
+vsim work.galois_multiply_test
+# vsim work.galois_multiply_test 
+# ** Note: (vsim-3812) Design is being optimized...
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.galois_multiply_test(behavior)#1
+add wave -position insertpoint sim:/galois_multiply_test/*
+add wave -position insertpoint  \
+sim:/galois_multiply_test/galois_expand_instance/expanded_sig
+run
+run
+run
+run
+run
+run
+# Compile of test_file.vhd was successful.
+# Compile of dff.vhd was successful.
+# Compile of lfsr.vhd failed with 1 errors.
+# Compile of shift_register_15.vhd failed with 1 errors.
+# Compile of galois_adder.vhd failed with 1 errors.
+# Compile of galois_expand.vhd was successful.
+# Compile of galois_expand_test.vhd was successful.
+# Compile of galois_modulo.vhd was successful.
+# Compile of galois_multiplier.vhd was successful.
+# Compile of network_encoder.vhd failed with 1 errors.
+# Compile of multiply_test.vhd was successful.
+# 11 compiles, 4 failed with 4 errors. 
+vsim work.galois_multiply_test
+# vsim work.galois_multiply_test 
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# ** Error: /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/Project/vhdl/multiply_test.vhd(35): (vopt-1270) Bad default binding for component instance "galois_expand_instance: galois_multiplier".
+#  (Component port "mult_out" is not on the entity.)
+# ** Warning: [1] /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/Project/vhdl/multiply_test.vhd(35): (vopt-3473) Component instance "/galois_multiply_test/galois_expand_instance : galois_multiplier" is not bound.
+# Optimization failed
+# ** Warning: (vopt-133) Unable to remove directory "/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/Project/vhdl/work/@_opt2".
+# Directory not empty. (errno = 39)
+# Error loading design
+# Compile of test_file.vhd was successful.
+# Compile of dff.vhd was successful.
+# Compile of lfsr.vhd failed with 1 errors.
+# Compile of shift_register_15.vhd failed with 1 errors.
+# Compile of galois_adder.vhd failed with 1 errors.
+# Compile of galois_expand.vhd was successful.
+# Compile of galois_expand_test.vhd was successful.
+# Compile of galois_modulo.vhd was successful.
+# Compile of galois_multiplier.vhd was successful.
+# Compile of network_encoder.vhd failed with 1 errors.
+# Compile of multiply_test.vhd failed with 1 errors.
+# 11 compiles, 5 failed with 5 errors. 
+# Compile of test_file.vhd was successful.
+# Compile of dff.vhd was successful.
+# Compile of lfsr.vhd failed with 1 errors.
+# Compile of shift_register_15.vhd failed with 1 errors.
+# Compile of galois_adder.vhd failed with 1 errors.
+# Compile of galois_expand.vhd was successful.
+# Compile of galois_expand_test.vhd was successful.
+# Compile of galois_modulo.vhd was successful.
+# Compile of galois_multiplier.vhd was successful.
+# Compile of network_encoder.vhd failed with 1 errors.
+# Compile of multiply_test.vhd was successful.
+# 11 compiles, 4 failed with 4 errors. 
+vsim work.galois_multiply_test
+# vsim work.galois_multiply_test 
+# ** Note: (vsim-3812) Design is being optimized...
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.galois_multiply_test(behavior)#1
+add wave -position insertpoint sim:/galois_multiply_test/*
+add wave -position insertpoint sim:/galois_multiply_test/galois_expand_instance/expansion_1/*
+add wave -position insertpoint sim:/galois_multiply_test/galois_expand_instance/modulo_1/*
+run
+run
+run
+run
+run
+run
+run
+quit -sim
