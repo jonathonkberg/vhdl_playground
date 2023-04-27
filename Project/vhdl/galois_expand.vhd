@@ -16,7 +16,7 @@ architecture galois_expand_fsm of galois_expand is
 
   signal row_0, row_1, row_2, row_3, row_4, row_5, row_6, row_7 : std_logic_vector(14 downto 0);
   signal ready_0, ready_1, ready_2, ready_3, ready_4, ready_5, ready_6, ready_7 : std_logic;
-  signal start_xor, complete_fsm, populate_rows : std_logic;
+  signal start_xor, complete_fsm, populate_rows, reset_rows : std_logic;
     
   begin
 
@@ -27,8 +27,10 @@ architecture galois_expand_fsm of galois_expand is
         begin
           if (clk'event and clk = '1') then
             populate_rows <= '1';
+            reset_rows <= '1';
           elsif (complete_fsm = '1') then
             populate_rows <= '0';
+            reset_rows <= '0';
           end if;
         end process;
         
@@ -38,8 +40,10 @@ architecture galois_expand_fsm of galois_expand is
   -- Eight rows are populated concurrently
     process(populate_rows) is
       begin
-        ready_0 <= '0';
-        row_0 <= "000000000000000";
+        if(reset_rows = '1') then
+          ready_0 <= '0';
+          row_0 <= "000000000000000";
+        end if;
         if(populate_rows = '1') then
           if (random_num_input(0) = '1') then
             for i in 0 to 7 loop
@@ -52,8 +56,10 @@ architecture galois_expand_fsm of galois_expand is
 
       process(populate_rows) is
         begin
-          ready_1 <= '0';
-          row_1 <= "000000000000000";
+          if(reset_rows = '1') then
+            ready_1 <= '0';
+            row_1 <= "000000000000000";
+          end if;
           if(populate_rows = '1') then
             if (random_num_input(1) = '1') then
               for i in 0 to 7 loop
@@ -66,8 +72,10 @@ architecture galois_expand_fsm of galois_expand is
 
         process(populate_rows) is
           begin
-            ready_2 <= '0';
-            row_2 <= "000000000000000";
+            if(reset_rows = '1') then
+              ready_2 <= '0';
+              row_2 <= "000000000000000";
+            end if;
             if(populate_rows = '1') then
               if (random_num_input(2) = '1') then
                 for i in 0 to 7 loop
@@ -80,8 +88,10 @@ architecture galois_expand_fsm of galois_expand is
 
           process(populate_rows) is
             begin
-              ready_3 <= '0';
-              row_3 <= "000000000000000";
+              if(reset_rows = '1') then
+                ready_3 <= '0';
+                row_3 <= "000000000000000";
+              end if;
               if(populate_rows = '1') then
                 if (random_num_input(3) = '1') then
                   for i in 0 to 7 loop
@@ -94,8 +104,10 @@ architecture galois_expand_fsm of galois_expand is
 
             process(populate_rows) is
               begin
-                ready_4 <= '0';
-                row_4 <= "000000000000000";
+                if(reset_rows = '1') then
+                  ready_4 <= '0';
+                  row_4 <= "000000000000000";
+                end if;
                 if(populate_rows = '1') then
                   if (random_num_input(4) = '1') then
                     for i in 0 to 7 loop
@@ -108,8 +120,10 @@ architecture galois_expand_fsm of galois_expand is
 
               process(populate_rows) is
                 begin
-                  ready_5 <= '0';
-                  row_5 <= "000000000000000";
+                  if(reset_rows = '1') then
+                    ready_5 <= '0';
+                    row_5 <= "000000000000000";
+                  end if;
                   if(populate_rows = '1') then
                     if (random_num_input(5) = '1') then
                       for i in 0 to 7 loop
@@ -122,8 +136,10 @@ architecture galois_expand_fsm of galois_expand is
 
                 process(populate_rows) is
                   begin
-                    ready_6 <= '0';
-                    row_6 <= "000000000000000";
+                    if(reset_rows = '1') then
+                      ready_6 <= '0';
+                      row_6 <= "000000000000000";
+                    end if;
                     if(populate_rows = '1') then
                       if (random_num_input(6) = '1') then
                         for i in 0 to 7 loop
@@ -136,8 +152,10 @@ architecture galois_expand_fsm of galois_expand is
 
                   process(populate_rows) is
                     begin
-                      ready_7 <= '0';
-                      row_7 <= "000000000000000";
+                      if(reset_rows = '1') then
+                        ready_7 <= '0';
+                        row_7 <= "000000000000000";
+                      end if;
                       if(populate_rows = '1') then
                         if (random_num_input(7) = '1') then
                           for i in 0 to 7 loop
