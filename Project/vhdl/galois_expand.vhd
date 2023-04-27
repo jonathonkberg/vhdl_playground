@@ -153,7 +153,7 @@ architecture galois_expand_fsm of galois_expand is
 -- XOR operation
       process(populate_rows, ready_0, ready_1, ready_2, ready_3, ready_4, ready_5, ready_6, ready_7)
         begin
-          mult_out(i) <= "000000000000000";
+          mult_out <= "000000000000000";
           complete_fsm <= '0';
           complete <= '0';
           if (ready_0 = '1' and ready_1 = '1' and ready_2 = '1' and ready_3 = '1' and ready_4 = '1' and ready_5 = '1' and ready_6 = '1' and ready_7 = '1') then
