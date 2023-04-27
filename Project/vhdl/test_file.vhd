@@ -43,7 +43,7 @@ architecture galois_expand_fsm of galois_expand is
         end process;
 
 
-        process(populate_rows) is
+        process(populate_rows and perform_xor(1) = '0') is
         begin
           if(populate_rows = '1') then
             if (random_num_input(1) = '1') then
