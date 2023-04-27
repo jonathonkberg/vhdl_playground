@@ -16,18 +16,18 @@ architecture galois_expand_fsm of galois_expand is
 
   signal row_0, row_1, row_2, row_3, row_4, row_5, row_6, row_7 : std_logic_vector(14 downto 0);
   signal ready_0, ready_1, ready_2, ready_3, ready_4, ready_5, ready_6, ready_7 : std_logic;
-  signal start_xor, calc_complete, populate_rows : std_logic;
+  signal start_xor, complete_fsm, populate_rows : std_logic;
     
   begin
 
 -- Restart expansion state machine
   -- Full expansion algorithm occurs in one main clock cycle
   -- Signals are re-initialized at restart of state machine
-    process(clk, complete) is
+    process(clk, complete_fsm) is
         begin
           if (clk'event and clk = '1') then
             populate_rows <= '1';
-          elsif (complete = '1') then
+          elsif (complete_fsm = '1') then
             populate_rows <= '0';
           end if;
         end process;
@@ -154,11 +154,13 @@ architecture galois_expand_fsm of galois_expand is
       process(populate_rows, ready_0, ready_1, ready_2, ready_3, ready_4, ready_5, ready_6, ready_7)
         begin
           mult_out(i) <= "000000000000000";
+          complete_fsm <= '0';
           complete <= '0';
           if (ready_0 = '1' and ready_1 = '1' and ready_2 = '1' and ready_3 = '1' and ready_4 = '1' and ready_5 = '1' and ready_6 = '1' and ready_7 = '1') then
             for i in 0 to 14 loop
               mult_out(i) <= (((((((row_0(i) xor row_1(i)) xor row_2(i)) xor row_3(i)) xor row_4(i)) xor row_5(i)) xor row_6(i)) xor row_7(i)) after 1 ns;
             end loop;
+            complete_fsm <= '1' after 1 ns;
             complete <= '1' after 1 ns;
           end if;
         end process;
