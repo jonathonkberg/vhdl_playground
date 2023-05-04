@@ -1,0 +1,510 @@
+m255
+K4
+z2
+13
+cModel Technology
+Z0 d/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/Project/vhdl
+!s112 0.1
+!i10d 8192
+!i10e 25
+!i10f 100
+T_opt
+VHgER_cd[JjeRGS>=k19XQ1
+04 15 22 work eight_input_xor three_layer_structural 1
+=1-000000000000-645312d5-577e1-203a
+Z1 o-quiet -auto_acc_if_foreign -work work
+n@_opt
+Z2 OE;O;10.2c;57
+Z3 d/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/Project/vhdl
+!s110 1683165909
+T_opt1
+!s110 1683169630
+VO]g:[RCPomNWLD:A?H2<=3
+04 8 8 work key_test behavior 1
+=3-000000000000-6453215e-314e-3856
+R1
+n@_opt1
+R2
+T_opt2
+VeYBER`LRjPGH;VS8Mn5gz2
+04 15 20 work eight_input_xor three_layer_dataflow 1
+=1-000000000000-64531334-76960-20cf
+R1
+n@_opt2
+R2
+R3
+!s110 1683166004
+Edff
+Z4 w1683158354
+Z5 DPx3 std 6 textio 0 22 Y8d?=bLj9m4jiPLbo;>GT0
+Z6 DPx4 ieee 14 std_logic_1164 0 22 1bm?@Gd;P>[>_lN8Do9gP3
+Z7 d/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl
+Z8 8/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/dff.vhd
+Z9 F/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/dff.vhd
+l0
+L5
+VM1:GHSJkS6W6Q54hO=81<0
+Z10 OE;C;10.2c;57
+32
+Z11 !s110 1683169624
+Z12 !s108 1683169624.834166
+Z13 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/dff.vhd|
+Z14 !s107 /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/dff.vhd|
+Z15 o-work work -2002 -explicit
+Z16 tExplicit 1
+!s100 igcD;ZM`:>iXVdL?<B30J2
+!i10b 1
+!i111 0
+Aalgorithm
+R5
+R6
+DEx4 work 3 dff 0 22 M1:GHSJkS6W6Q54hO=81<0
+l15
+L14
+VmA_fCfVLEThh=8X2Y;c4c0
+R10
+32
+R11
+R12
+R13
+R14
+R15
+R16
+!s100 LkGX?9AAV2F<oACJVOBj=0
+!i10b 1
+!i111 0
+Edff_8
+Z17 w1683157321
+R5
+R6
+R7
+Z18 8/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/dff_8.vhd
+Z19 F/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/dff_8.vhd
+l0
+L4
+VIhiTX665oom<zTmC=5JU:0
+R10
+32
+R11
+Z20 !s108 1683169624.952247
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/dff_8.vhd|
+Z22 !s107 /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/dff_8.vhd|
+R15
+R16
+!s100 PTL:ihF7R6l36fBPBYk@52
+!i10b 1
+!i111 0
+Aalgorithm
+R5
+R6
+DEx4 work 5 dff_8 0 22 IhiTX665oom<zTmC=5JU:0
+l14
+L13
+VBU@c1Sk5I9=a`he?1[M9o0
+R10
+32
+R11
+R20
+R21
+R22
+R15
+R16
+!s100 5OnJK2SMV6aOhKnI2e>_k2
+!i10b 1
+!i111 0
+Eeight_input_xor
+Z23 w1683164560
+R5
+R6
+R7
+Z24 8/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/eight_xor_three_layer_structure.vhd
+Z25 F/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/eight_xor_three_layer_structure.vhd
+l0
+L5
+VCl^^CU;9`f>l]od0gJPmD1
+R10
+32
+Z26 !s110 1683169625
+Z27 !s108 1683169625.814718
+Z28 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/eight_xor_three_layer_structure.vhd|
+Z29 !s107 /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/eight_xor_three_layer_structure.vhd|
+R15
+R16
+!s100 ;ncAU_Tze9S7e?GhLYRA83
+!i10b 1
+!i111 0
+Athree_layer_structural
+R5
+R6
+Z30 DEx4 work 15 eight_input_xor 0 22 Cl^^CU;9`f>l]od0gJPmD1
+l16
+L14
+V_hhL[[R6kL7I5bmh@WX`b1
+R10
+32
+R26
+R27
+R28
+R29
+R15
+R16
+!s100 n]?g?GObRDG8W^RkW@g;:1
+!i10b 1
+!i111 0
+Athree_layer_dataflow
+R5
+R6
+DEx4 work 15 eight_input_xor 0 22 hJbPKhfz_E36EI0NITQf40
+l15
+L13
+VBDLeeMj]i>e0;e9FRfS_f0
+R10
+32
+R26
+R15
+R16
+F/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/eight_xor_three_layer_dataflow.vhd
+w1683165502
+8/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/eight_xor_three_layer_dataflow.vhd
+!s100 AFk5KFc1l@03QW[8OfMzm0
+!s108 1683169625.645575
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/eight_xor_three_layer_dataflow.vhd|
+!s107 /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/eight_xor_three_layer_dataflow.vhd|
+!i10b 1
+!i111 0
+Aseven_layer_structural
+R5
+R6
+R30
+l15
+L13
+VMbM;gbQT7DoiUU5=`4B9`2
+R10
+32
+R26
+Z31 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/eight_xor_seven_layer_structure.vhd|
+Z32 !s107 /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/eight_xor_seven_layer_structure.vhd|
+R15
+R16
+Z33 F/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/eight_xor_seven_layer_structure.vhd
+w1683164931
+Z34 8/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/eight_xor_seven_layer_structure.vhd
+!s100 PY_Wz`nf]10MeP=KdEZO22
+!s108 1683169625.519588
+!i10b 1
+!i111 0
+Aseven_layer_dataflow
+R5
+R6
+R30
+l15
+L13
+V45Q@h^Q7M^;NYS5KUe8S>3
+R10
+32
+R26
+R15
+R16
+F/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/eight_xor_seven_layer_dataflow.vhd
+w1683165821
+8/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/eight_xor_seven_layer_dataflow.vhd
+!s100 0lFRE7:QZnP]LiY1_P9Eh0
+!s108 1683169625.364402
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/eight_xor_seven_layer_dataflow.vhd|
+!s107 /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/eight_xor_seven_layer_dataflow.vhd|
+!i10b 1
+!i111 0
+Aeight_layer_structural
+R5
+R6
+DEx4 work 15 eight_input_xor 0 22 NGH?OaLHj6>Y3<mdBi8z?3
+l15
+L13
+V4f]4ClJh7:9J22L`BSPd41
+R10
+32
+R15
+R16
+w1683161822
+R31
+R32
+R33
+R34
+!s110 1683162675
+!s100 BJ]OP<HCI46FfASN0aCz71
+!s108 1683162675.460435
+!i10b 1
+!i111 0
+Egalois_expand_test
+Z35 w1683156396
+R5
+R6
+R7
+Z36 8/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/lfsr_test.vhd
+Z37 F/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/lfsr_test.vhd
+l0
+L4
+V4CS]``Q:nf5L0^NhNBd192
+R10
+32
+Z38 !s110 1683156400
+Z39 !s108 1683156400.150611
+Z40 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/lfsr_test.vhd|
+Z41 !s107 /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/lfsr_test.vhd|
+R15
+R16
+!s100 o^f^kQC:ezf4bzTDBojV_0
+!i10b 1
+!i111 0
+Abehavior
+R5
+R6
+DEx4 work 18 galois_expand_test 0 22 4CS]``Q:nf5L0^NhNBd192
+l22
+L7
+VFB3WFH^Zg^HbcQI>F73ic1
+R10
+32
+R38
+R39
+R40
+R41
+R15
+R16
+!s100 4lo@WQc0`@RH5I7edbEXj3
+!i10b 1
+!i111 0
+Ekey_fsm
+Z42 w1683169440
+R5
+R6
+R7
+Z43 8/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/key.vhd
+Z44 F/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/key.vhd
+l0
+L5
+VF4kfWmN;_mGn?;Km25j_i0
+R10
+32
+R26
+Z45 !s108 1683169625.934795
+Z46 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/key.vhd|
+Z47 !s107 /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/key.vhd|
+R15
+R16
+!s100 C8W[dTWmb3YDBW]JMKk2j1
+!i10b 1
+!i111 0
+Afsm_basic
+R5
+R6
+DEx4 work 7 key_fsm 0 22 F4kfWmN;_mGn?;Km25j_i0
+l16
+L12
+Vj5FEfGT9od@PHTNffn0:M3
+R10
+32
+R26
+R45
+R46
+R47
+R15
+R16
+!s100 8^aNl?nX7S[Z2f?OSKC3E0
+!i10b 1
+!i111 0
+Ekey_test
+Z48 w1683169622
+R5
+R6
+R7
+Z49 8/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/key_test.vhd
+Z50 F/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/key_test.vhd
+l0
+L4
+V]Ski`WiSVICSKYm7g2^j<0
+R10
+32
+Z51 !s110 1683169626
+Z52 !s108 1683169626.326313
+Z53 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/key_test.vhd|
+Z54 !s107 /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/key_test.vhd|
+R15
+R16
+!s100 VjSmLlYL[`708VGjLMS7m3
+!i10b 1
+!i111 0
+Abehavior
+R5
+R6
+DEx4 work 8 key_test 0 22 ]Ski`WiSVICSKYm7g2^j<0
+l22
+L7
+VJ[dA`@HBl:9hb9IjgdPD;3
+R10
+32
+R51
+R52
+R53
+R54
+R15
+R16
+!s100 :REFWITzj8RAR;gl<FD]J3
+!i10b 1
+!i111 0
+Elfsr
+Z55 w1683158926
+R5
+R6
+R7
+Z56 8/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/lfsr.vhd
+Z57 F/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/lfsr.vhd
+l0
+L7
+V[82N>G^g1MjXEf81XD_@<0
+R10
+32
+R26
+Z58 !s108 1683169625.209932
+Z59 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/lfsr.vhd|
+Z60 !s107 /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/lfsr.vhd|
+R15
+R16
+!s100 mZbDf3=4TE4aPOO]e?W3@2
+!i10b 1
+!i111 0
+Ahierchical_design
+R5
+R6
+DEx4 work 4 lfsr 0 22 [82N>G^g1MjXEf81XD_@<0
+l56
+L18
+V0NZ@TcjE9BVjChSP=lh[62
+R10
+32
+R26
+R58
+R59
+R60
+R15
+R16
+!s100 MX><eFRklJOWjYfmo=LN`3
+!i10b 1
+!i111 0
+Elfsr_test
+Z61 w1683159416
+R5
+R6
+R7
+R36
+R37
+l0
+L4
+V=GJTX9O1:R33]4a4XgW8=0
+R10
+32
+R51
+Z62 !s108 1683169626.089613
+R40
+R41
+R15
+R16
+!s100 anzJ8gQj8Jil`1gKE?Vmg3
+!i10b 1
+!i111 0
+Abehavior
+R5
+R6
+DEx4 work 9 lfsr_test 0 22 =GJTX9O1:R33]4a4XgW8=0
+l22
+L7
+VYG6^R53`MNaWg1H<=?Am@3
+R10
+32
+R51
+R62
+R40
+R41
+R15
+R16
+!s100 mc_:IR3Lh=2eSJV1l`<ln0
+!i10b 1
+!i111 0
+Etwo_input_xor
+Z63 w1683159056
+R5
+R6
+R7
+Z64 8/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/xor_gate.vhd
+Z65 F/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/xor_gate.vhd
+l0
+L5
+VChRnO@3a]=:jUJR3[nIKI3
+R10
+32
+R26
+Z66 !s108 1683169625.067420
+Z67 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/xor_gate.vhd|
+Z68 !s107 /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/xor_gate.vhd|
+R15
+R16
+!s100 [>iZ8X9QM^d:Vi<BT^Xgb3
+!i10b 1
+!i111 0
+Axor_basic
+R5
+R6
+DEx4 work 13 two_input_xor 0 22 ChRnO@3a]=:jUJR3[nIKI3
+l13
+L12
+V9H>j=@`9[_aPIJ_B2kZY52
+R10
+32
+R26
+R66
+R67
+R68
+R15
+R16
+!s100 S<H:j?_?JLVh^zim>Mh4Z1
+!i10b 1
+!i111 0
+Exor_8
+Z69 w1683163286
+R5
+R6
+R7
+Z70 8/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/xor_test.vhd
+Z71 F/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/xor_test.vhd
+l0
+L4
+Vge^MMmo6PcLTaWNUdWY>^1
+R10
+32
+R51
+Z72 !s108 1683169626.196718
+Z73 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/xor_test.vhd|
+Z74 !s107 /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/xor_test.vhd|
+R15
+R16
+!s100 `3N]BL?iX8e;`ZaLWjDUY3
+!i10b 1
+!i111 0
+Abehavior
+R5
+R6
+DEx4 work 5 xor_8 0 22 ge^MMmo6PcLTaWNUdWY>^1
+l22
+L7
+VN6CYXMPOnlF]W2BAB:SeI1
+R10
+32
+R51
+R72
+R73
+R74
+R15
+R16
+!s100 kVkajB8MPU@YzB;B6P0Z70
+!i10b 1
+!i111 0

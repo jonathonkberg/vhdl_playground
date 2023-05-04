@@ -1,0 +1,1815 @@
+# Compile of lfsr.vhd failed with 1 errors.
+# Compile of lfsr.vhd failed with 1 errors.
+# Compile of xor_gate.vhd failed with 1 errors.
+# Compile of lfsr.vhd failed with 1 errors.
+# Compile of eight_xor_seven_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_seven_layer_structure.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_structure.vhd failed with 1 errors.
+# Compile of key.vhd failed with 1 errors.
+# 7 compiles, 7 failed with 7 errors. 
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd failed with 1 errors.
+# Compile of eight_xor_seven_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_seven_layer_structure.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_structure.vhd failed with 1 errors.
+# Compile of key.vhd failed with 1 errors.
+# 7 compiles, 6 failed with 6 errors. 
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd failed with 1 errors.
+# Compile of eight_xor_seven_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_seven_layer_structure.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_structure.vhd failed with 1 errors.
+# Compile of key.vhd failed with 1 errors.
+# 7 compiles, 6 failed with 6 errors. 
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd failed with 1 errors.
+# Compile of eight_xor_seven_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_seven_layer_structure.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_structure.vhd failed with 1 errors.
+# Compile of key.vhd failed with 1 errors.
+# 7 compiles, 6 failed with 6 errors. 
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd failed with 8 errors.
+# Compile of eight_xor_seven_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_seven_layer_structure.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_structure.vhd failed with 1 errors.
+# Compile of key.vhd failed with 1 errors.
+# 7 compiles, 6 failed with 13 errors. 
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd failed with 1 errors.
+# Compile of eight_xor_seven_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_seven_layer_structure.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_structure.vhd failed with 1 errors.
+# Compile of key.vhd failed with 1 errors.
+# 7 compiles, 6 failed with 6 errors. 
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd failed with 8 errors.
+# Compile of eight_xor_seven_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_seven_layer_structure.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_structure.vhd failed with 1 errors.
+# Compile of key.vhd failed with 1 errors.
+# 7 compiles, 6 failed with 13 errors. 
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd failed with 12 errors.
+# Compile of eight_xor_seven_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_seven_layer_structure.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_structure.vhd failed with 1 errors.
+# Compile of key.vhd failed with 1 errors.
+# 7 compiles, 6 failed with 17 errors. 
+# Compile of dff.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd failed with 12 errors.
+# Compile of eight_xor_seven_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_seven_layer_structure.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_structure.vhd failed with 1 errors.
+# Compile of key.vhd failed with 1 errors.
+# 8 compiles, 6 failed with 17 errors. 
+# Compile of dff.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd failed with 1 errors.
+# Compile of eight_xor_seven_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_seven_layer_structure.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_structure.vhd failed with 1 errors.
+# Compile of key.vhd failed with 1 errors.
+# Compile of dff_8.vhd failed with 1 errors.
+# 9 compiles, 7 failed with 7 errors. 
+# Compile of dff.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd failed with 12 errors.
+# Compile of eight_xor_seven_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_seven_layer_structure.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_structure.vhd failed with 1 errors.
+# Compile of key.vhd failed with 1 errors.
+# Compile of dff_8.vhd failed with 1 errors.
+# 9 compiles, 7 failed with 18 errors. 
+# Compile of dff.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd failed with 12 errors.
+# Compile of eight_xor_seven_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_seven_layer_structure.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_structure.vhd failed with 1 errors.
+# Compile of key.vhd failed with 1 errors.
+# Compile of dff_8.vhd failed with 4 errors.
+# 9 compiles, 7 failed with 21 errors. 
+# Compile of dff.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd failed with 12 errors.
+# Compile of eight_xor_seven_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_seven_layer_structure.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_structure.vhd failed with 1 errors.
+# Compile of key.vhd failed with 1 errors.
+# Compile of dff_8.vhd failed with 4 errors.
+# 9 compiles, 7 failed with 21 errors. 
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd failed with 4 errors.
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd failed with 12 errors.
+# Compile of eight_xor_seven_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_seven_layer_structure.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_structure.vhd failed with 1 errors.
+# Compile of key.vhd failed with 1 errors.
+# 9 compiles, 7 failed with 21 errors. 
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd failed with 2 errors.
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd failed with 12 errors.
+# Compile of eight_xor_seven_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_seven_layer_structure.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_structure.vhd failed with 1 errors.
+# Compile of key.vhd failed with 1 errors.
+# 9 compiles, 7 failed with 19 errors. 
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd failed with 1 errors.
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd failed with 12 errors.
+# Compile of eight_xor_seven_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_seven_layer_structure.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_structure.vhd failed with 1 errors.
+# Compile of key.vhd failed with 1 errors.
+# 9 compiles, 7 failed with 18 errors. 
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd failed with 12 errors.
+# Compile of eight_xor_seven_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_seven_layer_structure.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_structure.vhd failed with 1 errors.
+# Compile of key.vhd failed with 1 errors.
+# 9 compiles, 6 failed with 17 errors. 
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd failed with 1 errors.
+# Compile of eight_xor_seven_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_seven_layer_structure.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_structure.vhd failed with 1 errors.
+# Compile of key.vhd failed with 1 errors.
+# 9 compiles, 6 failed with 6 errors. 
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd failed with 1 errors.
+# Compile of eight_xor_seven_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_seven_layer_structure.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_structure.vhd failed with 1 errors.
+# Compile of key.vhd failed with 1 errors.
+# 9 compiles, 6 failed with 6 errors. 
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd failed with 1 errors.
+# Compile of eight_xor_seven_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_seven_layer_structure.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_structure.vhd failed with 1 errors.
+# Compile of key.vhd failed with 1 errors.
+# 9 compiles, 6 failed with 6 errors. 
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd failed with 1 errors.
+# Compile of eight_xor_seven_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_seven_layer_structure.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_structure.vhd failed with 1 errors.
+# Compile of key.vhd failed with 1 errors.
+# 9 compiles, 6 failed with 6 errors. 
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd was successful.
+# Compile of eight_xor_seven_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_seven_layer_structure.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_structure.vhd failed with 1 errors.
+# Compile of key.vhd failed with 1 errors.
+# 9 compiles, 5 failed with 5 errors. 
+# Load canceled
+vsim work.lfsr(hierchical_design)
+# vsim work.lfsr(hierchical_design) 
+# ** Note: (vsim-3812) Design is being optimized...
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.lfsr(hierchical_design)#1
+add wave -position insertpoint  \
+sim:/lfsr/CLK \
+sim:/lfsr/random_number_out \
+sim:/lfsr/f02 \
+sim:/lfsr/f023 \
+sim:/lfsr/feedback \
+sim:/lfsr/random_number
+force CLK 1 100
+run
+force CLK 0 100
+run
+force CLK 1 100
+run
+quit -sim
+# Load canceled
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd was successful.
+# Compile of eight_xor_seven_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_seven_layer_structure.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_structure.vhd failed with 1 errors.
+# Compile of key.vhd failed with 1 errors.
+# Compile of lfsr_test.vhd failed with 1 errors.
+# 10 compiles, 6 failed with 6 errors. 
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd was successful.
+# Compile of eight_xor_seven_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_seven_layer_structure.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_structure.vhd failed with 1 errors.
+# Compile of key.vhd failed with 1 errors.
+# Compile of lfsr_test.vhd was successful.
+# 10 compiles, 5 failed with 5 errors. 
+# Load canceled
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd was successful.
+# Compile of eight_xor_seven_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_seven_layer_structure.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_structure.vhd failed with 1 errors.
+# Compile of key.vhd failed with 1 errors.
+# Compile of lfsr_test.vhd was successful.
+# 10 compiles, 5 failed with 5 errors. 
+vsim work.lfsr_test(behavior)
+# vsim work.lfsr_test(behavior) 
+# ** Note: (vsim-3812) Design is being optimized...
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.lfsr_test(behavior)#1
+add wave -position insertpoint  \
+sim:/lfsr_test/clk \
+sim:/lfsr_test/random_number_out
+run
+run
+run
+run
+run
+run
+run
+run
+quit -sim
+vsim work.lfsr_test
+# vsim work.lfsr_test 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.lfsr_test(behavior)#1
+add wave -position insertpoint  \
+sim:/lfsr_test/clk \
+sim:/lfsr_test/random_number_out
+add wave -position insertpoint  \
+sim:/lfsr_test/lfsr_instance/random_number_out \
+sim:/lfsr_test/lfsr_instance/f02 \
+sim:/lfsr_test/lfsr_instance/f023 \
+sim:/lfsr_test/lfsr_instance/feedback \
+sim:/lfsr_test/lfsr_instance/random_number
+run
+run
+run
+run
+run
+run
+run
+run
+quit -sim
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd was successful.
+# Compile of eight_xor_seven_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_seven_layer_structure.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_structure.vhd failed with 1 errors.
+# Compile of key.vhd failed with 1 errors.
+# Compile of lfsr_test.vhd was successful.
+# 10 compiles, 5 failed with 5 errors. 
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd was successful.
+# Compile of eight_xor_seven_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_seven_layer_structure.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_structure.vhd failed with 1 errors.
+# Compile of key.vhd failed with 1 errors.
+# Compile of lfsr_test.vhd was successful.
+# 10 compiles, 5 failed with 5 errors. 
+vsim work.lfsr_test(behavior)
+# vsim work.lfsr_test(behavior) 
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.lfsr_test(behavior)#1
+# ** Warning: (vsim-3479) Time unit 'ps' is less than the simulator resolution (1ns).
+#    Time: 0 ns  Iteration: 0  Root: /
+add wave -position insertpoint  \
+sim:/lfsr_test/clk
+add wave -position insertpoint  \
+sim:/lfsr_test/lfsr_instance/random_number_out \
+sim:/lfsr_test/lfsr_instance/f02 \
+sim:/lfsr_test/lfsr_instance/f023 \
+sim:/lfsr_test/lfsr_instance/feedback \
+sim:/lfsr_test/lfsr_instance/random_number
+run
+run
+run
+run
+run
+run
+run
+run
+run
+quit -sim
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd was successful.
+# Compile of eight_xor_seven_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_seven_layer_structure.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_structure.vhd failed with 1 errors.
+# Compile of key.vhd failed with 1 errors.
+# Compile of lfsr_test.vhd failed with 1 errors.
+# 10 compiles, 6 failed with 6 errors. 
+# Load canceled
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd was successful.
+# Compile of eight_xor_seven_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_seven_layer_structure.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_structure.vhd failed with 1 errors.
+# Compile of key.vhd failed with 1 errors.
+# Compile of lfsr_test.vhd was successful.
+# 10 compiles, 5 failed with 5 errors. 
+vsim work.lfsr_test(behavior)
+# vsim work.lfsr_test(behavior) 
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.lfsr_test(behavior)#1
+# ** Warning: (vsim-3479) Time unit 'ps' is less than the simulator resolution (1ns).
+#    Time: 0 ns  Iteration: 0  Root: /
+add wave -position insertpoint sim:/lfsr_test/lfsr_instance/*
+add wave -position insertpoint sim:/lfsr_test/clock/*
+# (vish-4014) No objects found matching '/lfsr_test/clock/*'.
+add wave -position insertpoint  \
+sim:/lfsr_test/clk
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+rnu
+# invalid command name "rnu"
+force random_number(0) 1 100
+# evaluating expression "random_number(0)"
+# No object found matching "random_number".
+# 
+quit -sim
+# Load canceled
+# Compile of dff.vhd failed with 1 errors.
+# Compile of dff_8.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd was successful.
+# Compile of eight_xor_seven_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_seven_layer_structure.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_structure.vhd failed with 1 errors.
+# Compile of key.vhd failed with 1 errors.
+# Compile of lfsr_test.vhd was successful.
+# 10 compiles, 6 failed with 6 errors. 
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd failed with 1 errors.
+# Compile of eight_xor_seven_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_seven_layer_structure.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_structure.vhd failed with 1 errors.
+# Compile of key.vhd failed with 1 errors.
+# Compile of lfsr_test.vhd was successful.
+# 10 compiles, 6 failed with 6 errors. 
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd failed with 1 errors.
+# Compile of eight_xor_seven_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_seven_layer_structure.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_structure.vhd failed with 1 errors.
+# Compile of key.vhd failed with 1 errors.
+# Compile of lfsr_test.vhd was successful.
+# 10 compiles, 6 failed with 6 errors. 
+vsim work.lfsr_test(behavior)
+# vsim work.lfsr_test(behavior) 
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# ** Warning: (vopt-13) Recompile work.lfsr(hierchical_design) because work.lfsr has changed.
+# ** Error: /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/lfsr.vhd(63): (vopt-1130) Port "D_initial" of entity "dff" is not in the component being instantiated.
+# ** Error: /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/lfsr.vhd(63): (vopt-1130) Port "reset" of entity "dff" is not in the component being instantiated.
+# ** Error: /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/lfsr.vhd(70): (vopt-1130) Port "D_initial" of entity "dff" is not in the component being instantiated.
+# ** Error: /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/lfsr.vhd(70): (vopt-1130) Port "reset" of entity "dff" is not in the component being instantiated.
+# ** Error: /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/lfsr.vhd(77): (vopt-1130) Port "D_initial" of entity "dff" is not in the component being instantiated.
+# ** Error: /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/lfsr.vhd(77): (vopt-1130) Port "reset" of entity "dff" is not in the component being instantiated.
+# ** Error: /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/lfsr.vhd(84): (vopt-1130) Port "D_initial" of entity "dff" is not in the component being instantiated.
+# ** Error: /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/lfsr.vhd(84): (vopt-1130) Port "reset" of entity "dff" is not in the component being instantiated.
+# ** Error: /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/lfsr.vhd(91): (vopt-1130) Port "D_initial" of entity "dff" is not in the component being instantiated.
+# ** Error: /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/lfsr.vhd(91): (vopt-1130) Port "reset" of entity "dff" is not in the component being instantiated.
+# ** Error: /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/lfsr.vhd(98): (vopt-1130) Port "D_initial" of entity "dff" is not in the component being instantiated.
+# ** Error: /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/lfsr.vhd(98): (vopt-1130) Port "reset" of entity "dff" is not in the component being instantiated.
+# ** Error: /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/lfsr.vhd(105): (vopt-1130) Port "D_initial" of entity "dff" is not in the component being instantiated.
+# ** Error: /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/lfsr.vhd(105): (vopt-1130) Port "reset" of entity "dff" is not in the component being instantiated.
+# ** Error: /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/lfsr.vhd(112): (vopt-1130) Port "D_initial" of entity "dff" is not in the component being instantiated.
+# ** Error: /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/lfsr.vhd(112): (vopt-1130) Port "reset" of entity "dff" is not in the component being instantiated.
+# Optimization failed
+# ** Warning: (vopt-133) Unable to remove directory "/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/work/@_opt1".
+# Directory not empty. (errno = 39)
+# Error loading design
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd failed with 1 errors.
+# Compile of eight_xor_seven_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_seven_layer_structure.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_structure.vhd failed with 1 errors.
+# Compile of key.vhd failed with 1 errors.
+# Compile of lfsr_test.vhd was successful.
+# 10 compiles, 6 failed with 6 errors. 
+vsim work.lfsr_test(behavior)
+# vsim work.lfsr_test(behavior) 
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Warning: (vopt-13) Recompile work.lfsr(hierchical_design) because work.lfsr has changed.
+# ** Error: /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/lfsr.vhd(63): (vopt-1130) Port "D_initial" of entity "dff" is not in the component being instantiated.
+# ** Error: /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/lfsr.vhd(63): (vopt-1130) Port "reset" of entity "dff" is not in the component being instantiated.
+# ** Error: /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/lfsr.vhd(70): (vopt-1130) Port "D_initial" of entity "dff" is not in the component being instantiated.
+# ** Error: /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/lfsr.vhd(70): (vopt-1130) Port "reset" of entity "dff" is not in the component being instantiated.
+# ** Error: /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/lfsr.vhd(77): (vopt-1130) Port "D_initial" of entity "dff" is not in the component being instantiated.
+# ** Error: /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/lfsr.vhd(77): (vopt-1130) Port "reset" of entity "dff" is not in the component being instantiated.
+# ** Error: /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/lfsr.vhd(84): (vopt-1130) Port "D_initial" of entity "dff" is not in the component being instantiated.
+# ** Error: /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/lfsr.vhd(84): (vopt-1130) Port "reset" of entity "dff" is not in the component being instantiated.
+# ** Error: /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/lfsr.vhd(91): (vopt-1130) Port "D_initial" of entity "dff" is not in the component being instantiated.
+# ** Error: /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/lfsr.vhd(91): (vopt-1130) Port "reset" of entity "dff" is not in the component being instantiated.
+# ** Error: /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/lfsr.vhd(98): (vopt-1130) Port "D_initial" of entity "dff" is not in the component being instantiated.
+# ** Error: /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/lfsr.vhd(98): (vopt-1130) Port "reset" of entity "dff" is not in the component being instantiated.
+# ** Error: /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/lfsr.vhd(105): (vopt-1130) Port "D_initial" of entity "dff" is not in the component being instantiated.
+# ** Error: /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/lfsr.vhd(105): (vopt-1130) Port "reset" of entity "dff" is not in the component being instantiated.
+# ** Error: /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/lfsr.vhd(112): (vopt-1130) Port "D_initial" of entity "dff" is not in the component being instantiated.
+# ** Error: /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/lfsr.vhd(112): (vopt-1130) Port "reset" of entity "dff" is not in the component being instantiated.
+# Optimization failed
+# Error loading design
+# Compile of lfsr_test.vhd was successful.
+# Compile of lfsr.vhd failed with 1 errors.
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd was successful.
+# Compile of eight_xor_seven_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_seven_layer_structure.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_structure.vhd failed with 1 errors.
+# Compile of key.vhd failed with 1 errors.
+# Compile of lfsr_test.vhd was successful.
+# 10 compiles, 5 failed with 5 errors. 
+vsim work.lfsr_test(behavior)
+# vsim work.lfsr_test(behavior) 
+# ** Note: (vsim-3812) Design is being optimized...
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.lfsr_test(behavior)#1
+# ** Warning: (vsim-3479) Time unit 'ps' is less than the simulator resolution (1ns).
+#    Time: 0 ns  Iteration: 0  Root: /
+add wave -position insertpoint  \
+sim:/lfsr_test/clk \
+sim:/lfsr_test/reset \
+sim:/lfsr_test/random_number_out
+add wave -position insertpoint sim:/lfsr_test/lfsr_instance/*
+run
+run
+run
+run
+run
+run
+run
+run
+quit -sim
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd was successful.
+# Compile of eight_xor_seven_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_seven_layer_structure.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_structure.vhd failed with 1 errors.
+# Compile of key.vhd failed with 1 errors.
+# Compile of lfsr_test.vhd was successful.
+# 10 compiles, 5 failed with 5 errors. 
+vsim work.lfsr_test(behavior)
+# vsim work.lfsr_test(behavior) 
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.lfsr_test(behavior)#1
+# ** Warning: (vsim-3479) Time unit 'ps' is less than the simulator resolution (1ns).
+#    Time: 0 ns  Iteration: 0  Root: /
+add wave -position insertpoint sim:/lfsr_test/*
+add wave -position insertpoint sim:/lfsr_test/lfsr_instance/*
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+quit -sim
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd was successful.
+# Compile of eight_xor_seven_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_seven_layer_structure.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_structure.vhd failed with 1 errors.
+# Compile of key.vhd failed with 1 errors.
+# Compile of lfsr_test.vhd was successful.
+# 10 compiles, 5 failed with 5 errors. 
+vsim work.lfsr_test(behavior)
+# vsim work.lfsr_test(behavior) 
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.lfsr_test(behavior)#1
+# ** Warning: (vsim-3479) Time unit 'ps' is less than the simulator resolution (1ns).
+#    Time: 0 ns  Iteration: 0  Root: /
+add wave -position insertpoint sim:/lfsr_test/*
+add wave -position insertpoint sim:/lfsr_test/lfsr_instance/*
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# Causality operation skipped due to absence of debug database file
+run
+run
+run
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd was successful.
+# Compile of eight_xor_seven_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_seven_layer_structure.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_structure.vhd failed with 1 errors.
+# Compile of key.vhd failed with 1 errors.
+# Compile of lfsr_test.vhd was successful.
+# 10 compiles, 5 failed with 5 errors. 
+vsim work.lfsr_test(behavior)
+# vsim work.lfsr_test(behavior) 
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.lfsr_test(behavior)#1
+# ** Warning: (vsim-3479) Time unit 'ps' is less than the simulator resolution (1ns).
+#    Time: 0 ns  Iteration: 0  Root: /
+add wave -position insertpoint sim:/lfsr_test/*
+add wave -position insertpoint sim:/lfsr_test/lfsr_instance/*
+run 500
+run 200
+run
+run
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd was successful.
+# Compile of eight_xor_seven_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_seven_layer_structure.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_structure.vhd failed with 1 errors.
+# Compile of key.vhd failed with 1 errors.
+# Compile of lfsr_test.vhd was successful.
+# 10 compiles, 5 failed with 5 errors. 
+# Load canceled
+restart -f
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.lfsr_test(behavior)#1
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+quit -sim
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd was successful.
+# Compile of eight_xor_seven_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_seven_layer_structure.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_structure.vhd failed with 1 errors.
+# Compile of key.vhd failed with 1 errors.
+# Compile of lfsr_test.vhd was successful.
+# 10 compiles, 5 failed with 5 errors. 
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd was successful.
+# Compile of eight_xor_seven_layer_dataflow.vhd was successful.
+# Compile of eight_xor_seven_layer_structure.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_structure.vhd failed with 1 errors.
+# Compile of key.vhd failed with 1 errors.
+# Compile of lfsr_test.vhd was successful.
+# 10 compiles, 4 failed with 4 errors. 
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd was successful.
+# Compile of eight_xor_seven_layer_dataflow.vhd was successful.
+# Compile of eight_xor_seven_layer_structure.vhd was successful.
+# Compile of eight_xor_three_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_structure.vhd was successful.
+# Compile of key.vhd failed with 1 errors.
+# Compile of lfsr_test.vhd was successful.
+# 10 compiles, 2 failed with 2 errors. 
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd was successful.
+# Compile of eight_xor_seven_layer_dataflow.vhd was successful.
+# Compile of eight_xor_seven_layer_structure.vhd was successful.
+# Compile of eight_xor_three_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_structure.vhd was successful.
+# Compile of key.vhd failed with 1 errors.
+# Compile of lfsr_test.vhd was successful.
+# 10 compiles, 2 failed with 2 errors. 
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd was successful.
+# Compile of eight_xor_seven_layer_dataflow.vhd was successful.
+# Compile of eight_xor_seven_layer_structure.vhd was successful.
+# Compile of eight_xor_three_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_structure.vhd was successful.
+# Compile of key.vhd failed with 1 errors.
+# Compile of lfsr_test.vhd was successful.
+# 10 compiles, 2 failed with 2 errors. 
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd was successful.
+# Compile of eight_xor_seven_layer_dataflow.vhd was successful.
+# Compile of eight_xor_seven_layer_structure.vhd was successful.
+# Compile of eight_xor_three_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_structure.vhd was successful.
+# Compile of key.vhd failed with 1 errors.
+# Compile of lfsr_test.vhd was successful.
+# 10 compiles, 2 failed with 2 errors. 
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd was successful.
+# Compile of eight_xor_seven_layer_dataflow.vhd was successful.
+# Compile of eight_xor_seven_layer_structure.vhd was successful.
+# Compile of eight_xor_three_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_structure.vhd was successful.
+# Compile of key.vhd failed with 1 errors.
+# Compile of lfsr_test.vhd was successful.
+# 10 compiles, 2 failed with 2 errors. 
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd was successful.
+# Compile of eight_xor_seven_layer_dataflow.vhd was successful.
+# Compile of eight_xor_seven_layer_structure.vhd was successful.
+# Compile of eight_xor_three_layer_dataflow.vhd failed with 2 errors.
+# Compile of eight_xor_three_layer_structure.vhd was successful.
+# Compile of key.vhd failed with 1 errors.
+# Compile of lfsr_test.vhd was successful.
+# 10 compiles, 2 failed with 3 errors. 
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd was successful.
+# Compile of eight_xor_seven_layer_dataflow.vhd was successful.
+# Compile of eight_xor_seven_layer_structure.vhd was successful.
+# Compile of eight_xor_three_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_structure.vhd was successful.
+# Compile of key.vhd failed with 1 errors.
+# Compile of lfsr_test.vhd was successful.
+# 10 compiles, 2 failed with 2 errors. 
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd was successful.
+# Compile of eight_xor_seven_layer_dataflow.vhd was successful.
+# Compile of eight_xor_seven_layer_structure.vhd was successful.
+# Compile of eight_xor_three_layer_dataflow.vhd failed with 2 errors.
+# Compile of eight_xor_three_layer_structure.vhd was successful.
+# Compile of key.vhd failed with 1 errors.
+# Compile of lfsr_test.vhd was successful.
+# 10 compiles, 2 failed with 3 errors. 
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd was successful.
+# Compile of eight_xor_seven_layer_dataflow.vhd was successful.
+# Compile of eight_xor_seven_layer_structure.vhd was successful.
+# Compile of eight_xor_three_layer_dataflow.vhd was successful.
+# Compile of eight_xor_three_layer_structure.vhd was successful.
+# Compile of key.vhd failed with 1 errors.
+# Compile of lfsr_test.vhd was successful.
+# 10 compiles, 1 failed with 1 error. 
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd was successful.
+# Compile of eight_xor_seven_layer_dataflow.vhd was successful.
+# Compile of eight_xor_seven_layer_structure.vhd was successful.
+# Compile of eight_xor_three_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_structure.vhd was successful.
+# Compile of key.vhd failed with 1 errors.
+# Compile of lfsr_test.vhd was successful.
+# 10 compiles, 2 failed with 2 errors. 
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd was successful.
+# Compile of eight_xor_seven_layer_dataflow.vhd was successful.
+# Compile of eight_xor_seven_layer_structure.vhd was successful.
+# Compile of eight_xor_three_layer_dataflow.vhd failed with 1 errors.
+# Compile of eight_xor_three_layer_structure.vhd was successful.
+# Compile of key.vhd failed with 1 errors.
+# Compile of lfsr_test.vhd was successful.
+# 10 compiles, 2 failed with 2 errors. 
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd was successful.
+# Compile of eight_xor_seven_layer_dataflow.vhd was successful.
+# Compile of eight_xor_seven_layer_structure.vhd was successful.
+# Compile of eight_xor_three_layer_dataflow.vhd was successful.
+# Compile of eight_xor_three_layer_structure.vhd was successful.
+# Compile of key.vhd failed with 1 errors.
+# Compile of lfsr_test.vhd was successful.
+# 10 compiles, 1 failed with 1 error. 
+# Compile of eight_xor_three_layer_structure.vhd was successful.
+# Compile of xor_test.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of eight_xor_three_layer_structure.vhd was successful.
+# Compile of xor_test.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of eight_xor_three_layer_structure.vhd was successful.
+# Compile of xor_test.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of eight_xor_three_layer_structure.vhd was successful.
+# Compile of xor_test.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+# Load canceled
+# Compile of eight_xor_three_layer_structure.vhd was successful.
+# Compile of xor_test.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim work.xor_8(behavior)
+# vsim work.xor_8(behavior) 
+# ** Note: (vsim-3812) Design is being optimized...
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.xor_8(behavior)#1
+add wave -position insertpoint sim:/xor_8/xor_instance/*
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run]
+# invalid command name "run]"
+quit -sim
+# Load canceled
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd was successful.
+# Compile of eight_xor_seven_layer_dataflow.vhd was successful.
+# Compile of eight_xor_seven_layer_structure.vhd was successful.
+# Compile of eight_xor_three_layer_dataflow.vhd was successful.
+# Compile of eight_xor_three_layer_structure.vhd was successful.
+# Compile of key.vhd failed with 1 errors.
+# Compile of lfsr_test.vhd was successful.
+# Compile of xor_test.vhd was successful.
+# 11 compiles, 1 failed with 1 error. 
+vsim work.eight_input_xor(seven_layer_dataflow) work.eight_input_xor(seven_layer_structural) work.eight_input_xor(three_layer_dataflow) work.eight_input_xor(three_layer_structural)
+# vsim work.eight_input_xor(seven_layer_dataflow) work.eight_input_xor(seven_layer_structural) work.eight_input_xor(three_layer_dataflow) work.eight_input_xor(three_layer_structural) 
+# ** Fatal: (vsim-3369) Top-level design unit 'eight_input_xor' specified more than once.
+#    Time: 0 ns  Iteration: 0  Root: / File: NOFILE
+# FATAL ERROR while loading design
+# Error loading design
+vsim work.eight_input_xor(three_layer_dataflow)
+# vsim work.eight_input_xor(three_layer_dataflow) 
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Warning: (vopt-13) Recompile work.eight_input_xor(three_layer_dataflow) because work.eight_input_xor has changed.
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.eight_input_xor(three_layer_dataflow)#1
+# ** Warning: (vsim-3479) Time unit 'ps' is less than the simulator resolution (1ns).
+#    Time: 0 ns  Iteration: 0  Root: /
+add wave -position insertpoint sim:/eight_input_xor/*
+force in_vect(0) 1 50
+force in_vect(5) 1 100
+run
+force in_vect(0) 0 50
+force in_vect(5) 0 100
+force in_vect(7) 1 300
+force in_vect(1) 1 350
+run
+force in_vect(0) 1 50
+force in_vect(5) 1 200
+force in_vect(7) 0 20
+force in_vect(1) 0 30
+run
+force in_vect(0) 0 200
+force in_vect(0) 0 50
+run
+restart -f
+force in_vect(0) 0 10
+force in_vect(1) 0 10
+force in_vect(2) 0 10
+force in_vect(3) 0 10
+force in_vect(4) 0 10
+force in_vect(5) 0 10
+force in_vect(6) 0 10
+force in_vect(7) 0 10
+run
+force in_vect(0) 1 50
+force in_vect(5) 1 100
+run
+force in_vect(0) 0 50
+force in_vect(5) 0 100
+force in_vect(7) 1 300
+force in_vect(1) 1 350
+run
+force in_vect(0) 1 50
+force in_vect(5) 1 200
+force in_vect(7) 0 20
+force in_vect(1) 0 30
+run
+force in_vect(0) 0 200
+force in_vect(0) 0 50
+run
+restart -f
+force in_vect(0) 0 10
+force in_vect(1) 0 10
+force in_vect(2) 0 10
+force in_vect(3) 0 10
+force in_vect(4) 0 10
+force in_vect(5) 0 10
+force in_vect(6) 0 10
+force in_vect(7) 0 10
+run
+force in_vect(0) 0 10
+force in_vect(1) 0 10
+force in_vect(2) 0 10
+force in_vect(3) 1 10
+force in_vect(4) 0 10
+force in_vect(5) 0 10
+force in_vect(6) 0 10
+force in_vect(7) 0 10
+run
+force in_vect(0) 1 10
+force in_vect(1) 0 10
+force in_vect(2) 1 10
+force in_vect(3) 0 10
+force in_vect(4) 1 10
+force in_vect(5) 0 10
+force in_vect(6) 1 10
+force in_vect(7) 0 10
+run
+force in_vect(0) 1 10
+force in_vect(1) 1 10
+force in_vect(2) 1 10
+force in_vect(3) 0 10
+force in_vect(4) 1 10
+force in_vect(5) 0 10
+force in_vect(6) 1 10
+force in_vect(7) 1 10
+run
+
+force in_vect(0) 0 10
+force in_vect(1) 0 10
+force in_vect(2) 0 10
+force in_vect(3) 0 10
+force in_vect(4) 0 10
+force in_vect(5) 0 10
+force in_vect(6) 0 10
+force in_vect(7) 0 10
+run
+force in_vect(0) 0 10
+force in_vect(1) 0 10
+force in_vect(2) 0 10
+force in_vect(3) 1 10
+force in_vect(4) 0 10
+force in_vect(5) 0 10
+force in_vect(6) 0 10
+force in_vect(7) 0 10
+run
+force in_vect(0) 0 10
+force in_vect(1) 0 10
+force in_vect(2) 0 10
+force in_vect(3) 0 10
+force in_vect(4) 0 10
+force in_vect(5) 0 10
+force in_vect(6) 0 10
+force in_vect(7) 0 10
+run
+force in_vect(0) 1 10
+force in_vect(1) 1 10
+force in_vect(2) 1 10
+force in_vect(3) 0 10
+force in_vect(4) 1 10
+force in_vect(5) 0 10
+force in_vect(6) 1 10
+force in_vect(7) 1 10
+run
+
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd was successful.
+# Compile of eight_xor_seven_layer_dataflow.vhd was successful.
+# Compile of eight_xor_seven_layer_structure.vhd was successful.
+# Compile of eight_xor_three_layer_dataflow.vhd was successful.
+# Compile of eight_xor_three_layer_structure.vhd was successful.
+# Compile of key.vhd failed with 1 errors.
+# Compile of lfsr_test.vhd was successful.
+# Compile of xor_test.vhd was successful.
+# 11 compiles, 1 failed with 1 error. 
+restart -f
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# ** Warning: (vopt-13) Recompile work.eight_input_xor(three_layer_dataflow) because work.eight_input_xor has changed.
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.eight_input_xor(three_layer_dataflow)#1
+force in_vect(0) 0 10
+force in_vect(1) 0 10
+force in_vect(2) 0 10
+force in_vect(3) 0 10
+force in_vect(4) 0 10
+force in_vect(5) 0 10
+force in_vect(6) 0 10
+force in_vect(7) 0 10
+run
+force in_vect(0) 0 10
+force in_vect(1) 0 10
+force in_vect(2) 0 10
+force in_vect(3) 1 10
+force in_vect(4) 0 10
+force in_vect(5) 0 10
+force in_vect(6) 0 10
+force in_vect(7) 0 10
+run
+force in_vect(0) 0 10
+force in_vect(1) 0 10
+force in_vect(2) 0 10
+force in_vect(3) 0 10
+force in_vect(4) 0 10
+force in_vect(5) 0 10
+force in_vect(6) 0 10
+force in_vect(7) 0 10
+run
+force in_vect(0) 1 10
+force in_vect(1) 1 10
+force in_vect(2) 1 10
+force in_vect(3) 0 10
+force in_vect(4) 1 10
+force in_vect(5) 0 10
+force in_vect(6) 1 10
+force in_vect(7) 1 10
+run
+
+vsim work.eight_input_xor(seven_layer_dataflow)
+# vsim work.eight_input_xor(seven_layer_dataflow) 
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Warning: (vopt-133) Unable to remove directory "/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/work/@_opt1".
+# Directory not empty. (errno = 39)
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.eight_input_xor(seven_layer_dataflow)#1
+add wave -position insertpoint sim:/eight_input_xor/*
+force in_vect(0) 0 10
+force in_vect(1) 0 10
+force in_vect(2) 0 10
+force in_vect(3) 0 10
+force in_vect(4) 0 10
+force in_vect(5) 0 10
+force in_vect(6) 0 10
+force in_vect(7) 0 10
+run
+force in_vect(0) 0 10
+force in_vect(1) 0 10
+force in_vect(2) 0 10
+force in_vect(3) 1 10
+force in_vect(4) 0 10
+force in_vect(5) 0 10
+force in_vect(6) 0 10
+force in_vect(7) 0 10
+run
+force in_vect(0) 0 10
+force in_vect(1) 0 10
+force in_vect(2) 0 10
+force in_vect(3) 0 10
+force in_vect(4) 0 10
+force in_vect(5) 0 10
+force in_vect(6) 0 10
+force in_vect(7) 0 10
+run
+force in_vect(0) 1 10
+force in_vect(1) 1 10
+force in_vect(2) 1 10
+force in_vect(3) 0 10
+force in_vect(4) 1 10
+force in_vect(5) 0 10
+force in_vect(6) 1 10
+force in_vect(7) 1 10
+run
+
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd was successful.
+# Compile of eight_xor_seven_layer_dataflow.vhd was successful.
+# Compile of eight_xor_seven_layer_structure.vhd was successful.
+# Compile of eight_xor_three_layer_dataflow.vhd was successful.
+# Compile of eight_xor_three_layer_structure.vhd was successful.
+# Compile of key.vhd failed with 1 errors.
+# Compile of lfsr_test.vhd was successful.
+# Compile of xor_test.vhd was successful.
+# 11 compiles, 1 failed with 1 error. 
+vsim work.eight_input_xor(seven_layer_structural)
+# vsim work.eight_input_xor(seven_layer_structural) 
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Warning: (vopt-133) Unable to remove directory "/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/work/@_opt2".
+# Directory not empty. (errno = 39)
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.eight_input_xor(seven_layer_structural)#1
+add wave -position insertpoint sim:/eight_input_xor/*
+force in_vect(0) 0 10
+force in_vect(1) 0 10
+force in_vect(2) 0 10
+force in_vect(3) 0 10
+force in_vect(4) 0 10
+force in_vect(5) 0 10
+force in_vect(6) 0 10
+force in_vect(7) 0 10
+run
+force in_vect(0) 0 10
+force in_vect(1) 0 10
+force in_vect(2) 0 10
+force in_vect(3) 1 10
+force in_vect(4) 0 10
+force in_vect(5) 0 10
+force in_vect(6) 0 10
+force in_vect(7) 0 10
+run
+force in_vect(0) 0 10
+force in_vect(1) 0 10
+force in_vect(2) 0 10
+force in_vect(3) 0 10
+force in_vect(4) 0 10
+force in_vect(5) 0 10
+force in_vect(6) 0 10
+force in_vect(7) 0 10
+run
+force in_vect(0) 1 10
+force in_vect(1) 1 10
+force in_vect(2) 1 10
+force in_vect(3) 0 10
+force in_vect(4) 1 10
+force in_vect(5) 0 10
+force in_vect(6) 1 10
+force in_vect(7) 1 10
+run
+
+vsim work.eight_input_xor(seven_layer_dataflow)
+# vsim work.eight_input_xor(seven_layer_dataflow) 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.eight_input_xor(seven_layer_dataflow)#1
+force in_vect(0) 0 10
+force in_vect(1) 0 10
+force in_vect(2) 0 10
+force in_vect(3) 0 10
+force in_vect(4) 0 10
+force in_vect(5) 0 10
+force in_vect(6) 0 10
+force in_vect(7) 0 10
+run
+force in_vect(0) 0 10
+force in_vect(1) 0 10
+force in_vect(2) 0 10
+force in_vect(3) 1 10
+force in_vect(4) 0 10
+force in_vect(5) 0 10
+force in_vect(6) 0 10
+force in_vect(7) 0 10
+run
+force in_vect(0) 0 10
+force in_vect(1) 0 10
+force in_vect(2) 0 10
+force in_vect(3) 0 10
+force in_vect(4) 0 10
+force in_vect(5) 0 10
+force in_vect(6) 0 10
+force in_vect(7) 0 10
+run
+force in_vect(0) 1 10
+force in_vect(1) 1 10
+force in_vect(2) 1 10
+force in_vect(3) 0 10
+force in_vect(4) 1 10
+force in_vect(5) 0 10
+force in_vect(6) 1 10
+force in_vect(7) 1 10
+run
+
+add wave -position insertpoint sim:/eight_input_xor/*
+force in_vect(0) 0 10
+force in_vect(1) 0 10
+force in_vect(2) 0 10
+force in_vect(3) 0 10
+force in_vect(4) 0 10
+force in_vect(5) 0 10
+force in_vect(6) 0 10
+force in_vect(7) 0 10
+run
+force in_vect(0) 0 10
+force in_vect(1) 0 10
+force in_vect(2) 0 10
+force in_vect(3) 1 10
+force in_vect(4) 0 10
+force in_vect(5) 0 10
+force in_vect(6) 0 10
+force in_vect(7) 0 10
+run
+force in_vect(0) 0 10
+force in_vect(1) 0 10
+force in_vect(2) 0 10
+force in_vect(3) 0 10
+force in_vect(4) 0 10
+force in_vect(5) 0 10
+force in_vect(6) 0 10
+force in_vect(7) 0 10
+run
+force in_vect(0) 1 10
+force in_vect(1) 1 10
+force in_vect(2) 1 10
+force in_vect(3) 0 10
+force in_vect(4) 1 10
+force in_vect(5) 0 10
+force in_vect(6) 1 10
+force in_vect(7) 1 10
+run
+
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd was successful.
+# Compile of eight_xor_seven_layer_dataflow.vhd was successful.
+# Compile of eight_xor_seven_layer_structure.vhd was successful.
+# Compile of eight_xor_three_layer_dataflow.vhd was successful.
+# Compile of eight_xor_three_layer_structure.vhd was successful.
+# Compile of key.vhd failed with 1 errors.
+# Compile of lfsr_test.vhd was successful.
+# Compile of xor_test.vhd was successful.
+# 11 compiles, 1 failed with 1 error. 
+restart -f
+force in_vect(0) 0 10
+force in_vect(1) 0 10
+force in_vect(2) 0 10
+force in_vect(3) 0 10
+force in_vect(4) 0 10
+force in_vect(5) 0 10
+force in_vect(6) 0 10
+force in_vect(7) 0 10
+run
+force in_vect(0) 0 10
+force in_vect(1) 0 10
+force in_vect(2) 0 10
+force in_vect(3) 1 10
+force in_vect(4) 0 10
+force in_vect(5) 0 10
+force in_vect(6) 0 10
+force in_vect(7) 0 10
+run
+force in_vect(0) 0 10
+force in_vect(1) 0 10
+force in_vect(2) 0 10
+force in_vect(3) 0 10
+force in_vect(4) 0 10
+force in_vect(5) 0 10
+force in_vect(6) 0 10
+force in_vect(7) 0 10
+run
+force in_vect(0) 1 10
+force in_vect(1) 1 10
+force in_vect(2) 1 10
+force in_vect(3) 0 10
+force in_vect(4) 1 10
+force in_vect(5) 0 10
+force in_vect(6) 1 10
+force in_vect(7) 1 10
+run
+
+quit -sim
+# Load canceled
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd was successful.
+# Compile of eight_xor_seven_layer_dataflow.vhd was successful.
+# Compile of eight_xor_seven_layer_structure.vhd was successful.
+# Compile of eight_xor_three_layer_dataflow.vhd was successful.
+# Compile of eight_xor_three_layer_structure.vhd was successful.
+# Compile of key.vhd failed with 1 errors.
+# Compile of lfsr_test.vhd was successful.
+# Compile of xor_test.vhd was successful.
+# 11 compiles, 1 failed with 1 error. 
+vsim work.eight_input_xor(seven_layer_dataflow)
+# vsim work.eight_input_xor(seven_layer_dataflow) 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.eight_input_xor(seven_layer_dataflow)#1
+add wave -position insertpoint sim:/eight_input_xor/*
+force in_vect(0) 0 10
+force in_vect(1) 0 10
+force in_vect(2) 0 10
+force in_vect(3) 0 10
+force in_vect(4) 0 10
+force in_vect(5) 0 10
+force in_vect(6) 0 10
+force in_vect(7) 0 10
+run
+force in_vect(0) 0 10
+force in_vect(1) 0 10
+force in_vect(2) 0 10
+force in_vect(3) 1 10
+force in_vect(4) 0 10
+force in_vect(5) 0 10
+force in_vect(6) 0 10
+force in_vect(7) 0 10
+run
+force in_vect(0) 0 10
+force in_vect(1) 0 10
+force in_vect(2) 0 10
+force in_vect(3) 0 10
+force in_vect(4) 0 10
+force in_vect(5) 0 10
+force in_vect(6) 0 10
+force in_vect(7) 0 10
+run
+force in_vect(0) 1 10
+force in_vect(1) 1 10
+force in_vect(2) 1 10
+force in_vect(3) 0 10
+force in_vect(4) 1 10
+force in_vect(5) 0 10
+force in_vect(6) 1 10
+force in_vect(7) 1 10
+run
+
+restart -f
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd was successful.
+# Compile of eight_xor_seven_layer_dataflow.vhd was successful.
+# Compile of eight_xor_seven_layer_structure.vhd was successful.
+# Compile of eight_xor_three_layer_dataflow.vhd was successful.
+# Compile of eight_xor_three_layer_structure.vhd was successful.
+# Compile of key.vhd failed with 1 errors.
+# Compile of lfsr_test.vhd was successful.
+# Compile of xor_test.vhd was successful.
+# 11 compiles, 1 failed with 1 error. 
+restart -f
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.eight_input_xor(seven_layer_dataflow)#1
+force in_vect(0) 0 10
+force in_vect(1) 0 10
+force in_vect(2) 0 10
+force in_vect(3) 0 10
+force in_vect(4) 0 10
+force in_vect(5) 0 10
+force in_vect(6) 0 10
+force in_vect(7) 0 10
+run
+force in_vect(0) 0 10
+force in_vect(1) 0 10
+force in_vect(2) 0 10
+force in_vect(3) 1 10
+force in_vect(4) 0 10
+force in_vect(5) 0 10
+force in_vect(6) 0 10
+force in_vect(7) 0 10
+run
+force in_vect(0) 0 10
+force in_vect(1) 0 10
+force in_vect(2) 0 10
+force in_vect(3) 0 10
+force in_vect(4) 0 10
+force in_vect(5) 0 10
+force in_vect(6) 0 10
+force in_vect(7) 0 10
+run
+force in_vect(0) 1 10
+force in_vect(1) 1 10
+force in_vect(2) 1 10
+force in_vect(3) 0 10
+force in_vect(4) 1 10
+force in_vect(5) 0 10
+force in_vect(6) 1 10
+force in_vect(7) 1 10
+run
+
+vsim work.eight_input_xor(three_layer_structural)
+# vsim work.eight_input_xor(three_layer_structural) 
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Warning: (vopt-133) Unable to remove directory "/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/work/@_opt".
+# Directory not empty. (errno = 39)
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.eight_input_xor(three_layer_structural)#1
+add wave -position insertpoint sim:/eight_input_xor/*
+force in_vect(0) 0 10
+force in_vect(1) 0 10
+force in_vect(2) 0 10
+force in_vect(3) 0 10
+force in_vect(4) 0 10
+force in_vect(5) 0 10
+force in_vect(6) 0 10
+force in_vect(7) 0 10
+run
+force in_vect(0) 0 10
+force in_vect(1) 0 10
+force in_vect(2) 0 10
+force in_vect(3) 1 10
+force in_vect(4) 0 10
+force in_vect(5) 0 10
+force in_vect(6) 0 10
+force in_vect(7) 0 10
+run
+force in_vect(0) 0 10
+force in_vect(1) 0 10
+force in_vect(2) 0 10
+force in_vect(3) 0 10
+force in_vect(4) 0 10
+force in_vect(5) 0 10
+force in_vect(6) 0 10
+force in_vect(7) 0 10
+run
+force in_vect(0) 1 10
+force in_vect(1) 1 10
+force in_vect(2) 1 10
+force in_vect(3) 0 10
+force in_vect(4) 1 10
+force in_vect(5) 0 10
+force in_vect(6) 1 10
+force in_vect(7) 1 10
+run
+
+vsim work.eight_input_xor(three_layer_dataflow)
+# vsim work.eight_input_xor(three_layer_dataflow) 
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Warning: (vopt-133) Unable to remove directory "/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/work/@_opt2".
+# Directory not empty. (errno = 39)
+# ** Warning: (vopt-13) Recompile work.eight_input_xor(three_layer_dataflow) because work.eight_input_xor has changed.
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.eight_input_xor(three_layer_dataflow)#1
+# ** Warning: (vsim-3479) Time unit 'ps' is less than the simulator resolution (1ns).
+#    Time: 0 ns  Iteration: 0  Root: /
+add wave -position insertpoint sim:/eight_input_xor/*
+force in_vect(0) 0 10
+force in_vect(1) 0 10
+force in_vect(2) 0 10
+force in_vect(3) 0 10
+force in_vect(4) 0 10
+force in_vect(5) 0 10
+force in_vect(6) 0 10
+force in_vect(7) 0 10
+run
+force in_vect(0) 0 10
+force in_vect(1) 0 10
+force in_vect(2) 0 10
+force in_vect(3) 1 10
+force in_vect(4) 0 10
+force in_vect(5) 0 10
+force in_vect(6) 0 10
+force in_vect(7) 0 10
+run
+force in_vect(0) 0 10
+force in_vect(1) 0 10
+force in_vect(2) 0 10
+force in_vect(3) 0 10
+force in_vect(4) 0 10
+force in_vect(5) 0 10
+force in_vect(6) 0 10
+force in_vect(7) 0 10
+run
+force in_vect(0) 1 10
+force in_vect(1) 1 10
+force in_vect(2) 1 10
+force in_vect(3) 0 10
+force in_vect(4) 1 10
+force in_vect(5) 0 10
+force in_vect(6) 1 10
+force in_vect(7) 1 10
+run
+
+quit -sim
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd was successful.
+# Compile of eight_xor_seven_layer_dataflow.vhd was successful.
+# Compile of eight_xor_seven_layer_structure.vhd was successful.
+# Compile of eight_xor_three_layer_dataflow.vhd was successful.
+# Compile of eight_xor_three_layer_structure.vhd was successful.
+# Compile of key.vhd failed with 1 errors.
+# Compile of lfsr_test.vhd was successful.
+# Compile of xor_test.vhd was successful.
+# 11 compiles, 1 failed with 1 error. 
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd was successful.
+# Compile of eight_xor_seven_layer_dataflow.vhd was successful.
+# Compile of eight_xor_seven_layer_structure.vhd was successful.
+# Compile of eight_xor_three_layer_dataflow.vhd was successful.
+# Compile of eight_xor_three_layer_structure.vhd was successful.
+# Compile of key.vhd failed with 1 errors.
+# Compile of lfsr_test.vhd was successful.
+# Compile of xor_test.vhd was successful.
+# 11 compiles, 1 failed with 1 error. 
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd was successful.
+# Compile of eight_xor_seven_layer_dataflow.vhd was successful.
+# Compile of eight_xor_seven_layer_structure.vhd was successful.
+# Compile of eight_xor_three_layer_dataflow.vhd was successful.
+# Compile of eight_xor_three_layer_structure.vhd was successful.
+# Compile of key.vhd failed with 1 errors.
+# Compile of lfsr_test.vhd was successful.
+# Compile of xor_test.vhd was successful.
+# 11 compiles, 1 failed with 1 error. 
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd was successful.
+# Compile of eight_xor_seven_layer_dataflow.vhd was successful.
+# Compile of eight_xor_seven_layer_structure.vhd was successful.
+# Compile of eight_xor_three_layer_dataflow.vhd was successful.
+# Compile of eight_xor_three_layer_structure.vhd was successful.
+# Compile of key.vhd was successful.
+# Compile of lfsr_test.vhd was successful.
+# Compile of xor_test.vhd was successful.
+# 11 compiles, 0 failed with no errors. 
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd was successful.
+# Compile of eight_xor_seven_layer_dataflow.vhd was successful.
+# Compile of eight_xor_seven_layer_structure.vhd was successful.
+# Compile of eight_xor_three_layer_dataflow.vhd was successful.
+# Compile of eight_xor_three_layer_structure.vhd was successful.
+# Compile of key.vhd failed with 1 errors.
+# Compile of lfsr_test.vhd was successful.
+# Compile of xor_test.vhd was successful.
+# 11 compiles, 1 failed with 1 error. 
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd was successful.
+# Compile of eight_xor_seven_layer_dataflow.vhd was successful.
+# Compile of eight_xor_seven_layer_structure.vhd was successful.
+# Compile of eight_xor_three_layer_dataflow.vhd was successful.
+# Compile of eight_xor_three_layer_structure.vhd was successful.
+# Compile of key.vhd failed with 1 errors.
+# Compile of lfsr_test.vhd was successful.
+# Compile of xor_test.vhd was successful.
+# 11 compiles, 1 failed with 1 error. 
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd was successful.
+# Compile of eight_xor_seven_layer_dataflow.vhd was successful.
+# Compile of eight_xor_seven_layer_structure.vhd was successful.
+# Compile of eight_xor_three_layer_dataflow.vhd was successful.
+# Compile of eight_xor_three_layer_structure.vhd was successful.
+# Compile of key.vhd failed with 1 errors.
+# Compile of lfsr_test.vhd was successful.
+# Compile of xor_test.vhd was successful.
+# 11 compiles, 1 failed with 1 error. 
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd was successful.
+# Compile of eight_xor_seven_layer_dataflow.vhd was successful.
+# Compile of eight_xor_seven_layer_structure.vhd was successful.
+# Compile of eight_xor_three_layer_dataflow.vhd was successful.
+# Compile of eight_xor_three_layer_structure.vhd was successful.
+# Compile of key.vhd failed with 1 errors.
+# Compile of lfsr_test.vhd was successful.
+# Compile of xor_test.vhd was successful.
+# 11 compiles, 1 failed with 1 error. 
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd was successful.
+# Compile of eight_xor_seven_layer_dataflow.vhd was successful.
+# Compile of eight_xor_seven_layer_structure.vhd was successful.
+# Compile of eight_xor_three_layer_dataflow.vhd was successful.
+# Compile of eight_xor_three_layer_structure.vhd was successful.
+# Compile of key.vhd failed with 1 errors.
+# Compile of lfsr_test.vhd was successful.
+# Compile of xor_test.vhd was successful.
+# 11 compiles, 1 failed with 1 error. 
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd was successful.
+# Compile of eight_xor_seven_layer_dataflow.vhd was successful.
+# Compile of eight_xor_seven_layer_structure.vhd was successful.
+# Compile of eight_xor_three_layer_dataflow.vhd was successful.
+# Compile of eight_xor_three_layer_structure.vhd was successful.
+# Compile of key.vhd failed with 1 errors.
+# Compile of lfsr_test.vhd was successful.
+# Compile of xor_test.vhd was successful.
+# 11 compiles, 1 failed with 1 error. 
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd was successful.
+# Compile of eight_xor_seven_layer_dataflow.vhd was successful.
+# Compile of eight_xor_seven_layer_structure.vhd was successful.
+# Compile of eight_xor_three_layer_dataflow.vhd was successful.
+# Compile of eight_xor_three_layer_structure.vhd was successful.
+# Compile of key.vhd was successful.
+# Compile of lfsr_test.vhd was successful.
+# Compile of xor_test.vhd was successful.
+# 11 compiles, 0 failed with no errors. 
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd was successful.
+# Compile of eight_xor_seven_layer_dataflow.vhd was successful.
+# Compile of eight_xor_seven_layer_structure.vhd was successful.
+# Compile of eight_xor_three_layer_dataflow.vhd was successful.
+# Compile of eight_xor_three_layer_structure.vhd was successful.
+# Compile of key.vhd was successful.
+# Compile of lfsr_test.vhd was successful.
+# Compile of xor_test.vhd was successful.
+# Compile of key_test.vhd failed with 1 errors.
+# 12 compiles, 1 failed with 1 error. 
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd was successful.
+# Compile of eight_xor_seven_layer_dataflow.vhd was successful.
+# Compile of eight_xor_seven_layer_structure.vhd was successful.
+# Compile of eight_xor_three_layer_dataflow.vhd was successful.
+# Compile of eight_xor_three_layer_structure.vhd was successful.
+# Compile of key.vhd was successful.
+# Compile of lfsr_test.vhd was successful.
+# Compile of xor_test.vhd was successful.
+# Compile of key_test.vhd failed with 1 errors.
+# 12 compiles, 1 failed with 1 error. 
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd was successful.
+# Compile of eight_xor_seven_layer_dataflow.vhd was successful.
+# Compile of eight_xor_seven_layer_structure.vhd was successful.
+# Compile of eight_xor_three_layer_dataflow.vhd was successful.
+# Compile of eight_xor_three_layer_structure.vhd was successful.
+# Compile of key.vhd was successful.
+# Compile of lfsr_test.vhd was successful.
+# Compile of xor_test.vhd was successful.
+# Compile of key_test.vhd failed with 1 errors.
+# 12 compiles, 1 failed with 1 error. 
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd was successful.
+# Compile of eight_xor_seven_layer_dataflow.vhd was successful.
+# Compile of eight_xor_seven_layer_structure.vhd was successful.
+# Compile of eight_xor_three_layer_dataflow.vhd was successful.
+# Compile of eight_xor_three_layer_structure.vhd was successful.
+# Compile of key.vhd was successful.
+# Compile of lfsr_test.vhd was successful.
+# Compile of xor_test.vhd was successful.
+# Compile of key_test.vhd was successful.
+# 12 compiles, 0 failed with no errors. 
+vsim work.key_test(behavior)
+# vsim work.key_test(behavior) 
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Warning: (vopt-133) Unable to remove directory "/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/hw7/vhdl/work/@_opt1".
+# Directory not empty. (errno = 39)
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.key_test(behavior)#1
+add wave -position insertpoint sim:/key_test/*
+add wave -position insertpoint sim:/key_test/key_instance/*
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd was successful.
+# Compile of eight_xor_seven_layer_dataflow.vhd was successful.
+# Compile of eight_xor_seven_layer_structure.vhd was successful.
+# Compile of eight_xor_three_layer_dataflow.vhd was successful.
+# Compile of eight_xor_three_layer_structure.vhd was successful.
+# Compile of key.vhd failed with 1 errors.
+# Compile of lfsr_test.vhd was successful.
+# Compile of xor_test.vhd was successful.
+# Compile of key_test.vhd was successful.
+# 12 compiles, 1 failed with 1 error. 
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd was successful.
+# Compile of eight_xor_seven_layer_dataflow.vhd was successful.
+# Compile of eight_xor_seven_layer_structure.vhd was successful.
+# Compile of eight_xor_three_layer_dataflow.vhd was successful.
+# Compile of eight_xor_three_layer_structure.vhd was successful.
+# Compile of key.vhd was successful.
+# Compile of lfsr_test.vhd was successful.
+# Compile of xor_test.vhd was successful.
+# Compile of key_test.vhd was successful.
+# 12 compiles, 0 failed with no errors. 
+restart -f
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.key_test(behavior)#1
+run
+run
+run
+run
+run
+add wave -position insertpoint  \
+sim:/key_test/r
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of lfsr.vhd was successful.
+# Compile of eight_xor_seven_layer_dataflow.vhd was successful.
+# Compile of eight_xor_seven_layer_structure.vhd was successful.
+# Compile of eight_xor_three_layer_dataflow.vhd was successful.
+# Compile of eight_xor_three_layer_structure.vhd was successful.
+# Compile of key.vhd was successful.
+# Compile of lfsr_test.vhd was successful.
+# Compile of xor_test.vhd was successful.
+# Compile of key_test.vhd was successful.
+# 12 compiles, 0 failed with no errors. 
+restart -f
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.key_test(behavior)#1
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
