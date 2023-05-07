@@ -1,0 +1,83 @@
+A 5 u Eddm_design_viewpoint 64546b3fc751.03.80.eb.2c.47.00.22.17 1 2 59 0
+V v 1 4 64546b3fc751.03.80.eb.2c.47.01.22.17
+F f 1 "galois_expand_IC_Station_SDL_Flat2.dvpt_1"
+F o 0 
+F o 0 
+F o 0 
+O 1
+P "eddm__stream_to_use" "eddm__propl_dstream"
+R cspuv 0 "/afs/cad/u/j/k/jk526/ece758/vhdl_playground/Project/schema/galois_expand/part" 2 Eddm_part 645462860734.03.80.eb.2c.47.00.15.b0 64546285a34e.03.80.eb.2c.47.00.15.b0
+R cspuv 1 "$HOME/ece758/vhdl_playground/Project/schema/galois_expand/galois_expand" 1 mgc_symbol 64546285a24a.03.80.eb.2c.47.01.15.b0 64546285a24a.03.80.eb.2c.47.00.15.b0
+R cspuv 2 "$HOME/ece758/vhdl_playground/Project/schema/galois_expand/schematic" 8 mgc_schematic 64546286b58d.03.80.eb.2c.47.00.15.b0 64546285ad3c.03.80.eb.2c.47.00.15.b0
+R cspuv 3 "$ADK/parts/inv01/part" 1 Eddm_part 411d0b78f3c4.03.93.22.46.d8.00.24.b5 43349f1b0f6b.03.93.22.46.d8.05.02.fa
+R cspuv 4 "$ADK/parts/nor02ii/part" 1 Eddm_part 411d119f084e.03.93.22.46.d8.00.24.b5 43349f1b0f46.03.93.22.46.d8.02.02.fa
+R cspuv 5 "$ADK/parts/or02/part" 1 Eddm_part 411d18fce0e1.03.93.22.46.d8.00.24.b5 43349f1b0f56.03.93.22.46.d8.02.02.fa
+R cspuv 6 "$ADK/parts/latch/part" 1 Eddm_part 411d0ce2399c.03.93.22.46.d8.00.24.b5 43349f1b0f67.03.93.22.46.d8.04.02.fa
+R cspuv 7 "$ADK/parts/xnor2/part" 1 Eddm_part 411d1bc6ef8c.03.93.22.46.d8.00.24.b5 43349f1b0f4f.03.93.22.46.d8.00.02.fa
+R cspuv 8 "$ADK/parts/latch/schematic" 1 mgc_schematic 3756f6bb4233.03.80.fc.a8.96.00.08.9b 43349f1b0f67.03.93.22.46.d8.02.02.fa
+P "eddm__refer_state" "eddm__refer_floating"
+R cspuv 9 "$ADK/parts/latch/latch" 1 mgc_symbol 375ae138712b.03.80.fc.a8.96.00.6c.50 43349f1b0f67.03.93.22.46.d8.01.02.fa
+R cspuv 10 "$ADK/parts/latch/qpfile" 1 Tdm_qpt_do 3bed711316b6.03.80.fc.a8.96.00.31.35 43349f1b0f21.03.93.22.46.d8.05.02.fa
+R cspuv 11 "$ADK/parts/latch/ami05_tech" 1 Tf_tfile_do 3bed71edf058.03.80.fc.a8.96.00.35.36 43349f1b0f21.03.93.22.46.d8.04.02.fa
+R cspuv 12 "$ADK/parts/latch/tsmc035_tech" 1 Tf_tfile_do 3bed73134ea7.03.80.fc.a8.96.00.39.f5 43349f1b0f21.03.93.22.46.d8.03.02.fa
+R cspuv 13 "$ADK/parts/latch/ami12_tech" 1 Tf_tfile_do 3bed7401ebb8.03.80.fc.a8.96.00.3e.4b 43349f1b0f21.03.93.22.46.d8.02.02.fa
+R cspuv 14 "$ADK/parts/latch/schematic_DSM" 1 mgc_schematic 411d0ce21803.03.93.22.46.d8.00.24.b5 43349f1b0f21.03.93.22.46.d8.01.02.fa
+P "eddm__refer_state" "eddm__refer_floating"
+R cspuv 15 "$ADK/parts/or02/schematic" 1 mgc_schematic 375abf31dd53.03.80.fc.a8.96.00.6c.50 43349f1b0f56.03.93.22.46.d8.00.02.fa
+P "eddm__refer_state" "eddm__refer_floating"
+R cspuv 16 "$ADK/parts/or02/or02" 1 mgc_symbol 375ac7a01689.03.80.fc.a8.96.00.6c.50 43349f1b0f55.03.93.22.46.d8.06.02.fa
+R cspuv 17 "$ADK/parts/or02/qpfile" 1 Tdm_qpt_do 3bed7140945d.03.80.fc.a8.96.00.31.f5 43349f1b0f0c.03.93.22.46.d8.01.02.fa
+R cspuv 18 "$ADK/parts/or02/ami05_tech" 1 Tf_tfile_do 3bed72337bc5.03.80.fc.a8.96.00.36.4f 43349f1b0f0c.03.93.22.46.d8.00.02.fa
+R cspuv 19 "$ADK/parts/or02/tsmc035_tech" 1 Tf_tfile_do 3bed73654177.03.80.fc.a8.96.00.3b.0e 43349f1b0f0b.03.93.22.46.d8.06.02.fa
+R cspuv 20 "$ADK/parts/or02/ami12_tech" 1 Tf_tfile_do 3bed744791b2.03.80.fc.a8.96.00.3f.63 43349f1b0f0b.03.93.22.46.d8.05.02.fa
+R cspuv 21 "$ADK/parts/or02/schematic_DSM" 1 mgc_schematic 411d18fcbedf.03.93.22.46.d8.00.24.b5 43349f1b0f0b.03.93.22.46.d8.04.02.fa
+P "eddm__refer_state" "eddm__refer_floating"
+R cspuv 22 "$ADK/parts/nor02ii/schematic" 1 mgc_schematic 411172413825.03.93.22.46.d8.00.06.eb 43349f1b0f46.03.93.22.46.d8.00.02.fa
+P "eddm__refer_state" "eddm__refer_floating"
+R cspuv 23 "$ADK/parts/nor02ii/nor02ii" 1 mgc_symbol 411176ff0c05.03.93.22.46.d8.00.06.eb 43349f1b0efe.03.93.22.46.d8.03.02.fa
+R cspuv 24 "$ADK/parts/nor02ii/schematic_DSM" 1 mgc_schematic 411d119edf7d.03.93.22.46.d8.00.24.b5 43349f1b0efe.03.93.22.46.d8.02.02.fa
+P "eddm__refer_state" "eddm__refer_floating"
+R cspuv 25 "$ADK/parts/inv01/schematic" 1 mgc_schematic 374c59755398.03.80.fc.a8.96.00.22.30 43349f1b0f6b.03.93.22.46.d8.03.02.fa
+P "eddm__refer_state" "eddm__refer_floating"
+R cspuv 26 "$ADK/parts/inv01/inv01" 1 mgc_symbol 375821004cca.03.80.fc.a8.96.00.6c.50 43349f1b0f6b.03.93.22.46.d8.02.02.fa
+R cspuv 27 "$ADK/parts/inv01/qpfile" 1 Tdm_qpt_do 3bed7107d095.03.80.fc.a8.96.00.31.05 43349f1b0f26.03.93.22.46.d8.05.02.fa
+R cspuv 28 "$ADK/parts/inv01/ami05_tech" 1 Tf_tfile_do 3bed71e0b097.03.80.fc.a8.96.00.34.f3 43349f1b0f26.03.93.22.46.d8.04.02.fa
+R cspuv 29 "$ADK/parts/inv01/tsmc035_tech" 1 Tf_tfile_do 3bed7303eba4.03.80.fc.a8.96.00.39.b3 43349f1b0f26.03.93.22.46.d8.03.02.fa
+R cspuv 30 "$ADK/parts/inv01/ami12_tech" 1 Tf_tfile_do 3bed73f4cc32.03.80.fc.a8.96.00.3e.09 43349f1b0f26.03.93.22.46.d8.02.02.fa
+R cspuv 31 "$ADK/parts/inv01/schematic_DSM" 1 mgc_schematic 411d0b78d37a.03.93.22.46.d8.00.24.b5 43349f1b0f26.03.93.22.46.d8.01.02.fa
+P "eddm__refer_state" "eddm__refer_floating"
+R cspuv 32 "$ADK/parts/xnor2/schematic" 1 mgc_schematic 375d6450a7a0.03.80.fc.a8.96.01.4f.03 43349f1b0f4e.03.93.22.46.d8.05.02.fa
+P "eddm__refer_state" "eddm__refer_floating"
+R cspuv 33 "$ADK/parts/xnor2/xnor2" 1 mgc_symbol 375d6e868692.03.80.fc.a8.96.00.4f.03 43349f1b0f4e.03.93.22.46.d8.04.02.fa
+R cspuv 34 "$ADK/parts/xnor2/qpfile" 1 Tdm_qpt_do 3bed7155e328.03.80.fc.a8.96.00.32.5d 43349f1b0f03.03.93.22.46.d8.06.02.fa
+R cspuv 35 "$ADK/parts/xnor2/ami05_tech" 1 Tf_tfile_do 3bed72558025.03.80.fc.a8.96.00.36.ee 43349f1b0f03.03.93.22.46.d8.05.02.fa
+R cspuv 36 "$ADK/parts/xnor2/tsmc035_tech" 1 Tf_tfile_do 3bed738ccc5e.03.80.fc.a8.96.00.3b.ad 43349f1b0f03.03.93.22.46.d8.04.02.fa
+R cspuv 37 "$ADK/parts/xnor2/ami12_tech" 1 Tf_tfile_do 3bed7464e4af.03.80.fc.a8.96.00.3f.e1 43349f1b0f03.03.93.22.46.d8.03.02.fa
+R cspuv 38 "$ADK/parts/xnor2/schematic_DSM" 1 mgc_schematic 411d1bc6ce6a.03.93.22.46.d8.00.24.b5 43349f1b0f03.03.93.22.46.d8.02.02.fa
+P "eddm__refer_state" "eddm__refer_floating"
+R cspuv 39 "$ADK/parts/latchs_ni/part" 1 Eddm_part 412a48976ae0.03.93.22.46.d8.00.2d.e2 43349f1b0f4b.03.93.22.46.d8.03.02.fa
+R cspuv 40 "$ADK/parts/inv02/part" 1 Eddm_part 411d0badd9c7.03.93.22.46.d8.00.24.b5 43349f1b0f6b.03.93.22.46.d8.00.02.fa
+R cspuv 41 "$ADK/parts/nand02/part" 1 Eddm_part 411d10708d00.03.93.22.46.d8.00.24.b5 43349f1b0f63.03.93.22.46.d8.06.02.fa
+R cspuv 42 "$ADK/parts/inv02/schematic" 1 mgc_schematic 374dd0d42946.03.80.fc.a8.96.00.22.30 43349f1b0f6a.03.93.22.46.d8.05.02.fa
+P "eddm__refer_state" "eddm__refer_floating"
+R cspuv 43 "$ADK/parts/inv02/inv02" 1 mgc_symbol 37598bae504c.03.80.fc.a8.96.00.6c.50 43349f1b0f6a.03.93.22.46.d8.04.02.fa
+R cspuv 44 "$ADK/parts/inv02/qpfile" 1 Tdm_qpt_do 3bed7109a741.03.80.fc.a8.96.00.31.0d 43349f1b0f25.03.93.22.46.d8.06.02.fa
+R cspuv 45 "$ADK/parts/inv02/ami05_tech" 1 Tf_tfile_do 3bed71e2dead.03.80.fc.a8.96.00.34.fe 43349f1b0f25.03.93.22.46.d8.05.02.fa
+R cspuv 46 "$ADK/parts/inv02/tsmc035_tech" 1 Tf_tfile_do 3bed73065189.03.80.fc.a8.96.00.39.be 43349f1b0f25.03.93.22.46.d8.04.02.fa
+R cspuv 47 "$ADK/parts/inv02/ami12_tech" 1 Tf_tfile_do 3bed73f701dd.03.80.fc.a8.96.00.3e.14 43349f1b0f25.03.93.22.46.d8.03.02.fa
+R cspuv 48 "$ADK/parts/inv02/schematic_DSM" 1 mgc_schematic 411d0badb1b3.03.93.22.46.d8.00.24.b5 43349f1b0f25.03.93.22.46.d8.02.02.fa
+P "eddm__refer_state" "eddm__refer_floating"
+R cspuv 49 "$ADK/parts/latchs_ni/schematic" 1 mgc_schematic 40e4967681fc.03.93.22.46.d8.00.0a.f4 43349f1b0f4b.03.93.22.46.d8.01.02.fa
+P "eddm__refer_state" "eddm__refer_floating"
+R cspuv 50 "$ADK/parts/latchs_ni/schematic_DSM" 1 mgc_schematic 411d0e8f092c.03.93.22.46.d8.00.24.b5 43349f1b0f00.03.93.22.46.d8.04.02.fa
+P "eddm__refer_state" "eddm__refer_floating"
+R cspuv 51 "$ADK/parts/latchs_ni/latchs_ni" 1 mgc_symbol 412a48976a9d.03.93.22.46.d8.00.2d.e2 43349f1b0f4b.03.93.22.46.d8.00.02.fa
+R cspuv 52 "$ADK/parts/nand02/schematic" 1 mgc_schematic 374dd1fade2f.03.80.fc.a8.96.00.22.30 43349f1b0f63.03.93.22.46.d8.04.02.fa
+P "eddm__refer_state" "eddm__refer_floating"
+R cspuv 53 "$ADK/parts/nand02/nand02" 1 mgc_symbol 3758212dcd4b.03.80.fc.a8.96.00.6c.50 43349f1b0f63.03.93.22.46.d8.03.02.fa
+R cspuv 54 "$ADK/parts/nand02/qpfile" 1 Tdm_qpt_do 3bed711c8c58.03.80.fc.a8.96.00.31.5d 43349f1b0f1c.03.93.22.46.d8.02.02.fa
+R cspuv 55 "$ADK/parts/nand02/ami05_tech" 1 Tf_tfile_do 3bed71fc6aff.03.80.fc.a8.96.00.35.7e 43349f1b0f1c.03.93.22.46.d8.01.02.fa
+R cspuv 56 "$ADK/parts/nand02/tsmc035_tech" 1 Tf_tfile_do 3bed7322ebb7.03.80.fc.a8.96.00.3a.3c 43349f1b0f1c.03.93.22.46.d8.00.02.fa
+R cspuv 57 "$ADK/parts/nand02/ami12_tech" 1 Tf_tfile_do 3bed741029bb.03.80.fc.a8.96.00.3e.92 43349f1b0f1b.03.93.22.46.d8.06.02.fa
+R cspuv 58 "$ADK/parts/nand02/schematic_DSM" 1 mgc_schematic 411d10707093.03.93.22.46.d8.00.24.b5 43349f1b0f1b.03.93.22.46.d8.05.02.fa
+P "eddm__refer_state" "eddm__refer_floating"

@@ -1,0 +1,12 @@
+A 5 u Eddm_part 64546285a34e.03.80.eb.2c.47.00.15.b0 2 2 2 0
+V v 1 1 64546285a34e.03.80.eb.2c.47.01.15.b0
+F f 1 "part.part_1"
+V v 2 1 645462860734.03.80.eb.2c.47.00.15.b0
+F f 2 "part.part_2"
+O 2
+P "eddm__stream_to_use" "eddm__propl_dstream"
+R csduv 0 "$HOME/ece758/vhdl_playground/Project/schema/galois_expand/galois_expand" 1 mgc_symbol 64546285a24a.03.80.eb.2c.47.01.15.b0 64546285a24a.03.80.eb.2c.47.00.15.b0
+R csduv 1 "$HOME/ece758/vhdl_playground/Project/schema/galois_expand/schematic" 1 mgc_schematic 64546285ad3c.03.80.eb.2c.47.01.15.b0 64546285ad3c.03.80.eb.2c.47.00.15.b0
+O 1
+P "eddm__stream_to_use" "eddm__propl_dstream"
+R csduv 0 "$HOME/ece758/vhdl_playground/Project/schema/galois_expand/galois_expand" 1 mgc_symbol 64546285a24a.03.80.eb.2c.47.01.15.b0 64546285a24a.03.80.eb.2c.47.00.15.b0

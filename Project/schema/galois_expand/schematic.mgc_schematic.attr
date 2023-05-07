@@ -1,0 +1,22 @@
+A 5 u mgc_schematic 64546285ad3c.03.80.eb.2c.47.00.15.b0 8 2 4 0
+V v 6 1 645462867a0d.03.80.eb.2c.47.00.15.b0
+F o 0 ""
+V v 7 1 6454628680e1.03.80.eb.2c.47.00.15.b0
+F o 0 ""
+V v 8 1 64546286b58d.03.80.eb.2c.47.00.15.b0
+F o 0 ""
+O 8
+R cspuv 0 "$HOME/ece758/vhdl_playground/Project/schema/galois_expand/schematic/sheet1" 1 mgc_sheet 64546285b1e9.03.80.eb.2c.47.00.15.b0 64546285b1e8.03.80.eb.2c.47.00.15.b0
+R cspuv 1 "$HOME/ece758/vhdl_playground/Project/schema/galois_expand/schematic/sheet2" 1 mgc_sheet 6454628617cc.03.80.eb.2c.47.01.15.b0 6454628617cc.03.80.eb.2c.47.00.15.b0
+R cspuv 2 "$HOME/ece758/vhdl_playground/Project/schema/galois_expand/schematic/sheet3" 1 mgc_sheet 645462865ede.03.80.eb.2c.47.01.15.b0 645462865ede.03.80.eb.2c.47.00.15.b0
+R cspuv 3 "$HOME/ece758/vhdl_playground/Project/schema/galois_expand/schematic/sheet4" 1 mgc_sheet 6454628680e3.03.80.eb.2c.47.01.15.b0 6454628680e3.03.80.eb.2c.47.00.15.b0
+O 7
+R cspuv 0 "$HOME/ece758/vhdl_playground/Project/schema/galois_expand/schematic/sheet1" 1 mgc_sheet 64546285b1e9.03.80.eb.2c.47.00.15.b0 64546285b1e8.03.80.eb.2c.47.00.15.b0
+R cspuv 1 "$HOME/ece758/vhdl_playground/Project/schema/galois_expand/schematic/sheet2" 1 mgc_sheet 6454628617cc.03.80.eb.2c.47.01.15.b0 6454628617cc.03.80.eb.2c.47.00.15.b0
+R cspuv 2 "$HOME/ece758/vhdl_playground/Project/schema/galois_expand/schematic/sheet3" 1 mgc_sheet 645462865ede.03.80.eb.2c.47.01.15.b0 645462865ede.03.80.eb.2c.47.00.15.b0
+R cspuv 3 "$HOME/ece758/vhdl_playground/Project/schema/galois_expand/schematic/sheet4" 1 mgc_sheet 6454628680e3.03.80.eb.2c.47.01.15.b0 6454628680e3.03.80.eb.2c.47.00.15.b0
+P "eddm__refer_state" "eddm__refer_floating"
+O 6
+R cspuv 0 "$HOME/ece758/vhdl_playground/Project/schema/galois_expand/schematic/sheet1" 1 mgc_sheet 64546285b1e9.03.80.eb.2c.47.00.15.b0 64546285b1e8.03.80.eb.2c.47.00.15.b0
+R cspuv 1 "$HOME/ece758/vhdl_playground/Project/schema/galois_expand/schematic/sheet2" 1 mgc_sheet 6454628617cc.03.80.eb.2c.47.01.15.b0 6454628617cc.03.80.eb.2c.47.00.15.b0
+R cspuv 2 "$HOME/ece758/vhdl_playground/Project/schema/galois_expand/schematic/sheet3" 1 mgc_sheet 645462865ede.03.80.eb.2c.47.01.15.b0 645462865ede.03.80.eb.2c.47.00.15.b0

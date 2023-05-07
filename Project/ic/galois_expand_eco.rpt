@@ -1,0 +1,293 @@
+* ICgraph ECO report for cell: /afs/cad/u/j/k/jk526/ece758/vhdl_playground/Project/ic/galois_expand
+* Generated:  Thu May  4 22:28:41 2023
+
+* REPORTING ONLY. NO LAYOUT CHANGES WILL BE MADE.
+------------------------------------------------------------
+Port random_num_input[6] is in source but not in layout
+Port mult_out[0] is in source but not in layout
+Port mult_out[11] is in source but not in layout
+Port mult_out[8] is in source but not in layout
+Port packet_input[4] is in source but not in layout
+Port random_num_input[3] is in source but not in layout
+Port mult_out[12] is in source but not in layout
+Port mult_out[5] is in source but not in layout
+Port packet_input[3] is in source but not in layout
+Port random_num_input[4] is in source but not in layout
+Port mult_out[13] is in source but not in layout
+Port mult_out[6] is in source but not in layout
+Port packet_input[6] is in source but not in layout
+Port mult_out[14] is in source but not in layout
+Port random_num_input[1] is in source but not in layout
+Port mult_out[3] is in source but not in layout
+Port packet_input[5] is in source but not in layout
+Port random_num_input[2] is in source but not in layout
+Port mult_out[4] is in source but not in layout
+Port packet_input[0] is in source but not in layout
+Port random_num_input[7] is in source but not in layout
+Port mult_out[1] is in source but not in layout
+Port mult_out[9] is in source but not in layout
+Port packet_input[7] is in source but not in layout
+Port clk is in source but not in layout
+Port random_num_input[0] is in source but not in layout
+Port mult_out[2] is in source but not in layout
+Port packet_input[2] is in source but not in layout
+Port random_num_input[5] is in source but not in layout
+Port mult_out[10] is in source but not in layout
+Port mult_out[7] is in source but not in layout
+Port packet_input[1] is in source but not in layout
+Port complete is in source but not in layout
+Instance /ix479 (nor02ii) is in source but not in layout
+Instance /ix167 (nor02ii) is in source but not in layout
+Instance /ix373 (nor02ii) is in source but not in layout
+Instance /ix685 (nor02ii) is in source but not in layout
+Instance /ix2847 (NAND02) is in source but not in layout
+Instance /ix2744 (xnor2) is in source but not in layout
+Instance /lat_row_3_10 (latch) is in source but not in layout
+Instance /ix583 (nor02ii) is in source but not in layout
+Instance /ix37 (nor02ii) is in source but not in layout
+Instance /ix2641 (xnor2) is in source but not in layout
+Instance /ix2747 (xnor2) is in source but not in layout
+Instance /ix609 (nor02ii) is in source but not in layout
+Instance /ix2643 (xnor2) is in source but not in layout
+Instance /ix711 (xnor2) is in source but not in layout
+Instance /ix505 (xnor2) is in source but not in layout
+Instance /ix277 (nor02ii) is in source but not in layout
+Instance /ix2831 (NAND02) is in source but not in layout
+Instance /ix713 (nor02ii) is in source but not in layout
+Instance /ix401 (nor02ii) is in source but not in layout
+Instance /ix507 (xnor2) is in source but not in layout
+Instance /ix2647 (NAND02) is in source but not in layout
+Instance /lat_row_7_10 (latch) is in source but not in layout
+Instance /ix509 (nor02ii) is in source but not in layout
+Instance /lat_row_7_11 (latch) is in source but not in layout
+Instance /ix487 (nor02ii) is in source but not in layout
+Instance /ix693 (nor02ii) is in source but not in layout
+Instance /ix381 (nor02ii) is in source but not in layout
+Instance /ix2542 (xnor2) is in source but not in layout
+Instance /ix2835 (NAND02) is in source but not in layout
+Instance /lat_row_7_12 (latch) is in source but not in layout
+Instance /ix2730 (xnor2) is in source but not in layout
+Instance /ix177 (nor02ii) is in source but not in layout
+Instance /lat_row_7_13 (latch) is in source but not in layout
+Instance /lat_row_7_14 (latch) is in source but not in layout
+Instance /ix2546 (NAND02) is in source but not in layout
+Instance /ix591 (nor02ii) is in source but not in layout
+Instance /ix2839 (NAND02) is in source but not in layout
+Instance /ix45 (nor02ii) is in source but not in layout
+Instance /ix303 (nor02ii) is in source but not in layout
+Instance /lat_ready_1_u1 (latchs_ni) is in source but not in layout
+Instance /lat_ready_1_u2 (INV02) is in source but not in layout
+Instance /ix617 (nor02ii) is in source but not in layout
+Instance /lat_mult_out_10 (latch) is in source but not in layout
+Instance /ix2736 (xnor2) is in source but not in layout
+Instance /lat_mult_out_11 (latch) is in source but not in layout
+Instance /ix2631 (xnor2) is in source but not in layout
+Instance /lat_mult_out_12 (latch) is in source but not in layout
+Instance /ix285 (nor02ii) is in source but not in layout
+Instance /lat_mult_out_13 (latch) is in source but not in layout
+Instance /ix721 (nor02ii) is in source but not in layout
+Instance /lat_mult_out_14 (latch) is in source but not in layout
+Instance /ix599 (nor02ii) is in source but not in layout
+Instance /ix2821 (INV01) is in source but not in layout
+Instance /ix411 (nor02ii) is in source but not in layout
+Instance /ix517 (nor02ii) is in source but not in layout
+Instance /lat_row_7_7 (latch) is in source but not in layout
+Instance /ix495 (nor02ii) is in source but not in layout
+Instance /lat_row_7_8 (latch) is in source but not in layout
+Instance /ix185 (nor02ii) is in source but not in layout
+Instance /lat_row_7_9 (latch) is in source but not in layout
+Instance /ix2639 (xnor2) is in source but not in layout
+Instance /ix209 (nor02ii) is in source but not in layout
+Instance /ix103 (nor02ii) is in source but not in layout
+Instance /ix2825 (INV01) is in source but not in layout
+Instance /ix393 (nor02ii) is in source but not in layout
+Instance /ix729 (nor02ii) is in source but not in layout
+Instance /ix2829 (NAND02) is in source but not in layout
+Instance /ix419 (nor02ii) is in source but not in layout
+Instance /ix55 (nor02ii) is in source but not in layout
+Instance /ix315 (nor02ii) is in source but not in layout
+Instance /ix2539 (xnor2) is in source but not in layout
+Instance /ix2620 (xnor2) is in source but not in layout
+Instance /ix629 (xnor2) is in source but not in layout
+Instance /lat_row_4_10 (latch) is in source but not in layout
+Instance /ix2728 (xnor2) is in source but not in layout
+Instance /lat_row_4_11 (latch) is in source but not in layout
+Instance /ix295 (nor02ii) is in source but not in layout
+Instance /ix525 (nor02ii) is in source but not in layout
+Instance /lat_row_4_4 (latch) is in source but not in layout
+Instance /lat_row_4_5 (latch) is in source but not in layout
+Instance /lat_row_4_6 (latch) is in source but not in layout
+Instance /ix111 (nor02ii) is in source but not in layout
+Instance /ix217 (nor02ii) is in source but not in layout
+Instance /ix2813 (or02) is in source but not in layout
+Instance /lat_row_4_7 (latch) is in source but not in layout
+Instance /ix2791 (INV01) is in source but not in layout
+Instance /ix631 (nor02ii) is in source but not in layout
+Instance /lat_row_4_8 (latch) is in source but not in layout
+Instance /ix2815 (or02) is in source but not in layout
+Instance /ix2793 (INV01) is in source but not in layout
+Instance /lat_row_4_9 (latch) is in source but not in layout
+Instance /ix197 (xnor2) is in source but not in layout
+Instance /lat_row_3_3 (latch) is in source but not in layout
+Instance /ix2817 (INV01) is in source but not in layout
+Instance /lat_row_3_4 (latch) is in source but not in layout
+Instance /ix2525 (xnor2) is in source but not in layout
+Instance /ix2711 (xnor2) is in source but not in layout
+Instance /ix739 (nor02ii) is in source but not in layout
+Instance /ix2795 (INV01) is in source but not in layout
+Instance /lat_row_3_5 (latch) is in source but not in layout
+Instance /ix199 (nor02ii) is in source but not in layout
+Instance /lat_row_3_6 (latch) is in source but not in layout
+Instance /ix2819 (INV01) is in source but not in layout
+Instance /ix323 (nor02ii) is in source but not in layout
+Instance /ix65 (nor02ii) is in source but not in layout
+Instance /lat_row_3_7 (latch) is in source but not in layout
+Instance /ix2797 (INV01) is in source but not in layout
+Instance /ix2529 (NAND02) is in source but not in layout
+Instance /lat_row_3_8 (latch) is in source but not in layout
+Instance /ix2610 (xnor2) is in source but not in layout
+Instance /ix2799 (INV01) is in source but not in layout
+Instance /lat_row_3_9 (latch) is in source but not in layout
+Instance /ix2693 (xnor2) is in source but not in layout
+Instance /ix639 (nor02ii) is in source but not in layout
+Instance /ix2717 (xnor2) is in source but not in layout
+Instance /ix2612 (xnor2) is in source but not in layout
+Instance /lat_row_6_6 (latch) is in source but not in layout
+Instance /ix535 (nor02ii) is in source but not in layout
+Instance /lat_row_6_7 (latch) is in source but not in layout
+Instance /lat_row_6_8 (latch) is in source but not in layout
+Instance /ix2616 (NAND02) is in source but not in layout
+Instance /lat_row_6_9 (latch) is in source but not in layout
+Instance /ix2593 (xnor2) is in source but not in layout
+Instance /ix433 (nor02ii) is in source but not in layout
+Instance /ix227 (nor02ii) is in source but not in layout
+Instance /ix121 (nor02ii) is in source but not in layout
+Instance /ix2801 (INV01) is in source but not in layout
+Instance /ix2512 (xnor2) is in source but not in layout
+Instance /lat_row_5_5 (latch) is in source but not in layout
+Instance /lat_row_5_6 (latch) is in source but not in layout
+Instance /ix747 (nor02ii) is in source but not in layout
+Instance /lat_row_5_7 (latch) is in source but not in layout
+Instance /ix2803 (INV01) is in source but not in layout
+Instance /lat_row_5_10 (latch) is in source but not in layout
+Instance /ix331 (nor02ii) is in source but not in layout
+Instance /ix73 (nor02ii) is in source but not in layout
+Instance /lat_row_5_8 (latch) is in source but not in layout
+Instance /ix2516 (NAND02) is in source but not in layout
+Instance /ix2805 (INV01) is in source but not in layout
+Instance /lat_row_5_11 (latch) is in source but not in layout
+Instance /lat_row_5_9 (latch) is in source but not in layout
+Instance /ix2599 (xnor2) is in source but not in layout
+Instance /ix2783 (INV01) is in source but not in layout
+Instance /lat_row_5_12 (latch) is in source but not in layout
+Instance /lat_complete_fsm_u1 (latchs_ni) is in source but not in layout
+Instance /ix2807 (INV01) is in source but not in layout
+Instance /ix2701 (xnor2) is in source but not in layout
+Instance /ix2785 (INV01) is in source but not in layout
+Instance /lat_complete_fsm_u2 (INV02) is in source but not in layout
+Instance /ix647 (nor02ii) is in source but not in layout
+Instance /ix129 (xnor2) is in source but not in layout
+Instance /ix2809 (INV01) is in source but not in layout
+Instance /ix2703 (xnor2) is in source but not in layout
+Instance /ix2787 (INV01) is in source but not in layout
+Instance /lat_ready_1_u2_rep_1 (INV02) is in source but not in layout
+Instance /ix543 (nor02ii) is in source but not in layout
+Instance /lat_mult_out_0 (latch) is in source but not in layout
+Instance /lat_mult_out_1 (latch) is in source but not in layout
+Instance /ix2705 (xnor2) is in source but not in layout
+Instance /ix2789 (INV01) is in source but not in layout
+Instance /lat_mult_out_2 (latch) is in source but not in layout
+Instance /ix2684 (xnor2) is in source but not in layout
+Instance /lat_mult_out_3 (latch) is in source but not in layout
+Instance /ix235 (nor02ii) is in source but not in layout
+Instance /ix441 (nor02ii) is in source but not in layout
+Instance /lat_mult_out_4 (latch) is in source but not in layout
+Instance /lat_mult_out_5 (latch) is in source but not in layout
+Instance /ix755 (nor02ii) is in source but not in layout
+Instance /ix131 (nor02ii) is in source but not in layout
+Instance /lat_mult_out_6 (latch) is in source but not in layout
+Instance /ix2581 (xnor2) is in source but not in layout
+Instance /lat_mult_out_7 (latch) is in source but not in layout
+Instance /ix2875 (INV01) is in source but not in layout
+Instance /lat_mult_out_8 (latch) is in source but not in layout
+Instance /ix2583 (xnor2) is in source but not in layout
+Instance /lat_mult_out_9 (latch) is in source but not in layout
+Instance /ix2770 (xnor2) is in source but not in layout
+Instance /ix341 (xnor2) is in source but not in layout
+Instance /ix83 (nor02ii) is in source but not in layout
+Instance /ix2585 (xnor2) is in source but not in layout
+Instance /ix343 (xnor2) is in source but not in layout
+Instance /ix449 (nor02ii) is in source but not in layout
+Instance /ix2589 (NAND02) is in source but not in layout
+Instance /ix345 (nor02ii) is in source but not in layout
+Instance /ix657 (nor02ii) is in source but not in layout
+Instance /ix2507 (NAND02) is in source but not in layout
+Instance /ix555 (nor02ii) is in source but not in layout
+Instance /ix2861 (INV01) is in source but not in layout
+Instance /ix2676 (xnor2) is in source but not in layout
+Instance /ix247 (nor02ii) is in source but not in layout
+Instance /ix141 (nor02ii) is in source but not in layout
+Instance /ix2863 (INV01) is in source but not in layout
+Instance /lat_reset_rows_u1 (latchs_ni) is in source but not in layout
+Instance /ix2678 (xnor2) is in source but not in layout
+Instance /lat_reset_rows_u2 (INV02) is in source but not in layout
+Instance /ix2573 (xnor2) is in source but not in layout
+Instance /ix91 (xnor2) is in source but not in layout
+Instance /ix2760 (xnor2) is in source but not in layout
+Instance /ix93 (nor02ii) is in source but not in layout
+Instance /lat_row_0_0 (latch) is in source but not in layout
+Instance /ix665 (xnor2) is in source but not in layout
+Instance /lat_row_0_1 (latch) is in source but not in layout
+Instance /ix459 (nor02ii) is in source but not in layout
+Instance /lat_row_6_10 (latch) is in source but not in layout
+Instance /lat_row_0_2 (latch) is in source but not in layout
+Instance /lat_row_6_11 (latch) is in source but not in layout
+Instance /ix667 (nor02ii) is in source but not in layout
+Instance /ix149 (nor02ii) is in source but not in layout
+Instance /ix355 (nor02ii) is in source but not in layout
+Instance /lat_row_0_3 (latch) is in source but not in layout
+Instance /lat_row_6_12 (latch) is in source but not in layout
+Instance /lat_row_0_4 (latch) is in source but not in layout
+Instance /ix563 (nor02ii) is in source but not in layout
+Instance /lat_row_6_13 (latch) is in source but not in layout
+Instance /lat_row_0_5 (latch) is in source but not in layout
+Instance /lat_row_0_6 (latch) is in source but not in layout
+Instance /ix17 (nor02ii) is in source but not in layout
+Instance /lat_row_0_7 (latch) is in source but not in layout
+Instance /ix2851 (NAND02) is in source but not in layout
+Instance /ix2665 (xnor2) is in source but not in layout
+Instance /ix255 (nor02ii) is in source but not in layout
+Instance /ix2855 (NAND02) is in source but not in layout
+Instance /ix2563 (xnor2) is in source but not in layout
+Instance /lat_row_2_2 (latch) is in source but not in layout
+Instance /ix2565 (xnor2) is in source but not in layout
+Instance /ix467 (nor02ii) is in source but not in layout
+Instance /lat_row_2_3 (latch) is in source but not in layout
+Instance /lat_row_2_4 (latch) is in source but not in layout
+Instance /ix2859 (INV01) is in source but not in layout
+Instance /ix363 (nor02ii) is in source but not in layout
+Instance /lat_row_2_5 (latch) is in source but not in layout
+Instance /lat_row_2_6 (latch) is in source but not in layout
+Instance /ix2569 (NAND02) is in source but not in layout
+Instance /lat_row_2_7 (latch) is in source but not in layout
+Instance /ix677 (nor02ii) is in source but not in layout
+Instance /lat_row_1_1 (latch) is in source but not in layout
+Instance /ix159 (nor02ii) is in source but not in layout
+Instance /ix25 (nor02ii) is in source but not in layout
+Instance /lat_row_2_8 (latch) is in source but not in layout
+Instance /lat_row_1_2 (latch) is in source but not in layout
+Instance /ix2651 (xnor2) is in source but not in layout
+Instance /lat_row_2_9 (latch) is in source but not in layout
+Instance /lat_row_1_3 (latch) is in source but not in layout
+Instance /lat_row_1_4 (latch) is in source but not in layout
+Instance /ix27 (or02) is in source but not in layout
+Instance /lat_row_1_5 (latch) is in source but not in layout
+Instance /ix575 (nor02ii) is in source but not in layout
+Instance /lat_row_1_6 (latch) is in source but not in layout
+Instance /lat_row_1_7 (latch) is in source but not in layout
+Instance /lat_row_1_8 (latch) is in source but not in layout
+Instance /ix2657 (xnor2) is in source but not in layout
+Instance /ix267 (nor02ii) is in source but not in layout
+Instance /ix703 (nor02ii) is in source but not in layout
+Instance /ix2659 (xnor2) is in source but not in layout
+Instance /ix2845 (NAND02) is in source but not in layout

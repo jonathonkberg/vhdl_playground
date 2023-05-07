@@ -1,0 +1,6 @@
+A 5 u mgc_symbol 64546285a24a.03.80.eb.2c.47.00.15.b0 1 2 1 0
+V v 1 2 64546285a24a.03.80.eb.2c.47.01.15.b0
+F f 1 "galois_expand.smbl_1"
+F o 0 
+O 1
+R csduv 0 "$HOME/ece758/vhdl_playground/Project/schema/galois_expand/part" 1 Eddm_part 64546285a34e.03.80.eb.2c.47.01.15.b0 64546285a34e.03.80.eb.2c.47.00.15.b0

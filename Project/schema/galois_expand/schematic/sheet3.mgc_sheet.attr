@@ -1,0 +1,20 @@
+A 5 u mgc_sheet 645462865ede.03.80.eb.2c.47.00.15.b0 1 2 13 0
+V v 1 3 645462865ede.03.80.eb.2c.47.01.15.b0
+F f 1 "sheet3.ssht_1"
+F f 1 "sheet3.sgfx_1"
+F o 0 
+O 1
+P "eddm__stream_to_use" "eddm__propl_dstream"
+R csduv 0 "$HOME/ece758/vhdl_playground/Project/schema/galois_expand/schematic" 5 mgc_schematic 645462865edd.03.80.eb.2c.47.00.15.b0 64546285ad3c.03.80.eb.2c.47.00.15.b0
+R csduv 1 "$ADK/parts/nor02ii/part" 1 Eddm_part 411d119f084e.03.93.22.46.d8.00.24.b5 43349f1b0f46.03.93.22.46.d8.02.02.fa
+R csduv 2 "$ADK/parts/nor02ii/nor02ii" 1 mgc_symbol 41117a24dc46.03.93.22.46.d8.00.06.eb 43349f1b0efe.03.93.22.46.d8.03.02.fa
+R csduv 3 "$MGC_IC_GENERIC_LIB/offpag.in/part" 1 Eddm_part 5bc451019000.0d.00.02.ed.d4.00.00.00 3890e8888efc.03.86.56.31.70.02.3a.eb
+R csduv 4 "$MGC_IC_GENERIC_LIB/offpag.in/offpag.in" 1 mgc_symbol 5e8fb81f8000.0d.00.02.ed.d4.00.00.00 3890e8888efc.03.86.56.31.70.03.3a.eb
+R csduv 5 "$MGC_IC_GENERIC_LIB/offpag.out/part" 1 Eddm_part 5bc454e33000.0d.00.02.ed.d4.00.00.00 3890e8888efb.03.86.56.31.70.04.3a.eb
+R csduv 6 "$MGC_IC_GENERIC_LIB/offpag.out/offpag.out" 1 mgc_symbol 5e8fb82cd000.0d.00.02.ed.d4.00.00.00 3890e8888efc.03.86.56.31.70.00.3a.eb
+R csduv 7 "$ADK/parts/latch/part" 1 Eddm_part 411d0ce2399c.03.93.22.46.d8.00.24.b5 43349f1b0f67.03.93.22.46.d8.04.02.fa
+R csduv 8 "$ADK/parts/latch/latch" 1 mgc_symbol 375ae138712b.03.80.fc.a8.96.00.6c.50 43349f1b0f67.03.93.22.46.d8.01.02.fa
+R csduv 9 "$ADK/parts/xnor2/part" 1 Eddm_part 411d1bc6ef8c.03.93.22.46.d8.00.24.b5 43349f1b0f4f.03.93.22.46.d8.00.02.fa
+R csduv 10 "$ADK/parts/xnor2/xnor2" 1 mgc_symbol 37c5aee7c870.03.93.22.21.a7.00.2d.3e 43349f1b0f4e.03.93.22.46.d8.04.02.fa
+R csduv 11 "$ADK/parts/inv01/part" 1 Eddm_part 411d0b78f3c4.03.93.22.46.d8.00.24.b5 43349f1b0f6b.03.93.22.46.d8.05.02.fa
+R csduv 12 "$ADK/parts/inv01/inv01" 1 mgc_symbol 37c5aadeee9e.03.93.22.21.a7.00.2d.3e 43349f1b0f6b.03.93.22.46.d8.02.02.fa
