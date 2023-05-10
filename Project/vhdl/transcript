@@ -166,3 +166,618 @@ run
 run
 run
 run
+quit -sim
+# Compile of xor_gate.vhd was successful.
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of lfsr.vhd was successful.
+# Compile of galois_adder.vhd was successful.
+# Compile of galois_expand.vhd was successful.
+# Compile of galois_expand_test.vhd was successful.
+# Compile of multiply_test.vhd was successful.
+# Compile of galois_expand_2_test.vhd was successful.
+# Compile of lfsr_test.vhd was successful.
+# Compile of test_file.vhd was successful.
+# Compile of galois_add_test.vhd was successful.
+# Compile of finalcode.vhd was successful.
+# Compile of finalcode_test.vhd was successful.
+# Compile of network_encoder.vhd failed with 1 errors.
+# Compile of modu.vhd was successful.
+# Compile of modutb.vhd was successful.
+# 17 compiles, 1 failed with 1 error. 
+vsim work.modutb(behavior)
+# vsim work.modutb(behavior) 
+# ** Note: (vsim-3812) Design is being optimized...
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.modutb(behavior)#1
+add wave -position insertpoint sim:/modutb/*
+add wave -position insertpoint sim:/modutb/uut/*
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# Compile of xor_gate.vhd was successful.
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of lfsr.vhd was successful.
+# Compile of galois_adder.vhd was successful.
+# Compile of galois_expand.vhd was successful.
+# Compile of galois_expand_test.vhd was successful.
+# Compile of multiply_test.vhd was successful.
+# Compile of galois_expand_2_test.vhd was successful.
+# Compile of lfsr_test.vhd was successful.
+# Compile of test_file.vhd was successful.
+# Compile of galois_add_test.vhd was successful.
+# Compile of finalcode.vhd failed with 1 errors.
+# Compile of finalcode_test.vhd was successful.
+# Compile of network_encoder.vhd failed with 1 errors.
+# Compile of modu.vhd was successful.
+# Compile of modutb.vhd was successful.
+# 17 compiles, 2 failed with 2 errors. 
+# Compile of xor_gate.vhd was successful.
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of lfsr.vhd was successful.
+# Compile of galois_adder.vhd was successful.
+# Compile of galois_expand.vhd was successful.
+# Compile of galois_expand_test.vhd was successful.
+# Compile of multiply_test.vhd was successful.
+# Compile of galois_expand_2_test.vhd was successful.
+# Compile of lfsr_test.vhd was successful.
+# Compile of test_file.vhd was successful.
+# Compile of galois_add_test.vhd was successful.
+# Compile of finalcode.vhd failed with 1 errors.
+# Compile of finalcode_test.vhd was successful.
+# Compile of network_encoder.vhd failed with 1 errors.
+# Compile of modu.vhd was successful.
+# Compile of modutb.vhd was successful.
+# 17 compiles, 2 failed with 2 errors. 
+# Compile of xor_gate.vhd was successful.
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of lfsr.vhd was successful.
+# Compile of galois_adder.vhd was successful.
+# Compile of galois_expand.vhd was successful.
+# Compile of galois_expand_test.vhd was successful.
+# Compile of multiply_test.vhd was successful.
+# Compile of galois_expand_2_test.vhd was successful.
+# Compile of lfsr_test.vhd was successful.
+# Compile of test_file.vhd was successful.
+# Compile of galois_add_test.vhd was successful.
+# Compile of finalcode.vhd was successful.
+# Compile of finalcode_test.vhd was successful.
+# Compile of network_encoder.vhd failed with 1 errors.
+# Compile of modu.vhd was successful.
+# Compile of modutb.vhd was successful.
+# 17 compiles, 1 failed with 1 error. 
+vsim work.finalcode_test(behavior)
+# vsim work.finalcode_test(behavior) 
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.finalcode_test(behavior)#1
+# Loading work.finalcode(hierchical_design)#1
+# ** Warning: (vsim-3479) Time unit 'ps' is less than the simulator resolution (1ns).
+#    Time: 0 ns  Iteration: 0  Instance: /finalcode_test/finalcode_instance
+add wave -position insertpoint sim:/finalcode_test/*
+add wave -position insertpoint sim:/finalcode_test/finalcode_instance/*
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# Compile of xor_gate.vhd was successful.
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of lfsr.vhd was successful.
+# Compile of galois_adder.vhd was successful.
+# Compile of galois_expand.vhd was successful.
+# Compile of galois_expand_test.vhd was successful.
+# Compile of multiply_test.vhd was successful.
+# Compile of galois_expand_2_test.vhd was successful.
+# Compile of lfsr_test.vhd was successful.
+# Compile of test_file.vhd was successful.
+# Compile of galois_add_test.vhd was successful.
+# Compile of finalcode.vhd was successful.
+# Compile of finalcode_test.vhd failed with 1 errors.
+# Compile of network_encoder.vhd failed with 1 errors.
+# Compile of modu.vhd was successful.
+# Compile of modutb.vhd was successful.
+# 17 compiles, 2 failed with 2 errors. 
+# Compile of xor_gate.vhd was successful.
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of lfsr.vhd was successful.
+# Compile of galois_adder.vhd was successful.
+# Compile of galois_expand.vhd was successful.
+# Compile of galois_expand_test.vhd was successful.
+# Compile of multiply_test.vhd was successful.
+# Compile of galois_expand_2_test.vhd was successful.
+# Compile of lfsr_test.vhd was successful.
+# Compile of test_file.vhd was successful.
+# Compile of galois_add_test.vhd was successful.
+# Compile of finalcode.vhd was successful.
+# Compile of finalcode_test.vhd was successful.
+# Compile of network_encoder.vhd failed with 1 errors.
+# Compile of modu.vhd was successful.
+# Compile of modutb.vhd was successful.
+# 17 compiles, 1 failed with 1 error. 
+restart -f
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.finalcode_test(behavior)#1
+# Loading work.finalcode(hierchical_design)#1
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# Compile of xor_gate.vhd was successful.
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of lfsr.vhd was successful.
+# Compile of galois_adder.vhd was successful.
+# Compile of galois_expand.vhd was successful.
+# Compile of galois_expand_test.vhd was successful.
+# Compile of multiply_test.vhd was successful.
+# Compile of galois_expand_2_test.vhd was successful.
+# Compile of lfsr_test.vhd was successful.
+# Compile of test_file.vhd was successful.
+# Compile of galois_add_test.vhd was successful.
+# Compile of finalcode.vhd was successful.
+# Compile of finalcode_test.vhd was successful.
+# Compile of network_encoder.vhd failed with 1 errors.
+# Compile of modu.vhd was successful.
+# Compile of modutb.vhd was successful.
+# 17 compiles, 1 failed with 1 error. 
+restart -f
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.finalcode_test(behavior)#1
+# Loading ieee.numeric_std(body)
+# Loading work.finalcode(hierchical_design)#1
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# Compile of xor_gate.vhd was successful.
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of lfsr.vhd was successful.
+# Compile of galois_adder.vhd was successful.
+# Compile of galois_expand.vhd was successful.
+# Compile of galois_expand_test.vhd was successful.
+# Compile of multiply_test.vhd was successful.
+# Compile of galois_expand_2_test.vhd was successful.
+# Compile of lfsr_test.vhd was successful.
+# Compile of test_file.vhd was successful.
+# Compile of galois_add_test.vhd was successful.
+# Compile of finalcode.vhd was successful.
+# Compile of finalcode_test.vhd was successful.
+# Compile of network_encoder.vhd failed with 1 errors.
+# Compile of modu.vhd was successful.
+# Compile of modutb.vhd was successful.
+# 17 compiles, 1 failed with 1 error. 
+restart -f
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.finalcode_test(behavior)#1
+# Loading ieee.numeric_std(body)
+# Loading work.finalcode(hierchical_design)#1
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+vsim work.modutb(behavior)
+# vsim work.modutb(behavior) 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.modutb(behavior)#1
+add wave -position insertpoint sim:/modutb/*
+add wave -position insertpoint sim:/modutb/uut/*
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# Compile of xor_gate.vhd was successful.
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of lfsr.vhd was successful.
+# Compile of galois_adder.vhd was successful.
+# Compile of galois_expand.vhd was successful.
+# Compile of galois_expand_test.vhd was successful.
+# Compile of multiply_test.vhd was successful.
+# Compile of galois_expand_2_test.vhd was successful.
+# Compile of lfsr_test.vhd was successful.
+# Compile of test_file.vhd was successful.
+# Compile of galois_add_test.vhd was successful.
+# Compile of finalcode.vhd was successful.
+# Compile of finalcode_test.vhd failed with 1 errors.
+# Compile of network_encoder.vhd failed with 1 errors.
+# Compile of modu.vhd was successful.
+# Compile of modutb.vhd was successful.
+# 17 compiles, 2 failed with 2 errors. 
+# Compile of xor_gate.vhd was successful.
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of lfsr.vhd was successful.
+# Compile of galois_adder.vhd was successful.
+# Compile of galois_expand.vhd was successful.
+# Compile of galois_expand_test.vhd was successful.
+# Compile of multiply_test.vhd was successful.
+# Compile of galois_expand_2_test.vhd was successful.
+# Compile of lfsr_test.vhd was successful.
+# Compile of test_file.vhd was successful.
+# Compile of galois_add_test.vhd was successful.
+# Compile of finalcode.vhd was successful.
+# Compile of finalcode_test.vhd was successful.
+# Compile of network_encoder.vhd failed with 1 errors.
+# Compile of modu.vhd was successful.
+# Compile of modutb.vhd was successful.
+# 17 compiles, 1 failed with 1 error. 
+vsim work.finalcode_test(behavior)
+# vsim work.finalcode_test(behavior) 
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.finalcode_test(behavior)#1
+# Loading ieee.numeric_std(body)
+# Loading work.finalcode(hierchical_design)#1
+# ** Warning: (vsim-3479) Time unit 'ps' is less than the simulator resolution (1ns).
+#    Time: 0 ns  Iteration: 0  Instance: /finalcode_test/finalcode_instance
+add wave -position insertpoint sim:/finalcode_test/*
+add wave -position insertpoint sim:/finalcode_test/finalcode_instance/*
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# Compile of xor_gate.vhd was successful.
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of lfsr.vhd was successful.
+# Compile of galois_adder.vhd was successful.
+# Compile of galois_expand.vhd was successful.
+# Compile of galois_expand_test.vhd was successful.
+# Compile of multiply_test.vhd was successful.
+# Compile of galois_expand_2_test.vhd was successful.
+# Compile of lfsr_test.vhd was successful.
+# Compile of test_file.vhd was successful.
+# Compile of galois_add_test.vhd was successful.
+# Compile of finalcode.vhd was successful.
+# Compile of finalcode_test.vhd was successful.
+# Compile of network_encoder.vhd failed with 1 errors.
+# Compile of modu.vhd was successful.
+# Compile of modutb.vhd was successful.
+# 17 compiles, 1 failed with 1 error. 
+vsim work.finalcode_test(behavior)
+# vsim work.finalcode_test(behavior) 
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.finalcode_test(behavior)#1
+# Loading ieee.numeric_std(body)
+# Loading work.finalcode(hierchical_design)#1
+# ** Warning: (vsim-3479) Time unit 'ps' is less than the simulator resolution (1ns).
+#    Time: 0 ns  Iteration: 0  Instance: /finalcode_test/finalcode_instance
+add wave -position insertpoint sim:/finalcode_test/*
+add wave -position insertpoint sim:/finalcode_test/finalcode_instance/*
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# Compile of xor_gate.vhd was successful.
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of lfsr.vhd was successful.
+# Compile of galois_adder.vhd was successful.
+# Compile of galois_expand.vhd was successful.
+# Compile of galois_expand_test.vhd was successful.
+# Compile of multiply_test.vhd was successful.
+# Compile of galois_expand_2_test.vhd was successful.
+# Compile of lfsr_test.vhd was successful.
+# Compile of test_file.vhd was successful.
+# Compile of galois_add_test.vhd was successful.
+# Compile of finalcode.vhd was successful.
+# Compile of finalcode_test.vhd was successful.
+# Compile of network_encoder.vhd failed with 1 errors.
+# Compile of modu.vhd was successful.
+# Compile of modutb.vhd was successful.
+# 17 compiles, 1 failed with 1 error. 
+# Compile of xor_gate.vhd was successful.
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of lfsr.vhd was successful.
+# Compile of galois_adder.vhd was successful.
+# Compile of galois_expand.vhd was successful.
+# Compile of galois_expand_test.vhd was successful.
+# Compile of multiply_test.vhd was successful.
+# Compile of galois_expand_2_test.vhd was successful.
+# Compile of lfsr_test.vhd was successful.
+# Compile of test_file.vhd was successful.
+# Compile of galois_add_test.vhd was successful.
+# Compile of finalcode.vhd was successful.
+# Compile of finalcode_test.vhd was successful.
+# Compile of network_encoder.vhd failed with 1 errors.
+# Compile of modu.vhd was successful.
+# Compile of modutb.vhd was successful.
+# 17 compiles, 1 failed with 1 error. 
+# Compile of network_encoder.vhd failed with 1 errors.
+# Compile of galois_expand.vhd was successful.
+# Compile of network_encoder.vhd failed with 1 errors.
+# Compile of network_encoder.vhd failed with 1 errors.
+# Compile of network_encoder.vhd failed with 1 errors.
+# Compile of network_encoder.vhd was successful.
+# Compile of network_encoder_test.vhd failed with 1 errors.
+# Compile of network_encoder_test.vhd was successful.
+vsim work.network_encoder_test(behavior)
+# vsim work.network_encoder_test(behavior) 
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Warning: (vopt-133) Unable to remove directory "/afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/Project/vhdl/work/@_opt2".
+# Directory not empty. (errno = 39)
+# ** Error: /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/Project/vhdl/network_encoder.vhd(152): (vopt-1270) Bad default binding for component instance "add_11: galois_adder".
+#  (Component port "add_in_2" is not on the entity.)
+# ** Warning: [1] /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/Project/vhdl/network_encoder.vhd(152): (vopt-3473) Component instance "/network_encoder_test/network_encoder_instance/add_11 : galois_adder" is not bound.
+# ** Error: /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/Project/vhdl/network_encoder.vhd(160): (vopt-1270) Bad default binding for component instance "add_12: galois_adder".
+#  (Component port "add_in_2" is not on the entity.)
+# ** Warning: [1] /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/Project/vhdl/network_encoder.vhd(160): (vopt-3473) Component instance "/network_encoder_test/network_encoder_instance/add_12 : galois_adder" is not bound.
+# ** Error: /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/Project/vhdl/network_encoder.vhd(168): (vopt-1270) Bad default binding for component instance "add_13: galois_adder".
+#  (Component port "add_in_2" is not on the entity.)
+# ** Warning: [1] /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/Project/vhdl/network_encoder.vhd(168): (vopt-3473) Component instance "/network_encoder_test/network_encoder_instance/add_13 : galois_adder" is not bound.
+# ** Error: /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/Project/vhdl/network_encoder.vhd(176): (vopt-1270) Bad default binding for component instance "add_14: galois_adder".
+#  (Component port "add_in_2" is not on the entity.)
+# ** Warning: [1] /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/Project/vhdl/network_encoder.vhd(176): (vopt-3473) Component instance "/network_encoder_test/network_encoder_instance/add_14 : galois_adder" is not bound.
+# ** Error: /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/Project/vhdl/network_encoder.vhd(186): (vopt-1270) Bad default binding for component instance "add_21: galois_adder".
+#  (Component port "add_in_2" is not on the entity.)
+# ** Warning: [1] /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/Project/vhdl/network_encoder.vhd(186): (vopt-3473) Component instance "/network_encoder_test/network_encoder_instance/add_21 : galois_adder" is not bound.
+# ** Error: /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/Project/vhdl/network_encoder.vhd(194): (vopt-1270) Bad default binding for component instance "add_22: galois_adder".
+#  (Component port "add_in_2" is not on the entity.)
+# ** Warning: [1] /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/Project/vhdl/network_encoder.vhd(194): (vopt-3473) Component instance "/network_encoder_test/network_encoder_instance/add_22 : galois_adder" is not bound.
+# ** Error: /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/Project/vhdl/network_encoder.vhd(204): (vopt-1270) Bad default binding for component instance "add_31: galois_adder".
+#  (Component port "add_in_2" is not on the entity.)
+# ** Warning: [1] /afs/cad.njit.edu/u/j/k/jk526/ece758/vhdl_playground/Project/vhdl/network_encoder.vhd(204): (vopt-3473) Component instance "/network_encoder_test/network_encoder_instance/add_31 : galois_adder" is not bound.
+# Optimization failed
+# Error loading design
+# Compile of xor_gate.vhd was successful.
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of lfsr.vhd was successful.
+# Compile of galois_adder.vhd was successful.
+# Compile of galois_expand.vhd was successful.
+# Compile of galois_expand_test.vhd was successful.
+# Compile of multiply_test.vhd was successful.
+# Compile of galois_expand_2_test.vhd was successful.
+# Compile of lfsr_test.vhd was successful.
+# Compile of test_file.vhd was successful.
+# Compile of galois_add_test.vhd was successful.
+# Compile of finalcode.vhd was successful.
+# Compile of finalcode_test.vhd was successful.
+# Compile of network_encoder.vhd was successful.
+# Compile of modu.vhd was successful.
+# Compile of modutb.vhd was successful.
+# Compile of network_encoder_test.vhd was successful.
+# 18 compiles, 0 failed with no errors. 
+vsim work.network_encoder_test(behavior)
+# vsim work.network_encoder_test(behavior) 
+# ** Note: (vsim-3812) Design is being optimized...
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.network_encoder_test(behavior)#1
+# Loading ieee.numeric_std(body)
+# Loading work.finalcode(hierchical_design)#1
+# ** Warning: (vsim-3479) Time unit 'ps' is less than the simulator resolution (1ns).
+#    Time: 0 ns  Iteration: 0  Instance: /network_encoder_test/network_encoder_instance/mult_1
+add wave -position insertpoint sim:/network_encoder_test/*
+add wave -position insertpoint sim:/network_encoder_test/network_encoder_instance/*
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+add wave -position insertpoint  \
+sim:/network_encoder_test/network_encoder_instance/coded_packet
+add wave -position insertpoint sim:/network_encoder_test/network_encoder_instance/mult_1/*
+restart -f
+run 1000
+run 1000
+run 1000
+add wave -position insertpoint  \
+sim:/network_encoder_test/network_encoder_instance/mult_1/remin
+quit -sim
+# Compile of xor_gate.vhd was successful.
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of lfsr.vhd was successful.
+# Compile of galois_adder.vhd was successful.
+# Compile of galois_expand.vhd was successful.
+# Compile of galois_expand_test.vhd was successful.
+# Compile of multiply_test.vhd was successful.
+# Compile of galois_expand_2_test.vhd was successful.
+# Compile of lfsr_test.vhd was successful.
+# Compile of test_file.vhd was successful.
+# Compile of galois_add_test.vhd was successful.
+# Compile of finalcode.vhd was successful.
+# Compile of finalcode_test.vhd was successful.
+# Compile of network_encoder.vhd was successful.
+# Compile of modu.vhd was successful.
+# Compile of modutb.vhd was successful.
+# Compile of network_encoder_test.vhd was successful.
+# Compile of seven_seg.vhd was successful.
+# 19 compiles, 0 failed with no errors. 
+# Load canceled

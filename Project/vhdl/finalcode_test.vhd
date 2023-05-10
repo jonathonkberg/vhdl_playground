@@ -36,13 +36,13 @@ architecture behavior of finalcode_test is
       
       clock1 : process
       begin
-        clk1 <= '0', '1' after 25 ns; -- may need to adjust clk speed!!!
+        clk1 <= '0', '1' after 25 ns, '0' after 50 ns; -- may need to adjust clk speed!!!
         wait for 450 ns; -- see comment above!!!
       end process;
 
       clock2 : process
       begin
-        clk2 <= '0', '1' after 75 ns; -- may need to adjust clk speed!!!
+        clk2 <= '0', '1' after 75 ns, '0' after 100 ns; -- may need to adjust clk speed!!!
         wait for 450 ns; -- see comment above!!!
       end process;
 
@@ -55,15 +55,24 @@ architecture behavior of finalcode_test is
       
       reset1 : process
       begin
-        reset <= '1', '0' after 200 ns;
-        wait for 700 ns;
+        reset <= '1', '0' after 100 ns;
+        wait;
       end process;
 
       stimulus_process : process
       begin
-        wait for 1 ns;
-        packet_input <= "10101010";
-        wait for 100 ns;
+        packet_input <= "00000000";
+        wait for 450 ns;
+        packet_input <= "11111111";
+        wait for 450 ns;
+        packet_input <= "01001101";
+        wait for 450 ns;
+        packet_input <= "01110100";
+        wait for 450 ns;
+        packet_input <= "10111010";
+        wait for 450 ns;
+        packet_input <= "11001100";
+        wait for 450 ns;
       end process;
       
       

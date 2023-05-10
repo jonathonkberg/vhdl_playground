@@ -28,8 +28,8 @@ use ieee.std_logic_1164.ALL;
 entity network_encoder is
     port(
         packet_1, packet_2, packet_3, packet_4, packet_5, packet_6, packet_7, packet_8 : in std_logic_vector(7 downto 0);
-        CLK: inout std_logic;
-        coded_packet: out std_logic_vector(7 downto 0);
+        clk1, clk2, clk3, reset : in std_logic;
+        coded_packet: out std_logic_vector(7 downto 0)
         );
     end network_encoder;
 
@@ -40,151 +40,169 @@ architecture hierchical_design of network_encoder is
 
     component galois_adder is
         port(
-            add_in_1, add_in_2 : in std_logic_vector(14 downto 0);
-            add_out : out std_logic_vector(14 downto 0);
-            CLK : in std_logic;
+            input_a, input_b : in std_logic_vector(7 downto 0);
+            add_out : out std_logic_vector(7 downto 0);
+            clk : in std_logic
             );
     end component;
 
-    component galois_multiplier is
+    component finalcode is
         port(
-            packet_input, random_num_input : in std_logic_vector(14 downto 0);
-            mult_out : out std_logic_vector(14 downto 0);
-            CLK : in std_logic;
+            clk1, clk2, clk3, reset: in std_logic;
+            packet_input: in std_logic_vector(7 downto 0);
+            remin: OUT STD_LOGIC_VECTOR (7 downto 0)
         );
     end component;
 
-    signal : mult_ans_1, mult_ans_2, mult_ans_3, mult_ans_4, mult_ans_5, mult_ans_6, mult_ans_7, mult_ans_8 : std_logic(7 downto 0);
-    signal : add_out_11, add_out_12, add_out_13, add_out_14, add_out_21, add_out_22 : std_logic(7 downto 0);
+    signal mult_ans_1, mult_ans_2, mult_ans_3, mult_ans_4, mult_ans_5, mult_ans_6, mult_ans_7, mult_ans_8 : std_logic_vector(7 downto 0);
+    signal add_out_11, add_out_12, add_out_13, add_out_14, add_out_21, add_out_22 : std_logic_vector(7 downto 0);
 
     begin
 
         -- multipliers
-        mult_1 : galois_multiplier
+        mult_1 : finalcode
         port map
         (
             packet_input => packet_1,
-            random_num_input => rand_1,
-            mult_out => mult_ans_1,
-            CLK => CLK
+            remin => mult_ans_1,
+            reset => reset,
+            clk1 => clk1,
+            clk2 => clk2,
+            clk3 => clk3
         );
-        mult_2 : galois_multiplier
+        mult_2 : finalcode
         port map
         (
             packet_input => packet_2,
-            random_num_input => rand_2,
-            mult_out => mult_ans_2,
-            CLK => CLK
+            remin => mult_ans_2,
+            reset => reset,
+            clk1 => clk1,
+            clk2 => clk2,
+            clk3 => clk3
         );
-        mult_3 : galois_multiplier
+        mult_3 : finalcode
         port map
         (
             packet_input => packet_3,
-            random_num_input => rand_3,
-            mult_out => mult_ans_3,
-            CLK => CLK
+            remin => mult_ans_3,
+            reset => reset,
+            clk1 => clk1,
+            clk2 => clk2,
+            clk3 => clk3
         );
-        mult_4 : galois_multiplier
+        mult_4 : finalcode
         port map
         (
             packet_input => packet_4,
-            random_num_input => rand_4,
-            mult_out => mult_ans_4,
-            CLK => CLK
+            remin => mult_ans_4,
+            reset => reset,
+            clk1 => clk1,
+            clk2 => clk2,
+            clk3 => clk3
         );
-        mult_5 : galois_multiplier
+        mult_5 : finalcode
         port map
         (
             packet_input => packet_5,
-            random_num_input => rand_5,
-            mult_out => mult_ans_5,
-            CLK => CLK
+            remin => mult_ans_5,
+            reset => reset,
+            clk1 => clk1,
+            clk2 => clk2,
+            clk3 => clk3
         );
-        mult_6 : galois_multiplier
+        mult_6 : finalcode
         port map
         (
             packet_input => packet_6,
-            random_num_input => rand_6,
-            mult_out => mult_ans_6,
-            CLK => CLK
+            remin => mult_ans_6,
+            reset => reset,
+            clk1 => clk1,
+            clk2 => clk2,
+            clk3 => clk3
         );
-        mult_7 : galois_multiplier
+        mult_7 : finalcode
         port map
         (
             packet_input => packet_7,
-            random_num_input => rand_7,
-            mult_out => mult_ans_7,
-            CLK => CLK
+            remin => mult_ans_7,
+            reset => reset,
+            clk1 => clk1,
+            clk2 => clk2,
+            clk3 => clk3
         );
-        mult_8 : galois_multiplier
+        mult_8 : finalcode
         port map
         (
             packet_input => packet_8,
-            random_num_input => rand_8,
-            mult_out => mult_ans_8,
-            CLK => CLK
+            remin => mult_ans_8,
+            reset => reset,
+            clk1 => clk1,
+            clk2 => clk2,
+            clk3 => clk3
         );
 
         -- adders first row of pipeline
         add_11 : galois_adder
         port map
         (
-            add_in_1 => mult_ans_1,
-            add_in_2 => mult_ans_2,
+            input_a => mult_ans_1,
+            input_b => mult_ans_2,
             add_out => add_out_11,
-            CLK => CLK
+            CLK => CLK3
         );
         add_12 : galois_adder
         port map
         (
-            add_in_1 => mult_ans_3,
-            add_in_2 => mult_ans_4,
+            input_a => mult_ans_3,
+            input_b => mult_ans_4,
             add_out => add_out_12,
-            CLK => CLK
+            CLK => CLK3
         );
         add_13 : galois_adder
         port map
         (
-            add_in_1 => mult_ans_5,
-            add_in_2 => mult_ans_6,
+            input_a => mult_ans_5,
+            input_b => mult_ans_6,
             add_out => add_out_13,
-            CLK => CLK
+            CLK => CLK3
         );
         add_14 : galois_adder
         port map
         (
-            add_in_1 => mult_ans_7,
-            add_in_2 => mult_ans_8,
+            input_a => mult_ans_7,
+            input_b => mult_ans_8,
             add_out => add_out_14,
-            CLK => CLK
+            CLK => CLK3
         );
 
         -- adders row two in pipeline
         add_21 : galois_adder
         port map
         (
-            add_in_1 => mult_out_11,
-            add_in_2 => mult_out_12,
+            input_a => add_out_11,
+            input_b => add_out_12,
             add_out => add_out_21,
-            CLK => CLK
+            CLK => CLK3
         );
         add_22 : galois_adder
         port map
         (
-            add_in_1 => mult_out_13,
-            add_in_2 => mult_out_14,
+            input_a => add_out_13,
+            input_b => add_out_14,
             add_out => add_out_22,
-            CLK => CLK
+            CLK => CLK3
         );
 
         -- final adder
         add_31 : galois_adder
         port map
         (
-            add_in_1 => mult_out_21,
-            add_in_2 => mult_out_22,
+            input_a => add_out_21,
+            input_b => add_out_22,
             add_out => coded_packet,
-            CLK => CLK
+            CLK => CLK3
         );
 
 end architecture;
+
+

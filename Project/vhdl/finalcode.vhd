@@ -1,5 +1,6 @@
 library ieee;
 use ieee.std_logic_1164.ALL;
+use IEEE.NUMERIC_STD.ALL;
 
 entity finalcode is
     port(
@@ -368,6 +369,7 @@ process(reset)
           end if;
         end process;
 
+
 check1: process(mult_out,clk3)
    
     begin
@@ -431,7 +433,7 @@ variable Irp : std_logic_vector (14 downto 0):= "100011011000000" ;
 begin 
   int3 <= "000000000000000" ;
   --flg1 <= '0';
-  --if (clk3'event and clk3='1') then
+  --if (clk'event and clk='1') then
   if flg2='1' then
         for i in 14 downto shift_value2 loop
        
@@ -445,7 +447,7 @@ end process;
 XOR_irp2 :process (int3) 
       
     begin 
-  --if (clk3'event and clk3='1') and  
+  --if (clk'event and clk='1') and  
    if flg2='1' then
    for i in 14 downto 0 loop
    int4(i) <= int2(i) xor int3(i);
@@ -703,5 +705,5 @@ Reminder :process (remin_index)
 end process; 
 
 
-
  end hierchical_design;
+
