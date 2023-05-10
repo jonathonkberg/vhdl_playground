@@ -111,3 +111,58 @@ run
 run
 run
 run
+# Compile of xor_gate.vhd was successful.
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of lfsr.vhd was successful.
+# Compile of galois_adder.vhd was successful.
+# Compile of galois_expand.vhd was successful.
+# Compile of galois_expand_test.vhd was successful.
+# Compile of galois_modulo.vhd was successful.
+# Compile of multiply_test.vhd was successful.
+# Compile of galois_expand_2_test.vhd was successful.
+# Compile of lfsr_test.vhd was successful.
+# Compile of test_file.vhd was successful.
+# Compile of galois_modulo_test.vhd was successful.
+# Compile of galois_add_test.vhd was successful.
+# Compile of finalcode.vhd was successful.
+# Compile of finalcode_test.vhd was successful.
+# Compile of network_encoder.vhd failed with 1 errors.
+# 17 compiles, 1 failed with 1 error. 
+restart -f
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.galois_modulo_test(behavior)#1
+# Compile of xor_gate.vhd was successful.
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of lfsr.vhd was successful.
+# Compile of galois_adder.vhd was successful.
+# Compile of galois_expand.vhd was successful.
+# Compile of galois_expand_test.vhd was successful.
+# Compile of galois_modulo.vhd was successful.
+# Compile of multiply_test.vhd was successful.
+# Compile of galois_expand_2_test.vhd was successful.
+# Compile of lfsr_test.vhd was successful.
+# Compile of test_file.vhd was successful.
+# Compile of galois_modulo_test.vhd was successful.
+# Compile of galois_add_test.vhd was successful.
+# Compile of finalcode.vhd was successful.
+# Compile of finalcode_test.vhd was successful.
+# Compile of network_encoder.vhd failed with 1 errors.
+# 17 compiles, 1 failed with 1 error. 
+restart -f
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run

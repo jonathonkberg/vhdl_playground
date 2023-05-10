@@ -1,51 +1,64 @@
-library ieee;
-use ieee.std_logic_1164.ALL;
 
-entity galois_modulo_test is
-end galois_modulo_test;
 
-architecture behavior of galois_modulo_test is
+Library IEEE;
+use IEEE.STD_LOGIC_1164.ALL;
+--use IEEE.NUMERIC_STD.ALL;
+--component for the Unit Under Test
+
+ENTITY modutb is 
   
-  component modu
-    port(
-      a: IN STD_LOGIC_VECTOR(14 downto 0); 
-      clk: IN STD_LOGIC;
-      remin: OUT STD_LOGIC_VECTOR(7 downto 0)
-      );
-    end component;
-    
-    -- input signals
-    signal a : std_logic_vector(14 downto 0);
-    signal clk : std_logic;
-    
-    -- output signals
-    signal remin : std_logic_vector(7 downto 0);
-    
-    begin
-      
-      -- declare component instance and map ports
-      galois_modulo_instance : modu
-      port map
-      (
-        clk => clk,
-        a => a,
-        remin => remin
-      );
-      
-      clock : process
-      begin
-        clk <= '0', '1' after 25 ns; -- may need to adjust clk speed!!!
-        wait for 50 ns; -- see comment above!!!
-      end process;
-      
-      stimulus_process : process
-      begin
-        a <= "000000000000000";
-        wait for 500 ns;
-        a <= "111101100101110";       
-        wait for 500 ns;        
-      end process;
-      
-    end;
+END modutb;
+Architecture behavior of modutb is
+
+COMPONENT modu 
+PORT ( 
+a: IN STD_LOGIC_VECTOR (14 downto 0); 
+clk : IN STD_LOGIC;
+ remin: OUT STD_LOGIC_VECTOR (7 downto 0));
+END COMPONENT;
+---inputs
+signal a : STD_LOGIC_VECTOR (14 downto 0);
+signal clk : STD_LOGIC;
+
+---outputs
+signal remin : STD_LOGIC_VECTOR (7 downto 0);
+
+ 
+BEGIN
+  
+uut: modu PORT MAP ( a, clk, remin) ;
+  
+clock: process
+begin
+clk <= '0', '1' after 10 ns;
+wait for 20 ns;
+end process; 
+ 
+stim_proc: process
+begin 
+  
+ a <= "000000000000000";
+
+ wait for 100 ns;
+ a <= "001000000001100";
+
+ wait for 300 ns;
+ a <= "000010000001111";
+ 
+ wait for 300 ns;
+ a <= "100000001111000";
+
+ wait for 300 ns;
+ a <= "011010101010101";
+ 
+  wait for 300 ns;
+ a <= "111101100101110";
+
+ wait ;
+
+end process;
+
+END;
+
 
 
