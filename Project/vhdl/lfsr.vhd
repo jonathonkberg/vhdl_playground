@@ -6,8 +6,8 @@ use ieee.std_logic_1164.ALL;
 
 entity lfsr is
     port(
-        CLK, reset: in bit;
-        random_number_out : out bit_vector(7 downto 0)
+        CLK, reset: in std_logic;
+        random_number_out : out std_logic_vector(7 downto 0)
         );
     end lfsr;
 
@@ -23,32 +23,32 @@ architecture hierchical_design of lfsr is
 
 component dff is
     port(
-        D_initial, D, CLK: in bit; 
-        Q, Q_n: out bit;
-        reset : in bit
+        D_initial, D, CLK: in std_logic; 
+        Q, Q_n: out std_logic;
+        reset : in std_logic
         );
 end component;
 
 component dff_8 is
   port(
-        D : in bit_vector (7 downto 0);
-        CLK: in bit; 
-        Q, Q_n: out bit_vector (7 downto 0)
+        D : in std_logic_vector (7 downto 0);
+        CLK: in std_logic; 
+        Q, Q_n: out std_logic_vector (7 downto 0)
     );
 end component;
 
 component two_input_xor is
     port(
-        input_1, input_2 : in bit;
-        xor_out : out bit
+        input_1, input_2 : in std_logic;
+        xor_out : out std_logic
     );
 end component;
 
 
 --- SIGNALS ---
 
-signal f02, f023, feedback: bit;
-signal random_number, initial : bit_vector(7 downto 0);
+signal f02, f023, feedback: std_logic;
+signal random_number, initial : std_logic_vector(7 downto 0);
 
 
 --- ARCHITECTURE CONTENT ---

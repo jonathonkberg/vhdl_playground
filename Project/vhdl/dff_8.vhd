@@ -3,9 +3,9 @@ use ieee.std_logic_1164.ALL;
 
 entity dff_8 is
     port(
-        D : in bit_vector (7 downto 0);
-        CLK: in bit; 
-        Q, Q_n: out bit_vector (7 downto 0)
+        D : in std_logic_vector (7 downto 0);
+        CLK: in std_logic; 
+        Q, Q_n: out std_logic_vector (7 downto 0)
         );
 end dff_8;
 

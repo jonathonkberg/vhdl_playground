@@ -4,9 +4,9 @@ use ieee.std_logic_1164.ALL;
 
 entity dff is
     port(
-        D_initial, D, CLK: in bit; 
-        Q, Q_n: out bit;
-        reset : in bit
+        D_initial, D, CLK: in std_logic; 
+        Q, Q_n: out std_logic;
+        reset : in std_logic
         );
 end dff;
 

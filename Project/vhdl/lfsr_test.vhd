@@ -8,16 +8,16 @@ architecture behavior of lfsr_test is
   
   component lfsr
     port(
-      CLK, reset: in bit;
-      random_number_out : out bit_vector(7 downto 0)
+      CLK, reset: in std_logic;
+      random_number_out : out std_logic_vector(7 downto 0)
       );
     end component;
     
     -- input signals
-    signal clk, reset : bit;
+    signal clk, reset : std_logic;
     
     -- output signals
-    signal random_number_out : bit_vector(7 downto 0);
+    signal random_number_out : std_logic_vector(7 downto 0);
     
     begin
       
