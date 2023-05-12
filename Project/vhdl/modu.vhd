@@ -46,15 +46,17 @@ BEGIN
 
 
 check1: process(a,clk)
-   
+  
     begin
-      
+   
       if (clk'event and clk='1') then
     for i in 14 downto 8 loop
       if a(i) = '1' then 
         flg1 <= '1' ; 
-        Shift_value1 <= 14-i ;
+        shift_value1 <= 14-i ;
+       
         exit ;
+         
      else null  ;
      end if ; 
   end loop ;
@@ -66,15 +68,17 @@ variable Irp : std_logic_vector (14 downto 0):= "100011011000000" ;
 
 begin 
   int1 <= "000000000000000" ;
-
   if flg1='1' then
-        for i in 14 downto shift_value1 loop
-       
+  
+for i in 14 downto 0 loop
+        if i > shift_value1 then  
         int1(i-shift_value1) <= irp(i) ;
-      
+      else null;
+      end if;
   end loop ;
+  
 end if;
-end process; 
+end process;  
 
 XOR_irp1 :process (int1) 
       
@@ -110,10 +114,11 @@ begin
   --flg1 <= '0';
   --if (clk'event and clk='1') then
   if flg2='1' then
-        for i in 14 downto shift_value2 loop
-       
+        for i in 14 downto 0 loop
+        if i > shift_value2 then  
         int3(i-shift_value2) <= irp(i) ;
-      
+      else null;
+      end if;
   end loop ;
   
 end if;
@@ -153,10 +158,11 @@ begin
   int5 <= "000000000000000" ;
  -- if (clk'event and clk='1') then
     if flg3='1' then
-        for i in 14 downto shift_value3 loop
-       
+        for i in 14 downto 0 loop
+        if i > shift_value3 then  
         int5(i-shift_value3) <= irp(i) ;
-      
+      else null;
+      end if;
   end loop ;
   
 end if;
@@ -196,12 +202,13 @@ begin
   int7 <= "000000000000000" ;
   --if (clk'event and clk='1') then
      if flg4='1' then
-        for i in 14 downto shift_value4 loop
-       
+        for i in 14 downto 0 loop
+        if i > shift_value4 then  
         int7(i-shift_value4) <= irp(i) ;
-      
+      else null;
+      end if;
   end loop ;
- 
+  
 end if;
 end process; 
 
@@ -239,14 +246,15 @@ begin
   int9 <= "000000000000000" ;
   --if (clk'event and clk='1') then
      if flg5='1' then
-        for i in 14 downto shift_value5 loop
-       
+        for i in 14 downto 0 loop
+        if i > shift_value5 then  
         int9(i-shift_value5) <= irp(i) ;
-      
+      else null;
+      end if;
   end loop ;
- 
+  
 end if;
-end process; 
+end process;  
 
 XOR_irp5 :process (int9) 
       
@@ -281,10 +289,11 @@ begin
   int11 <= "000000000000000" ;
   --if (clk'event and clk='1') then
      if flg6='1' then
-        for i in 14 downto shift_value6 loop
-       
+        for i in 14 downto 0 loop
+        if i > shift_value6 then  
         int11(i-shift_value6) <= irp(i) ;
-      
+      else null;
+      end if;
   end loop ;
   
 end if;
@@ -325,10 +334,11 @@ begin
   int13 <= "000000000000000" ;
   --if (clk'event and clk='1') then
      if flg7='1' then
-        for i in 14 downto shift_value7 loop
-       
+        for i in 14 downto 0 loop
+        if i > shift_value7 then  
         int13(i-shift_value7) <= irp(i) ;
-      
+      else null;
+      end if;
   end loop ;
   
 end if;

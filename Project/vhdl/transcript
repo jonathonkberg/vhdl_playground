@@ -1,0 +1,168 @@
+vsim work.finalcode_test(behavior)
+# vsim work.finalcode_test(behavior) 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.finalcode_test(behavior)#1
+# Loading ieee.numeric_std(body)
+# Loading work.finalcode(hierchical_design)#1
+# ** Warning: (vsim-3479) Time unit 'ps' is less than the simulator resolution (1ns).
+#    Time: 0 ns  Iteration: 0  Instance: /finalcode_test/finalcode_instance
+add wave -position insertpoint sim:/finalcode_test/finalcode_instance/*
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+runr
+# invalid command name "runr"
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+add wave -position insertpoint  \
+sim:/finalcode_test/finalcode_instance/remin
+# Load canceled
+# Compile of xor_gate.vhd was successful with warnings.
+# Compile of dff.vhd was successful.
+# Compile of dff_8.vhd was successful.
+# Compile of lfsr.vhd was successful.
+# Compile of galois_adder.vhd was successful.
+# Compile of galois_expand.vhd was successful.
+# Compile of galois_expand_test.vhd was successful.
+# Compile of multiply_test.vhd was successful.
+# Compile of galois_expand_2_test.vhd was successful.
+# Compile of lfsr_test.vhd was successful.
+# Compile of test_file.vhd was successful.
+# Compile of galois_add_test.vhd was successful.
+# Compile of finalcode.vhd was successful.
+# Compile of finalcode_test.vhd was successful.
+# Compile of network_encoder.vhd was successful.
+# Compile of modu.vhd was successful.
+# Compile of modutb.vhd was successful.
+# Compile of network_encoder_test.vhd was successful.
+# Compile of seven_seg.vhd was successful.
+# 19 compiles, 0 failed with no errors. 
+# Compile of xor_gate.vhd was successful.
+# Compile of dff.vhd was successful.
+# Load canceled
+# Compile of dff_8.vhd was successful.
+# Compile of lfsr.vhd was successful.
+# Compile of galois_adder.vhd was successful.
+# Compile of galois_expand.vhd was successful.
+# Compile of galois_expand_test.vhd was successful.
+# Compile of multiply_test.vhd was successful.
+# Compile of galois_expand_2_test.vhd was successful.
+# Compile of lfsr_test.vhd was successful.
+# Compile of test_file.vhd was successful.
+# Compile of galois_add_test.vhd was successful.
+# Compile of finalcode.vhd was successful.
+# Compile of finalcode_test.vhd was successful.
+# Compile of network_encoder.vhd was successful.
+# Compile of modu.vhd was successful.
+# Compile of modutb.vhd was successful.
+# Compile of network_encoder_test.vhd was successful.
+# Compile of seven_seg.vhd was successful.
+# 19 compiles, 0 failed with no errors. 
+vsim work.finalcode_test(behavior)
+# vsim work.finalcode_test(behavior) 
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.finalcode_test(behavior)#1
+# Loading ieee.numeric_std(body)
+# Loading work.finalcode(hierchical_design)#1
+# ** Warning: (vsim-3479) Time unit 'ps' is less than the simulator resolution (1ns).
+#    Time: 0 ns  Iteration: 0  Instance: /finalcode_test/finalcode_instance
+add wave -position insertpoint sim:/finalcode_test/finalcode_instance/*
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+runr
+# invalid command name "runr"
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+runj
+# invalid command name "runj"
+run
+run
+run
+run
+quit -sim

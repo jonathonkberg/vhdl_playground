@@ -27,7 +27,7 @@ architecture behavior of finalcode_test is
       port map
       (
         clk1 => clk1,
-        clk2 => clk2,
+        clk2 => clk3,
         clk3 => clk3,
         packet_input => packet_input, 
         remin => remin,
